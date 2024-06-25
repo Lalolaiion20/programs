@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>075090605151 - REAL DE LOS MEZQUITES 2.kmz</name>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.681818</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>075090605151 - REAL DE LOS MEZQUITES 2</name>
+		<Placemark>
+			<name>01</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8657570890138</longitude>
+				<latitude>20.5468380461283</latitude>
+				<altitude>0</altitude>
+				<heading>7.418087985051413</heading>
+				<tilt>9.405636931819387</tilt>
+				<range>173.76016066035</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8655967251331,20.54668918560374,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>02</name>
+			<open>1</open>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8657570890138</longitude>
+				<latitude>20.5468380461283</latitude>
+				<altitude>0</altitude>
+				<heading>7.418087985051413</heading>
+				<tilt>9.405636931819387</tilt>
+				<range>173.76016066035</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8655571039304,20.54673354934692,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>03</name>
+			<open>1</open>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8657570890138</longitude>
+				<latitude>20.5468380461283</latitude>
+				<altitude>0</altitude>
+				<heading>7.418087985051413</heading>
+				<tilt>9.405636931819387</tilt>
+				<range>173.76016066035</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.86590884373,20.54689921986586,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>04</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8657570890138</longitude>
+				<latitude>20.5468380461283</latitude>
+				<altitude>0</altitude>
+				<heading>7.418087985051413</heading>
+				<tilt>9.405636931819387</tilt>
+				<range>173.76016066035</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8659303550306,20.54684660176189,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8657570890138</longitude>
+				<latitude>20.5468380461283</latitude>
+				<altitude>0</altitude>
+				<heading>7.418087985051413</heading>
+				<tilt>9.405636931819387</tilt>
+				<range>173.76016066035</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8663016132854,20.54700539105256,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>06</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8657570890138</longitude>
+				<latitude>20.5468380461283</latitude>
+				<altitude>0</altitude>
+				<heading>7.418087985051413</heading>
+				<tilt>9.405636931819387</tilt>
+				<range>173.76016066035</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8662712668985,20.54705083459588,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>07</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8661092603946</longitude>
+				<latitude>20.54700420682211</latitude>
+				<altitude>0</altitude>
+				<heading>7.417964382882827</heading>
+				<tilt>9.405636931819348</tilt>
+				<range>173.7601606603199</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8666248133056,20.54715459388125,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>08</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<longitude>-100.8666127547622</longitude>
+				<latitude>20.54719930083929</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02880169675294712</heading>
+				<tilt>0</tilt>
+				<range>0.1</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8666127547622,20.54719930083929,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>09</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8662958933229</longitude>
+				<latitude>20.5473830774922</latitude>
+				<altitude>0</altitude>
+				<heading>7.417898881641916</heading>
+				<tilt>9.405636931819387</tilt>
+				<range>173.7601606583138</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8668115605667,20.54747170532848,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8662958933229</longitude>
+				<latitude>20.5473830774922</latitude>
+				<altitude>0</altitude>
+				<heading>7.417898881641916</heading>
+				<tilt>9.405636931819387</tilt>
+				<range>173.7601606583138</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8668587225759,20.54747865446737,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8661531256387</longitude>
+				<latitude>20.5477289741964</latitude>
+				<altitude>0</altitude>
+				<heading>7.417948993302781</heading>
+				<tilt>9.405636931819309</tilt>
+				<range>173.7601606583064</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8666168025449,20.54789380785465,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8661531256387</longitude>
+				<latitude>20.5477289741964</latitude>
+				<altitude>0</altitude>
+				<heading>7.417948993302781</heading>
+				<tilt>9.405636931819309</tilt>
+				<range>173.7601606583064</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8665768715882,20.54787305481936,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8659062786054</longitude>
+				<latitude>20.54805187580827</latitude>
+				<altitude>0</altitude>
+				<heading>7.418035636790454</heading>
+				<tilt>9.405636931819272</tilt>
+				<range>173.760160660491</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.866440504136,20.5481439691026,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8659062786054</longitude>
+				<latitude>20.54805187580827</latitude>
+				<altitude>0</altitude>
+				<heading>7.418035636790454</heading>
+				<tilt>9.405636931819272</tilt>
+				<range>173.760160660491</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8663912718131,20.54811754955729,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8658211775096</longitude>
+				<latitude>20.54826678019832</latitude>
+				<altitude>0</altitude>
+				<heading>7.418065508071882</heading>
+				<tilt>9.405636931819348</tilt>
+				<range>173.760160659643</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8662007760043,20.54851405941768,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8658211775096</longitude>
+				<latitude>20.54826678019832</latitude>
+				<altitude>0</altitude>
+				<heading>7.418065508071882</heading>
+				<tilt>9.405636931819348</tilt>
+				<range>173.760160659643</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8661511160591,20.54848560397765,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>17</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8655804985982</longitude>
+				<latitude>20.5487459501971</latitude>
+				<altitude>0</altitude>
+				<heading>7.418149989797453</heading>
+				<tilt>9.405636931819387</tilt>
+				<range>173.7601606599023</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8659469978701,20.54880318621846,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>18</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8655804985982</longitude>
+				<latitude>20.5487459501971</latitude>
+				<altitude>0</altitude>
+				<heading>7.418149989797453</heading>
+				<tilt>9.405636931819387</tilt>
+				<range>173.7601606599023</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8659955519197,20.5488211187387,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8654746512206</longitude>
+				<latitude>20.54902337206314</latitude>
+				<altitude>0</altitude>
+				<heading>7.418187144124701</heading>
+				<tilt>9.405636931819348</tilt>
+				<range>173.7601606601523</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8657525182823,20.54912048507766,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8654746512206</longitude>
+				<latitude>20.54902337206314</latitude>
+				<altitude>0</altitude>
+				<heading>7.418187144124701</heading>
+				<tilt>9.405636931819348</tilt>
+				<range>173.7601606601523</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.865797715714,20.54913570416001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>21</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8653569530431</longitude>
+				<latitude>20.54936616719178</latitude>
+				<altitude>0</altitude>
+				<heading>7.418228459631451</heading>
+				<tilt>9.405636931819387</tilt>
+				<range>173.7601606612664</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8655076648801,20.54948798022672,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>22</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8653569530431</longitude>
+				<latitude>20.54936616719178</latitude>
+				<altitude>0</altitude>
+				<heading>7.418228459631451</heading>
+				<tilt>9.405636931819387</tilt>
+				<range>173.7601606612664</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8655554317881,20.54950359311135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>23</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8648324925251</longitude>
+				<latitude>20.54986578114565</latitude>
+				<altitude>0</altitude>
+				<heading>7.416229241001669</heading>
+				<tilt>16.37111222871244</tilt>
+				<range>254.2914400481595</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8652992325216,20.54979584316338,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>24</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8648324925251</longitude>
+				<latitude>20.54986578114565</latitude>
+				<altitude>0</altitude>
+				<heading>7.416229241001669</heading>
+				<tilt>16.37111222871244</tilt>
+				<range>254.2914400481595</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8653498829589,20.54981775818266,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>25</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8648616880119</longitude>
+				<latitude>20.54990695615546</latitude>
+				<altitude>0</altitude>
+				<heading>7.41594557505729</heading>
+				<tilt>18.04794802652733</tilt>
+				<range>213.0028020249618</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8650846567893,20.55008620495001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>26</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8648616880119</longitude>
+				<latitude>20.54990695615546</latitude>
+				<altitude>0</altitude>
+				<heading>7.41594557505729</heading>
+				<tilt>18.04794802652733</tilt>
+				<range>213.0028020249618</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8651402774358,20.55011543096689,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>27</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8644226067974</longitude>
+				<latitude>20.55028752316954</latitude>
+				<altitude>0</altitude>
+				<heading>7.416006460884678</heading>
+				<tilt>18.70830684475851</tilt>
+				<range>182.6431719646726</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8649170597014,20.55035498343796,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>28</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8644226067974</longitude>
+				<latitude>20.55028752316954</latitude>
+				<altitude>0</altitude>
+				<heading>7.416006460884678</heading>
+				<tilt>18.70830684475851</tilt>
+				<range>182.6431719646726</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8649843267532,20.5503856191853,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>29</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8641897737657</longitude>
+				<latitude>20.5506963295686</latitude>
+				<altitude>0</altitude>
+				<heading>7.416088196473324</heading>
+				<tilt>18.70830684475849</tilt>
+				<range>182.6431719638886</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8646911585225,20.55072162390481,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>30</name>
+			<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Real de los Mezquites<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8641897737657</longitude>
+				<latitude>20.5506963295686</latitude>
+				<altitude>0</altitude>
+				<heading>7.416088196473324</heading>
+				<tilt>18.70830684475849</tilt>
+				<range>182.6431719638886</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8647439343619,20.55073841490142,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

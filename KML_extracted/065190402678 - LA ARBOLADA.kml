@@ -1,0 +1,1213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>065190402678 - LA ARBOLADA.kmz</name>
+	<StyleMap id="msn_open-diamond">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_triangle021">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_triangle5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_triangle00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_open-diamond">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_triangle00">
+		<IconStyle>
+			<scale>0.933333</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_open-diamond">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_triangle5">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>065190402678 - LA ARBOLADA</name>
+		<Folder>
+			<name>Faroles</name>
+			<Placemark>
+				<name>01</name>
+				<description>Farol ATP A.M. 100W Libra</description>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>4</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>5532842a-1312-4c1c-ab77-e46f14708501</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.55562718</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.82842736</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521522</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521521</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.82843067,20.55562515,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>02</name>
+				<description>Farol ATP A.M. 100W Libra</description>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>7</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>064d8bfc-4400-4c3f-a125-0a872a8363cb</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.55586081</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.82842601</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521550</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521549</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.82842941,20.55584645,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>03</name>
+				<description>Farol ATP A.M. 100W Libra</description>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>8</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>89c1f067-4d66-43ed-aafe-dd80b25bb966</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.55599004</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.82843239</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521565</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521565</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.82843377,20.55598688,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>04</name>
+				<description>Farol ATP A.M. 100W Libra</description>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>9</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>14873c16-9186-4b1b-bc48-1f60eca435fb</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5562772</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.8284616</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521587</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521587</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.82846132,20.55617617,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05</name>
+				<description>Farol ATP A.M. 100W Libra</description>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>12</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>7f9933dc-cd89-4978-97be-daa9e5ef3c46</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5559506</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.8287027</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521618</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521618</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.82854695,20.55620451,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06</name>
+				<description>Farol ATP A.M. 100W Libra</description>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>13</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>5acc086b-e0aa-4b8a-a5ea-ff6fa3a91ab8</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.55619546</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.82873553</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521654</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521653</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.82873543,20.55619556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07</name>
+				<description>Farol ATP A.M. 100W Libra</description>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>14</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>597f52b8-7fd5-4186-af4f-d2b245891776</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.55612702</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.82879989</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521672</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521671</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8288143947721,20.55609472997785,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Viales</name>
+			<Placemark>
+				<name>08</name>
+				<description>Luminaria Vial ATP A.M. 100W Enur </description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>1</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>03eadcb4-3123-4a69-bee6-88143bb3c0d0</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.55560559</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.82846942</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521494</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521494</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8284392207861,20.55546467374097,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<description>Luminaria Vial ATP A.M. 100W Enur </description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>16</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>0ee4f187-af9a-4898-a6a2-ac1468a6c4a4</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.55607644</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.82878189</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521689</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521689</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8291620761156,20.5559964702574,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<description>Luminaria Vial ATP A.M. 100W Enur </description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>15</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>7740682c-4357-40bb-aa18-9fa6a0b49967</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5560742</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.82877467</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521684</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521684</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8288784325123,20.55600808562702,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<description>Luminaria Vial ATP A.M. 100W Enur </description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>11</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>cbf71b80-8bb1-4f84-b9ee-852ac0e9a04b</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.55613669</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.82851818</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521597</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521596</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8285998180508,20.55606773210569,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<description>Luminaria Vial ATP A.M. 100W Enur </description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>10</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>af9c16c6-5967-4dde-ae53-f5a058de6b24</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5559894</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.828803</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521593</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521593</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8285773545504,20.55602754921735,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<description>Luminaria Vial ATP A.M. 100W Enur </description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>5</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>c9980335-87cb-4a52-bb56-74db5bf9210a</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.55569169</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.82844324</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521530</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521529</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8285649493337,20.55581187994078,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<description>Luminaria Vial ATP A.M. 100W Enur </description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>6</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>b000b5f6-5574-4b39-8e3a-9f0f41da62fe</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.55571871</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.82844642</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521533</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521532</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8285263925791,20.55581093815288,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<description>Luminaria Vial ATP A.M. 100W Enur </description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>3</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>62f75d13-045a-4045-a7ef-5c17db4b055d</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.55559653</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.82847273</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521511</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521510</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8285491913557,20.55558773425648,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09</name>
+				<description>Luminaria Vial ATP A.M. 100W Enur </description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>25</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>35462cb9-6fc5-4a9d-96f2-e109eda0299a</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.55551361</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.82802407</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656523134</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656523134</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8285230398178,20.55558271138024,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>25</name>
+				<description>Luminaria Vial ATP A.M. 100W Enur </description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>2</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>8fd8f140-e1c5-43d9-8bf9-8d2b05c8c3ec</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.55559282</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.82847235</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521507</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521506</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8286025002599,20.55547942845086,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>24</name>
+				<description>Luminaria Vial ATP A.M. 100W Enur </description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>18</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>c6a042e7-2c6c-4b7d-9200-e9e8574522f8</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.55559029</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.82854815</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521868</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521867</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8288955315948,20.55548099810076,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23</name>
+				<description>Luminaria Vial ATP A.M. 100W Enur </description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>19</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>e36b1b7b-55e3-4971-8887-0824a22fb607</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.55558242</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.828545</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521873</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521872</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8291919156909,20.55547566129102,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>22</name>
+				<description>Luminaria Vial ATP A.M. 100W Enur </description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>20</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>f76b37a9-2292-4170-83f9-5f498128c70a</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.55558064</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.82854623</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521876</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521875</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8294735476375,20.55547848666091,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21</name>
+				<description>Luminaria Vial ATP A.M. 100W Enur </description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>21</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>9c806849-8288-4286-9e19-9cc22c7df268</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.55558032</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.8285465</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521879</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521878</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8295848593116,20.55540094593505,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20</name>
+				<description>Luminaria Vial ATP A.M. 100W Enur </description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>22</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>a3b1e6c0-587d-40f9-b75b-9cbc18a068b5</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.55558006</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.82854703</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521882</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521881</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8295801654458,20.55558114173137,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19</name>
+				<description>Luminaria Vial ATP A.M. 100W Enur </description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>23</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>77d40954-faf6-4f8d-8d11-dd1da224e6bd</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5555799</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.82854729</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521885</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521884</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8295711129904,20.55576008159756,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18</name>
+				<description>Luminaria Vial ATP A.M. 100W Enur </description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>24</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>7ae2f63e-05bf-41d9-be9d-9ea5e6d297b4</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.55558637</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.82855178</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521889</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521889</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8295536786318,20.55599238918138,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17</name>
+				<description>Luminaria Vial ATP A.M. 100W Enur </description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>17</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>efd642fa-84f9-4d45-825f-b4f7aeecb16c</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5559623</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.8287328</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1656521700</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1656521699</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8294423669577,20.55595911271132,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Controles</name>
+			<Placemark>
+				<LookAt>
+					<longitude>-100.8287155273469</longitude>
+					<latitude>20.55558665557429</latitude>
+					<altitude>0</altitude>
+					<heading>-2.874939619559734</heading>
+					<tilt>16.61203949666694</tilt>
+					<range>68.00560616449711</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_triangle021</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.8285353255447,20.55557088527884,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

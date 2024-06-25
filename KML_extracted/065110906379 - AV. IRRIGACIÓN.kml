@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>065110906379 - AV. IRRIGACIÓN.kmz</name>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<color>ffff5500</color>
+			<scale>0.681817</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_shaded_dot0">
+		<IconStyle>
+			<color>ffff5500</color>
+			<scale>0.681817</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_shaded_dot1">
+		<IconStyle>
+			<color>ffff5500</color>
+			<scale>0.681817</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ffff5500</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot0">
+		<IconStyle>
+			<color>ffff5500</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot1">
+		<IconStyle>
+			<color>ffff5500</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>065110906379 - AV. IRRIGACIÓN</name>
+		<Placemark>
+			<name>01</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7865780704367</longitude>
+				<latitude>20.53631500759463</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710832062132772</heading>
+				<tilt>14.93842743035885</tilt>
+				<range>219.832241581954</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot1</styleUrl>
+			<Point>
+				<coordinates>-100.7871338538076,20.53650018290464,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>02</name>
+			<description>LED CONSTRULITA 50W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7865780704367</longitude>
+				<latitude>20.53631500759463</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710832062132772</heading>
+				<tilt>14.93842743035885</tilt>
+				<range>219.832241581954</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot0</styleUrl>
+			<Point>
+				<coordinates>-100.7871428983548,20.53638002191355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>03</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7865780704367</longitude>
+				<latitude>20.53631500759463</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710832062132772</heading>
+				<tilt>14.93842743035885</tilt>
+				<range>219.832241581954</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7871473881994,20.53632809278761,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>04</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7865780704367</longitude>
+				<latitude>20.53631500759463</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710832062132772</heading>
+				<tilt>14.93842743035885</tilt>
+				<range>219.832241581954</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7868026093967,20.53650856878772,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7865780704367</longitude>
+				<latitude>20.53631500759463</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710832062132772</heading>
+				<tilt>14.93842743035885</tilt>
+				<range>219.832241581954</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7868077728129,20.53645353596574,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>06</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7865780704367</longitude>
+				<latitude>20.53631500759463</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710832062132772</heading>
+				<tilt>14.93842743035885</tilt>
+				<range>219.832241581954</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7868202437002,20.53633656839752,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>07</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7865780704367</longitude>
+				<latitude>20.53631500759463</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710832062132772</heading>
+				<tilt>14.93842743035885</tilt>
+				<range>219.832241581954</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7864274176136,20.53651105133882,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>08</name>
+			<description>LED CONSTRULITA 50W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7865780704367</longitude>
+				<latitude>20.53631500759463</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710832062132772</heading>
+				<tilt>14.93842743035885</tilt>
+				<range>219.832241581954</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot0</styleUrl>
+			<Point>
+				<coordinates>-100.7864335891484,20.53640537363624,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>09</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7865780704367</longitude>
+				<latitude>20.53631500759463</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710832062132772</heading>
+				<tilt>14.93842743035885</tilt>
+				<range>219.832241581954</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7864319725441,20.53635379670324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7862064989663</longitude>
+				<latitude>20.53636141640072</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710701715749825</heading>
+				<tilt>14.93842743035882</tilt>
+				<range>219.8322415795762</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.786060460144,20.53645185123014,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7862064989663</longitude>
+				<latitude>20.53636141640072</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710701715749825</heading>
+				<tilt>14.93842743035882</tilt>
+				<range>219.8322415795762</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7860284896634,20.5364228046144,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7862064989663</longitude>
+				<latitude>20.53636141640072</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710701715749825</heading>
+				<tilt>14.93842743035882</tilt>
+				<range>219.8322415795762</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7860583857189,20.53638523453158,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7862064989663</longitude>
+				<latitude>20.53636141640072</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710701715749825</heading>
+				<tilt>14.93842743035882</tilt>
+				<range>219.8322415795762</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7858035778509,20.53642975044755,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7862064989663</longitude>
+				<latitude>20.53636141640072</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710701715749825</heading>
+				<tilt>14.93842743035882</tilt>
+				<range>219.8322415795762</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.785834511566,20.53638916008027,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7862064989663</longitude>
+				<latitude>20.53636141640072</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710701715749825</heading>
+				<tilt>14.93842743035882</tilt>
+				<range>219.8322415795762</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7857991092673,20.53636083334222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.785313130391</longitude>
+				<latitude>20.53622056971874</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710388323343552</heading>
+				<tilt>14.9384274303588</tilt>
+				<range>219.8322415812311</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.78550889678,20.53647578679893,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>17</name>
+			<description>LED CONSTRULITA 50W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.785313130391</longitude>
+				<latitude>20.53622056971874</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710388323343552</heading>
+				<tilt>14.9384274303588</tilt>
+				<range>219.8322415812311</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot0</styleUrl>
+			<Point>
+				<coordinates>-100.7854983647117,20.53641903109024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>18</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.785313130391</longitude>
+				<latitude>20.53622056971874</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710388323343552</heading>
+				<tilt>14.9384274303588</tilt>
+				<range>219.8322415812311</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7854948046399,20.5363271712689,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.785313130391</longitude>
+				<latitude>20.53622056971874</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710388323343552</heading>
+				<tilt>14.9384274303588</tilt>
+				<range>219.8322415812311</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7851927543692,20.53647064609006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20</name>
+			<description>LED CONSTRULITA 50W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7848519507039</longitude>
+				<latitude>20.53616145698252</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710226541063707</heading>
+				<tilt>14.93842743035882</tilt>
+				<range>219.8322415803139</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot0</styleUrl>
+			<Point>
+				<coordinates>-100.7851898227205,20.53641357377462,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>21</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7848519507039</longitude>
+				<latitude>20.53616145698252</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710226541063707</heading>
+				<tilt>14.93842743035882</tilt>
+				<range>219.8322415803139</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7851956118197,20.53632145535553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>22</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7848519507039</longitude>
+				<latitude>20.53616145698252</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710226541063707</heading>
+				<tilt>14.93842743035882</tilt>
+				<range>219.8322415803139</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7849020824503,20.53649910653992,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>23</name>
+			<description>LED CONSTRULITA 50W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7848519507039</longitude>
+				<latitude>20.53616145698252</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710226541063707</heading>
+				<tilt>14.93842743035882</tilt>
+				<range>219.8322415803139</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot0</styleUrl>
+			<Point>
+				<coordinates>-100.7848902361733,20.53636959524982,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>24</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7848519507039</longitude>
+				<latitude>20.53616145698252</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710226541063707</heading>
+				<tilt>14.93842743035882</tilt>
+				<range>219.8322415803139</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7848840462821,20.53631342141773,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>25</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7843922506155</longitude>
+				<latitude>20.53644208172213</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710804354718623</heading>
+				<tilt>25.53146361467491</tilt>
+				<range>117.1144912373677</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7846029995659,20.53649622561722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>26</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7843922506155</longitude>
+				<latitude>20.53644208172213</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710804354718623</heading>
+				<tilt>25.53146361467491</tilt>
+				<range>117.1144912373677</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7846038539761,20.53645292098749,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>27</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7843922506155</longitude>
+				<latitude>20.53644208172213</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710804354718623</heading>
+				<tilt>25.53146361467491</tilt>
+				<range>117.1144912373677</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7845970458915,20.53632802621203,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>28</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7843922506155</longitude>
+				<latitude>20.53644208172213</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710804354718623</heading>
+				<tilt>25.53146361467491</tilt>
+				<range>117.1144912373677</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7843121336425,20.53648686394058,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>29</name>
+			<description>LED CONSTRULITA 50W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7843922506155</longitude>
+				<latitude>20.53644208172213</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710804354718623</heading>
+				<tilt>25.53146361467491</tilt>
+				<range>117.1144912373677</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot0</styleUrl>
+			<Point>
+				<coordinates>-100.7843065008297,20.53634404454384,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>30</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7843922506155</longitude>
+				<latitude>20.53644208172213</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710804354718623</heading>
+				<tilt>25.53146361467491</tilt>
+				<range>117.1144912373677</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7843013910716,20.53631638657806,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>31</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.784053647681</longitude>
+				<latitude>20.53646430652122</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710685572146765</heading>
+				<tilt>25.53146361467491</tilt>
+				<range>117.1144912361214</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7840194079997,20.53648344953142,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>32</name>
+			<description>LED CONSTRULITA 50W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.784053647681</longitude>
+				<latitude>20.53646430652122</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710685572146765</heading>
+				<tilt>25.53146361467491</tilt>
+				<range>117.1144912361214</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot0</styleUrl>
+			<Point>
+				<coordinates>-100.7840138935721,20.53644365759974,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>33</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.784053647681</longitude>
+				<latitude>20.53646430652122</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710685572146765</heading>
+				<tilt>25.53146361467491</tilt>
+				<range>117.1144912361214</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7840136623646,20.53632493128298,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>34</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.783678677347</longitude>
+				<latitude>20.53648900696103</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710554031633202</heading>
+				<tilt>25.53146361467491</tilt>
+				<range>117.114491236488</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7837190991664,20.53648423037879,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>35</name>
+			<description>LED CONSTRULITA 50W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.783678677347</longitude>
+				<latitude>20.53648900696103</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710554031633202</heading>
+				<tilt>25.53146361467491</tilt>
+				<range>117.114491236488</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot0</styleUrl>
+			<Point>
+				<coordinates>-100.7836988460418,20.53635685769731,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>36</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.783678677347</longitude>
+				<latitude>20.53648900696103</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710554031633202</heading>
+				<tilt>25.53146361467491</tilt>
+				<range>117.114491236488</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7836894200598,20.5363159878053,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>37</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7832252774434</longitude>
+				<latitude>20.53649329670066</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710394977438843</heading>
+				<tilt>25.53146361467489</tilt>
+				<range>117.1144912355984</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7834231475411,20.53648836865529,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>38</name>
+			<description>LED CONSTRULITA 50W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7832252774434</longitude>
+				<latitude>20.53649329670066</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710394977438843</heading>
+				<tilt>25.53146361467489</tilt>
+				<range>117.1144912355984</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot0</styleUrl>
+			<Point>
+				<coordinates>-100.7834159546607,20.53644001236935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>39</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7832598883358</longitude>
+				<latitude>20.53633732628365</latitude>
+				<altitude>0</altitude>
+				<heading>-2.707393244271427</heading>
+				<tilt>9.567751551701917</tilt>
+				<range>209.3683299219147</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7834098641227,20.53632439218354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>40</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7825352554976</longitude>
+				<latitude>20.53621684097467</latitude>
+				<altitude>0</altitude>
+				<heading>-2.707139044178932</heading>
+				<tilt>9.567751551701994</tilt>
+				<range>209.3683299248963</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7831186248589,20.53648831016847,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>41</name>
+			<description>LED CONSTRULITA 50W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7825352554976</longitude>
+				<latitude>20.53621684097467</latitude>
+				<altitude>0</altitude>
+				<heading>-2.707139044178932</heading>
+				<tilt>9.567751551701994</tilt>
+				<range>209.3683299248963</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot0</styleUrl>
+			<Point>
+				<coordinates>-100.783070170619,20.5363624695925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>42</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7825352554976</longitude>
+				<latitude>20.53621684097467</latitude>
+				<altitude>0</altitude>
+				<heading>-2.707139044178932</heading>
+				<tilt>9.567751551701994</tilt>
+				<range>209.3683299248963</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7830715518611,20.53631513558586,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>43</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7825352554976</longitude>
+				<latitude>20.53621684097467</latitude>
+				<altitude>0</altitude>
+				<heading>-2.707139044178932</heading>
+				<tilt>9.567751551701994</tilt>
+				<range>209.3683299248963</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7828370377508,20.53648025041939,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>44</name>
+			<description>LED CONSTRULITA 50W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7825352554976</longitude>
+				<latitude>20.53621684097467</latitude>
+				<altitude>0</altitude>
+				<heading>-2.707139044178932</heading>
+				<tilt>9.567751551701994</tilt>
+				<range>209.3683299248963</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot0</styleUrl>
+			<Point>
+				<coordinates>-100.7827818693422,20.53636232869597,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>45</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7825352554976</longitude>
+				<latitude>20.53621684097467</latitude>
+				<altitude>0</altitude>
+				<heading>-2.707139044178932</heading>
+				<tilt>9.567751551701994</tilt>
+				<range>209.3683299248963</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7827840246947,20.53630937548206,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>46</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7825352554976</longitude>
+				<latitude>20.53621684097467</latitude>
+				<altitude>0</altitude>
+				<heading>-2.707139044178932</heading>
+				<tilt>9.567751551701994</tilt>
+				<range>209.3683299248963</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7825312254139,20.53647918183912,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>47</name>
+			<description>LED CONSTRULITA 50W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7824183071801</longitude>
+				<latitude>20.53649021276699</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710111891151698</heading>
+				<tilt>25.53146361467485</tilt>
+				<range>117.1144912340397</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot0</styleUrl>
+			<Point>
+				<coordinates>-100.7825355551002,20.53642303559726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>48</name>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7824183071801</longitude>
+				<latitude>20.53649021276699</latitude>
+				<altitude>0</altitude>
+				<heading>-2.710111891151698</heading>
+				<tilt>25.53146361467485</tilt>
+				<range>117.1144912340397</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7825259893265,20.53631363273737,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

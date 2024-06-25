@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>075210404155 - CAMINO REAL T4.kmz</name>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>075210404155 - CAMINO REAL T4</name>
+		<Placemark>
+			<name>01</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>1</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>cfc98a54-677c-4605-8de4-de2e83059e23</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54074019</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88790994</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015780</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015779</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8879222348332,20.54077800816333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>02</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>2</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>faaf0c66-7a48-4976-9fa4-401019ebac51</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54073822</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88790944</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015783</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015782</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8879024535418,20.54072118136057,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>03</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>3</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>79ab663d-61e3-43be-98c5-c9ef87f0a3d5</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54078709</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88763153</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015826</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015825</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8876721188426,20.54084959106713,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>04</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>4</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>61834441-9275-444d-96ee-79df438f9c9b</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54079097</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88762654</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015829</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015828</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8876540139318,20.54078836884884,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>5</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>c7f3eba3-d7e5-4f19-b4df-32ef470b079c</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.5408466</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.8869744</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015843</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015843</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8874283730984,20.5409192901781,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>06</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>6</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>6a47e722-2530-4a5c-a997-7c4dd12ee1cf</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54086211</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.8873203</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015846</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015846</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8874109387398,20.54086811470783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>07</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>7</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>d86d5215-18d1-4eee-bc36-b76c4ee898b4</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54095355</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88711664</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015861</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015861</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8871440589428,20.54101222227667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>08</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>8</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>b2d3b5a4-a83d-47c2-9646-b55dc910a0f0</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54094862</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.8871056</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015864</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015864</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8871272951365,20.54094063944899,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>09</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>9</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>f786e26e-c243-44ab-8b06-906c6a6aefde</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54104372</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88684055</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015875</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015875</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.886893607676,20.54109259593797,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>10</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>8b199a8d-1d79-4186-8da5-3370e4d88313</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54105596</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88684851</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015879</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015878</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8868731558323,20.54105397891066,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>11</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>c69f9095-3d9a-450f-8136-c706fe78b202</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54105164</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88681802</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015883</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015883</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.886621363461,20.54118427209383,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>12</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>cce8dfc0-2e38-47f9-8a4c-4c3bfb05a9eb</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54106369</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88674283</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015886</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015885</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8866066113114,20.54114094569825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>13</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>198e75a3-861e-4df1-946b-6fe5115be5cd</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54110842</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88659714</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015891</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015891</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8863538131118,20.54127092484815,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>14</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>f9ae880b-87a4-4670-b800-a4b6eeedbd9a</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54112084</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88658798</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015894</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015893</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8863320201635,20.54123293578436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>15</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>772f2666-2496-4a32-8936-149e22b68006</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.541165</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88643162</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015904</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015904</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8861305192113,20.54114691092736,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>16</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>ec4f72a7-b9a5-446f-b5e7-b5b78dfbd686</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54119922</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88632293</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015910</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015910</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8858515694738,20.5412213192919,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>17</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>17</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>a981ef28-6b55-4794-a7a5-c767b2fb3dad</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54120726</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88632844</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015916</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015916</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.886256583035,20.54144925355036,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>18</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>18</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>529c0578-8607-46da-a6f3-b2f4a6debbc9</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.541209</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88633047</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015920</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015919</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8860024437308,20.54157609285281,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>19</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>0ba6f4a2-6d73-4127-b19d-4af704122a8e</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54133148</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88586732</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015943</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015942</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8857779073293,20.54148331289435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>20</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>4f2c14b6-92b0-4066-a749-7a3d4d32b450</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.5417875</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.8861628</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015947</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015947</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8857516571879,20.54143292769189,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>21</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>21</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>3d75a8cf-191d-4f3e-9a17-f0a79399e6da</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54145483</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88569459</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015952</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015952</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8854940600442,20.54157832719948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>22</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>22</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>3b7d4adb-e613-44d8-a2cf-48394fb96df6</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54149047</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88557875</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015955</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015954</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8854790776968,20.54153088281647,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>23</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>23</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>c86c2921-f2c4-4210-b1b7-b81676dace9e</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54155691</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88538013</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015964</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015964</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8852333367,20.54166687287977,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>24</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>24</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>0a4a5d02-c7d1-45b4-a7ef-a41256fa1407</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54160267</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88525264</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015968</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015967</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8852185190772,20.5416165798421,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>25</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>25</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>9423f025-472c-4934-b26e-e922db7f2545</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54168268</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88502009</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015977</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015976</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8849325827068,20.5417675713803,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>26</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>26</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>0da074cb-52cc-416e-a504-1d1bf92197f1</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54172183</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88491932</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015981</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015980</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8849180995536,20.54171960704808,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>27</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>27</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>12bf9efa-f27d-4682-96ad-5ac9a402d211</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54177405</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88476489</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015988</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015987</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8846234585463,20.54187169417759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>28</name>
+			<description>Led Roadfocus 54W</description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>28</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>1204ffb4-5913-4a7d-8589-110e71b5cdbf</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.54180495</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.88464611</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1694015991</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1694015990</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8846050049963,20.54183134228837,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

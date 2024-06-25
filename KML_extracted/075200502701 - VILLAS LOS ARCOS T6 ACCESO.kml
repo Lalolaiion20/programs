@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>075200502701 - VILLAS LOS ARCOS T6 ACCESO.kmz</name>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.681818</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>075200502701 - VILLAS LOS ARCOS T6 ACCESO</name>
+		<Folder>
+			<name>Led Vial 70W</name>
+			<Placemark>
+				<name>01</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8204852572402</longitude>
+					<latitude>20.49399099335611</latitude>
+					<altitude>236.7848602568401</altitude>
+					<heading>2.382251922913006</heading>
+					<tilt>1.054419588091352</tilt>
+					<roll>-0.680316387785784</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8206008474693,20.49459806359845,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>02</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8205609303642</longitude>
+					<latitude>20.49405491346423</latitude>
+					<altitude>0</altitude>
+					<heading>3.003082791385418</heading>
+					<tilt>11.91163095919644</tilt>
+					<range>154.5179957885063</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8206578379107,20.49431297656244,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>03</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8205609303642</longitude>
+					<latitude>20.49405491346423</latitude>
+					<altitude>0</altitude>
+					<heading>3.003082791385418</heading>
+					<tilt>11.91163095919644</tilt>
+					<range>154.5179957885063</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8207115073865,20.49407184363397,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>04</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8205609303642</longitude>
+					<latitude>20.49405491346423</latitude>
+					<altitude>0</altitude>
+					<heading>3.003082791385418</heading>
+					<tilt>11.91163095919644</tilt>
+					<range>154.5179957885063</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8207621931914,20.49382438483605,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8206265118532</longitude>
+					<latitude>20.49368392442213</latitude>
+					<altitude>0</altitude>
+					<heading>3.003059829461465</heading>
+					<tilt>11.91163095919644</tilt>
+					<range>154.5179957896605</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8208223030775,20.49356779496568,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.820692910681</longitude>
+					<latitude>20.49337284008263</latitude>
+					<altitude>0</altitude>
+					<heading>3.003036581624397</heading>
+					<tilt>11.91163095919644</tilt>
+					<range>154.5179957902175</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8208858311377,20.49331759606777,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8206532302093</longitude>
+					<latitude>20.49315033058229</latitude>
+					<altitude>0</altitude>
+					<heading>3.003050472090256</heading>
+					<tilt>11.91163095919647</tilt>
+					<range>154.5179957888796</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8209465882903,20.4930689325258,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8207840995587</longitude>
+					<latitude>20.49287187872428</latitude>
+					<altitude>0</altitude>
+					<heading>3.003004654626719</heading>
+					<tilt>11.91163095919638</tilt>
+					<range>154.5179957894339</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8210087425572,20.49287050002077,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8210274114508</longitude>
+					<latitude>20.49263798873781</latitude>
+					<altitude>0</altitude>
+					<heading>7.593972600568753</heading>
+					<tilt>3.780327615932842</tilt>
+					<range>169.4454230110061</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8210599542335,20.49266415263961,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8210192594844</longitude>
+					<latitude>20.49257125237673</latitude>
+					<altitude>0</altitude>
+					<heading>4.181748821365828</heading>
+					<tilt>11.79524240160609</tilt>
+					<range>163.416702234535</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8211344404687,20.49237794637914,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8212351469712</longitude>
+					<latitude>20.49214685640953</latitude>
+					<altitude>0</altitude>
+					<heading>4.1816732407752</heading>
+					<tilt>11.79524240160602</tilt>
+					<range>163.4167022357059</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8211746049952,20.49216317409387,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8212430153299</longitude>
+					<latitude>20.49205076794626</latitude>
+					<altitude>0</altitude>
+					<heading>4.181670486280229</heading>
+					<tilt>11.79524240160606</tilt>
+					<range>163.4167022363041</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8212282582823,20.4919548243862,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8212644058939</longitude>
+					<latitude>20.49177067835327</latitude>
+					<altitude>0</altitude>
+					<heading>-4.57143495244876</heading>
+					<tilt>0</tilt>
+					<range>135.0325834495725</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8212968204113,20.49174324302142,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8212166768288</longitude>
+					<latitude>20.49132189745885</latitude>
+					<altitude>0</altitude>
+					<heading>7.932421791970031</heading>
+					<tilt>6.417582008666394</tilt>
+					<range>132.2605107999746</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8213819470972,20.4914326689503,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8213456521034</longitude>
+					<latitude>20.49111778997354</latitude>
+					<altitude>0</altitude>
+					<heading>7.932375433922846</heading>
+					<tilt>2.832577872441952</tilt>
+					<range>150.1724268552193</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8214619029307,20.49116737634838,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8213182394388</longitude>
+					<latitude>20.49098649842287</latitude>
+					<altitude>0</altitude>
+					<heading>8.196871127691553</heading>
+					<tilt>4.521891039654292</tilt>
+					<range>108.3503980829311</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8215584690128,20.49091235395802,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8214397207035</longitude>
+					<latitude>20.49080390918895</latitude>
+					<altitude>0</altitude>
+					<heading>8.196828601281089</heading>
+					<tilt>4.521891039654292</tilt>
+					<range>108.3503980834002</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8216279688165,20.49064652301115,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8214373048015</longitude>
+					<latitude>20.49041235635771</latitude>
+					<altitude>0</altitude>
+					<heading>8.197154722336247</heading>
+					<tilt>14.48147491044336</tilt>
+					<range>144.3326728039675</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8217147379107,20.49035754516991,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8215560856158</longitude>
+					<latitude>20.49015939057146</latitude>
+					<altitude>0</altitude>
+					<heading>8.197113142017859</heading>
+					<tilt>14.48147491044336</tilt>
+					<range>144.3326728036927</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8217938987039,20.49008912731636,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8216500369759</longitude>
+					<latitude>20.48989524074371</latitude>
+					<altitude>0</altitude>
+					<heading>8.197080253864808</heading>
+					<tilt>14.48147491044334</tilt>
+					<range>144.3326728022249</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8218802287176,20.48982697652534,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8217423185358</longitude>
+					<latitude>20.48965443468447</latitude>
+					<altitude>0</altitude>
+					<heading>8.197047951285299</heading>
+					<tilt>14.48147491044331</tilt>
+					<range>144.332672804919</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8219662394047,20.4895572053563,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8218189164929</longitude>
+					<latitude>20.4894045317237</latitude>
+					<altitude>0</altitude>
+					<heading>8.197021138423365</heading>
+					<tilt>14.48147491044331</tilt>
+					<range>144.3326728057268</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8220531897215,20.48928979322031,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>22</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VILLAS LOS ARCOS<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8219641516317</longitude>
+					<latitude>20.4893441751436</latitude>
+					<altitude>0</altitude>
+					<heading>10.13223883239064</heading>
+					<tilt>7.014718297265155</tilt>
+					<range>169.6375476755561</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8221286734818,20.4890138149267,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

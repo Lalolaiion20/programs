@@ -1,0 +1,3265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>065150352449 - PUNTARENA.kmz</name>
+	<StyleMap id="m_ylw-pushpin10001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin003</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot020</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot02</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin003">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/C.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/C-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl12">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/C.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/C-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_shaded_dot01">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_shaded_dot010">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_shaded_dot2">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_shaded_dot3">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot02">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot020">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot3">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot5">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>065150352449 - PUNTARENA</name>
+		<Folder>
+			<name>C2</name>
+			<Folder>
+				<name>Led Vial 90W</name>
+				<Placemark>
+					<name>41</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot010</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>41</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>1e6487ec-8b4c-4144-8e78-28909719dc16</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.5082994</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.7896275</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512453</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512453</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7895424962044,20.50826491930583,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>42</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>42</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>74a98d40-691a-41a7-ac14-89fd129dbb93</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50818526</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.78969281</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512457</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512456</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7895743474364,20.50821153472639,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>43</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>43</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>d1b28e3e-037d-4cb6-acc7-1b35acd5a0cb</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50818917</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.78965203</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512461</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512461</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.789266563952,20.50815500985728,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>44</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>44</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>46c67085-785b-4801-bfe6-7eb91dbbe50a</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50818107</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.78961039</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512465</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512464</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7892779633403,20.50810382343004,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>45</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>45</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>3b868cad-25b3-41ff-9faf-d6571b3c2969</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.5082574</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.789542</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512473</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512472</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.788894072175,20.50813459809388,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>46</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>46</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>accd6450-0113-488e-b0d4-d91fab015d1f</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50813391</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.78951875</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512476</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512475</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7888903841376,20.50809251844994,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>47</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>47</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>3b7f7b96-e720-408d-938b-8e35f3ea27dd</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50806729</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.78926407</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512502</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512501</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7884602248669,20.50816066234514,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>48</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>48</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>44c117b8-1779-4b78-b491-0151b38ded2b</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50806006</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.78922247</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512506</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512506</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7882667705417,20.50817510759092,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>49</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>49</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>19b2cc6c-66ce-4d6a-ac7e-51bda9be7a2e</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50805808</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.78919045</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512509</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512509</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.788085386157,20.50800019441455,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>50</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>50</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>61bfbcb1-0aab-42f9-a184-904b1349833e</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50805797</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.78891367</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512536</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512535</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7887770608068,20.50836163955531,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>51</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>51</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>9d16b625-9c29-4387-8e67-053163c859a6</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50806802</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.78882777</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512545</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512544</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7889889553189,20.50851582658001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>52</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>52</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>79a9f35d-e80a-401e-889d-157796411b83</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.5080477</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.7884133</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512588</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512588</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7886224985123,20.5079901455366,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>53</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>53</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>25739aed-6bf1-4940-bff2-9ad1bf994689</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50805845</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.78864977</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512591</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512591</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7886506617069,20.50797978263051,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>54</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>54</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>567d179c-6d8d-43c5-af20-c03bfc785428</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50802811</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.7886462</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512596</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512596</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7885286211967,20.50762147687075,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>55</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>55</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>cefe6210-3616-4393-acbb-79221be1f491</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50799473</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.7886438</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512600</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512599</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.788714364171,20.50761959270153,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>56</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>56</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>35762c1e-7630-4777-886d-c28fa6824243</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50791152</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.78864609</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512608</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512607</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.788589976728,20.5072631702729,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>57</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>57</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>22ff49d7-b351-4981-aa96-2f51a597afc2</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50788235</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.78865415</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512611</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512610</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7886204868555,20.50724118824574,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>58</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>58</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>2fcb07f2-2f52-463e-b1a7-bcefe7f98d33</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50766828</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.78871154</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512634</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512634</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7885919883847,20.50701257497634,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>59</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>59</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>7c2eff00-419a-4f89-a085-5b2f1707caf7</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50763424</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.78870728</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512647</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512647</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.789496563375,20.5075112529321,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>60</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>60</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>b8cf29f1-fdbd-43d9-abce-fb5670c238c7</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50762824</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.78870812</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512655</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512654</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7893919572234,20.50766010233476,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>61</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>61</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>e23c6aa0-9ba3-4b6c-90a4-460394c9a4dd</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.5074465</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.7887869</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512658</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512658</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7889691740274,20.50765916025039,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>62</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>62</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>e24623ba-3d1e-4ab9-aed1-735923a9cc8c</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50754573</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.78869345</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512670</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512669</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7882483303547,20.50767329151537,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>63</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>63</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>5443f09f-f677-41d5-a056-9034b10beae9</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50751717</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.78868573</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512674</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512673</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7879308238626,20.50768459652641,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>64</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>64</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>8e06e085-8eb8-43f2-aea8-fbf7c0ee8520</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.5074975</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.788781</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512678</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512678</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7876713201404,20.50760828768569,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>65</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>65</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>d90afa05-fa31-43da-8213-42130a113b9f</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50722527</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.78862744</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512706</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512706</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7882882282138,20.50717901049471,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>66</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>66</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>85f8c2f4-3d2b-4518-860f-2de31c4cc238</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50718456</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.78863187</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512711</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512710</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7880310714245,20.50715608636801,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>67</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>67</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>f7d4a63b-e911-4723-aaa7-f07162016d01</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50715418</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.78864039</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512718</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512717</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7888820022345,20.50716958962114,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>68</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>68</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>ec8eccba-5f0d-4570-aa5b-dfe7d8e521e5</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50715421</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.78864022</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512724</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512724</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7892068848014,20.50714980578476,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>69</name>
+					<description>Led Phillips 90W</description>
+					<styleUrl>#msn_shaded_dot5</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>69</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>ee2139b1-831b-4e68-9c85-dbe983453907</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50715568</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.78863838</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691512728</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691512727</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7894513010979,20.50700472423986,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Led Vial 50W</name>
+				<Placemark>
+					<name>70</name>
+					<description>Led Construlita 50W</description>
+					<styleUrl>#msn_shaded_dot3</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>70</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>f5dd2910-829a-4f2d-a480-41f77d6d21b4</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50995227</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.79010989</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691513586</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691513586</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7901640981436,20.50992328629856,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>71</name>
+					<description>Led Construlita 50W</description>
+					<styleUrl>#msn_shaded_dot3</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>71</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>fa743917-8980-41ca-8267-272a41fac2ba</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.50995464</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.79012556</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1691513594</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1691513594</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7898817956448,20.50972168308962,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>C1</name>
+			<Placemark>
+				<name>01</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot010</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>1</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>1ba0ad27-b928-454e-ae02-0e076da6baab</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50960381</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79045758</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511086</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511085</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7907531782985,20.50959858567269,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>02</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot010</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>2</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>1a2bd035-cfac-475b-87a6-0dfd55b91fbc</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50960426</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79045724</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511099</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511098</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7905580475926,20.50951442717765,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>03</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>3</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>a00f7760-3dc9-43e3-8810-76d89de18fbf</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50961592</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79043786</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511110</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511109</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7904276251793,20.50961585699991,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>04</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>4</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>54d064ec-2168-462d-8a1a-7e88ae108231</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50960223</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79039473</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511118</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511117</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7902626693249,20.50950312230166,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>5</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>3cf8d170-f04d-454d-bdba-11af59b0d87b</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50958923</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79034818</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511123</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511122</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7901557162404,20.50947705827883,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>6</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>cd78992c-dad2-466f-a290-fb368a5ad0ba</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5095802</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79031803</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511126</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511125</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7901315763593,20.50949181742482,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>7</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>c95414c3-efcd-4d17-a02b-494ea7d5f7a8</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50956844</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79026361</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511131</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511130</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.790067538619,20.50923149100264,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>8</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>add9f781-cf12-429f-bcd9-4850aaf52764</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50955913</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79023135</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511134</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511133</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7900306582451,20.50924405199818,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>9</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>61b70603-2d91-4fbb-acb6-234940bf695b</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50940891</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79015136</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511151</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511151</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7899501919746,20.50899974044994,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>10</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>9dd0e577-1414-42cd-a91c-98166df41a58</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5093717</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79013918</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511156</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511155</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7899910956621,20.50898058490076,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>11</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>fb4543c5-126a-474e-bdbf-e6f6715904fe</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50933107</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79012809</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511160</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511159</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7898522913456,20.50865085785908,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>12</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>d7a16237-3a69-4967-9969-5de2a7985a93</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50930056</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79011883</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511163</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511162</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7899029180408,20.50864614746763,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>13</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>8caf02f9-915d-4440-8eeb-c8c9702328e6</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50909154</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79005707</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511218</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511167</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7902566343546,20.50913037495095,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>14</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>c561f86d-a7cc-42bf-903f-5991a3d1986c</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5089148</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.7900942</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511227</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511227</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7905704528093,20.50912943287562,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>15</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>900eb95a-0676-4d56-a74e-6e8facfc17e4</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50909144</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79005718</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511231</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511230</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7908202335238,20.50904464607223,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>16</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>c52b97e1-7d9e-4a81-86ad-5df0bfc08358</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5087451</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.78995627</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511269</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511268</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.790001489222,20.50853246997665,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>17</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>5a299665-f8b8-4100-821c-d0b3aca6541d</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5083327</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.7896291</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511278</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511277</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7902821153402,20.50852336321267,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>18</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>b4d9a916-c66c-449b-99c2-af6a7de5b9a6</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50859512</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.78992729</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511289</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511285</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7905969396234,20.50853184192398,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>19</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>1c8ef711-d772-45b4-a630-6552f69cd2f7</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50859426</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.78992747</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511295</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511294</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7908812537789,20.50852524737079,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>20</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>c2eee1fe-88a5-4f70-8ad6-3e6652c4154a</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50859156</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.78992821</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511301</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511301</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7910995185375,20.50860092770231,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>21</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>478f2010-a5b9-4012-b031-7c7a6327a3b5</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50848949</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.78982743</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511534</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511533</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7896474376321,20.50839210014074,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>22</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>22</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>f572eb0c-3687-4667-991e-da18f1c54b40</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50846672</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.78982903</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511537</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511537</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7898234575987,20.50834970654083,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>23</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>ee489996-70d0-4c65-b409-9d470a1d8045</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50835709</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.78983277</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511550</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511549</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7899605855346,20.50810413745726,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>24</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>24</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>24d81beb-68ad-4d1a-bdb5-39680d242826</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50833316</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.78983914</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511553</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511552</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7899900898337,20.508121408953,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>25</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>25</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>39aae1d2-cb66-48c0-9680-52a06ed86de7</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50808897</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79005669</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511806</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511805</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7902640104294,20.50800082246939,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>26</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>26</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>5801bc89-e4be-4afc-b679-411904d1f126</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50808886</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79005685</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511810</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511809</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7905557006598,20.5079939138659,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>27</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>27</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>8ef5d3ff-96f6-4960-aed1-fbd3c472ba93</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50808914</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79005709</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511814</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511813</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7908641546965,20.50798198082276,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>28</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>28</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>2593ce84-0f53-4ab1-aa19-3d05ea360596</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5080892</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79005715</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511822</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511822</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7911752909422,20.50797098986116,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>29</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>29</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>79e70716-5fc3-4626-bdba-6821092ac18c</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5080892</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79005711</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511826</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511825</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7914086431265,20.5079380169716,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>30</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>12bdd55e-fecc-4806-89d7-0537d3462a66</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5080098</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79007059</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511841</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511840</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7900296524167,20.50789091283136,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>31</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>31</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>9c3724af-8c84-4be8-a9c5-b0c05fbbe408</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50798174</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79007389</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511845</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511844</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7900759205222,20.50789311102489,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>32</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>32</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>da8f7cec-36ab-48b8-b049-3fdcc314eebb</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50792211</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79008227</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511851</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511850</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7899672910571,20.50759447044298,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>33</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>33</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>1bda081e-dfd2-4871-9fc4-612309a75b72</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5077294</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.7900577</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511855</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511854</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7901376113296,20.50758661973634,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>34</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>34</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>1e4fc436-c4bb-4d57-980c-c4365490cd0f</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5073539</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.790159</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511885</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511885</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.790400467813,20.50760797365747,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>35</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>35</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>3f37cdea-62b9-4944-b2b1-29d7975b58e6</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50759755</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79022459</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511891</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511890</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7907055690885,20.50759855281026,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>36</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>36</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>365052c5-4802-4760-b027-b27c4127e5e6</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50759742</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.7902245</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511894</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511894</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.790968760848,20.50752412809711,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>37</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>37</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>93b8c6f1-2139-443b-8b62-860a57266ecc</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5074119</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.7901543</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511900</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511900</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7900135591626,20.50725249328866,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>38</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>38</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>5567b492-9c12-4c86-9d6c-3947a6c6c40e</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50752923</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79018992</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691511904</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691511903</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7900578156114,20.50723899004285,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>39</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>39</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>7bd1ee8f-2dc5-4c3c-84f3-15dd29427d0d</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50723728</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79007603</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691512080</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691512079</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7901781797409,20.50709956110944,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>40</name>
+				<description>Led Phillips 90W</description>
+				<styleUrl>#msn_shaded_dot01</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>40</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>33c3b04c-a833-48ec-86ea-939fce495409</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.50717234</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.79006569</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1691512088</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1691512088</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.790471881628,20.50714383923042,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Placemark>
+			<name>Marca de posición sin título</name>
+			<LookAt>
+				<longitude>-100.7899331187951</longitude>
+				<latitude>20.50883761069444</latitude>
+				<altitude>0</altitude>
+				<heading>-2.683390502130015</heading>
+				<tilt>22.01123848132839</tilt>
+				<range>133.702579822461</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin10001</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.7897340434634,20.50870307388288,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

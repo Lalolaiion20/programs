@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>065150951938 - LA MSISIÓN VIALIDAD Y GLORIETA.kmz</name>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.681818</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_target00">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<scale>1.09091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_target000">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>065150951938 - LA MSISIÓN</name>
+		<open>1</open>
+		<Folder>
+			<name>Vial 100W</name>
+			<Placemark>
+				<name>07</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8335282072775</longitude>
+					<latitude>20.54543712864853</latitude>
+					<altitude>0</altitude>
+					<heading>5.210270411316359</heading>
+					<tilt>8.318979495569002</tilt>
+					<range>209.2078579531444</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8342947770911,20.5457903364114,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8332914053142</longitude>
+					<latitude>20.54711577915513</latitude>
+					<altitude>0</altitude>
+					<heading>5.279057726796381</heading>
+					<tilt>8.539116887684356</tilt>
+					<range>204.3204120549504</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8339100196403,20.54711299083958,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8335282072775</longitude>
+					<latitude>20.54543712864853</latitude>
+					<altitude>0</altitude>
+					<heading>5.210270411316359</heading>
+					<tilt>8.318979495569002</tilt>
+					<range>209.2078579531444</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8342134019136,20.54576457051891,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8334258411748</longitude>
+					<latitude>20.54666496506675</latitude>
+					<altitude>0</altitude>
+					<heading>5.210306350438098</heading>
+					<tilt>8.318979495569046</tilt>
+					<range>209.2078579535122</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8339785074506,20.54680633596435,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8334366840869</longitude>
+					<latitude>20.54616345204426</latitude>
+					<altitude>0</altitude>
+					<heading>5.210302539203646</heading>
+					<tilt>8.318979495569046</tilt>
+					<range>209.2078579500577</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8340666741365,20.54658429693828,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8334366840869</longitude>
+					<latitude>20.54616345204426</latitude>
+					<altitude>0</altitude>
+					<heading>5.210302539203646</heading>
+					<tilt>8.318979495569046</tilt>
+					<range>209.2078579500577</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8341472828979,20.54630822995058,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8334829582186</longitude>
+					<latitude>20.54567380726587</latitude>
+					<altitude>0</altitude>
+					<heading>5.210286294768394</heading>
+					<tilt>8.318979495569046</tilt>
+					<range>209.2078579535136</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8342203699042,20.546044987125,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8335282072775</longitude>
+					<latitude>20.54543712864853</latitude>
+					<altitude>0</altitude>
+					<heading>5.210270411316359</heading>
+					<tilt>8.318979495569002</tilt>
+					<range>209.2078579531444</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8343732604006,20.54552577182865,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>24</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8331712729554</longitude>
+					<latitude>20.54835705880159</latitude>
+					<altitude>0</altitude>
+					<heading>5.279099898398592</heading>
+					<tilt>8.539116887684271</tilt>
+					<range>204.3204120545926</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8335938760341,20.54827014284245,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8332914053142</longitude>
+					<latitude>20.54711577915513</latitude>
+					<altitude>0</altitude>
+					<heading>5.279057726796381</heading>
+					<tilt>8.539116887684356</tilt>
+					<range>204.3204120549504</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8338441067177,20.54709110072551,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8330967730637</longitude>
+					<latitude>20.54744087988258</latitude>
+					<altitude>0</altitude>
+					<heading>5.279126041703671</heading>
+					<tilt>8.539116887684314</tilt>
+					<range>204.3204120541526</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8338255523694,20.54739249084951,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8334829582186</longitude>
+					<latitude>20.54567380726587</latitude>
+					<altitude>0</altitude>
+					<heading>5.210286294768394</heading>
+					<tilt>8.318979495569046</tilt>
+					<range>209.2078579535136</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8341504867717,20.5460288801693,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>29</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8332110367435</longitude>
+					<latitude>20.54926361259087</latitude>
+					<altitude>0</altitude>
+					<heading>5.279085947777917</heading>
+					<tilt>8.539116887684314</tilt>
+					<range>204.3204120551387</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8336846335839,20.54915577501401,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8334366840869</longitude>
+					<latitude>20.54616345204426</latitude>
+					<altitude>0</altitude>
+					<heading>5.210302539203646</heading>
+					<tilt>8.318979495569046</tilt>
+					<range>209.2078579500577</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8340725810704,20.54629487776,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8334366840869</longitude>
+					<latitude>20.54616345204426</latitude>
+					<altitude>0</altitude>
+					<heading>5.210302539203646</heading>
+					<tilt>8.318979495569046</tilt>
+					<range>209.2078579500577</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8339980667903,20.5465682075917,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8334258411748</longitude>
+					<latitude>20.54666496506675</latitude>
+					<altitude>0</altitude>
+					<heading>5.210306350438098</heading>
+					<tilt>8.318979495569046</tilt>
+					<range>209.2078579535122</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8339218121615,20.54678883895583,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>22</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8330967730637</longitude>
+					<latitude>20.54744087988258</latitude>
+					<altitude>0</altitude>
+					<heading>5.279126041703671</heading>
+					<tilt>8.539116887684314</tilt>
+					<range>204.3204120541526</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8336799154652,20.54766058530489,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8330967730637</longitude>
+					<latitude>20.54744087988258</latitude>
+					<altitude>0</altitude>
+					<heading>5.279126041703671</heading>
+					<tilt>8.539116887684314</tilt>
+					<range>204.3204120541526</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8337555511899,20.54737039103143,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8331712729554</longitude>
+					<latitude>20.54835705880159</latitude>
+					<altitude>0</altitude>
+					<heading>5.279099898398592</heading>
+					<tilt>8.539116887684271</tilt>
+					<range>204.3204120545926</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8336548007665,20.54827274238615,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8332110367435</longitude>
+					<latitude>20.54926361259087</latitude>
+					<altitude>0</altitude>
+					<heading>5.279085947777917</heading>
+					<tilt>8.539116887684314</tilt>
+					<range>204.3204120551387</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8336289422816,20.54916161058716,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>38</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8329351766733</longitude>
+					<latitude>20.55027053921316</latitude>
+					<altitude>0</altitude>
+					<heading>-2.656219754773606</heading>
+					<tilt>5.519387640911037</tilt>
+					<range>227.5662327224867</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8336618550551,20.55020369685752,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>42</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8327137255422</longitude>
+					<latitude>20.55064568587272</latitude>
+					<altitude>0</altitude>
+					<heading>-2.656175946998275</heading>
+					<tilt>11.54778305419153</tilt>
+					<range>394.1355261966594</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.833669156365,20.55074954595706,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>41</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.832723703262</longitude>
+					<latitude>20.55087849007343</latitude>
+					<altitude>0</altitude>
+					<heading>-2.656179446067277</heading>
+					<tilt>11.54778305419147</tilt>
+					<range>394.135526193952</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8337472918397,20.55075894729742,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>40</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8327334257227</longitude>
+					<latitude>20.5509196690359</latitude>
+					<altitude>0</altitude>
+					<heading>-2.656182858293242</heading>
+					<tilt>11.54778305419153</tilt>
+					<range>394.1355261963703</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8336667512635,20.55046698723477,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>39</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8327334257227</longitude>
+					<latitude>20.5509196690359</latitude>
+					<altitude>0</altitude>
+					<heading>-2.656182858293242</heading>
+					<tilt>11.54778305419153</tilt>
+					<range>394.1355261963703</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8337431176288,20.55047124429005,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>36</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8329351766733</longitude>
+					<latitude>20.55027053921316</latitude>
+					<altitude>0</altitude>
+					<heading>-2.656219754773606</heading>
+					<tilt>5.519387640911037</tilt>
+					<range>227.5662327224867</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8336544421273,20.54994643462209,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>35</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8329352892207</longitude>
+					<latitude>20.55027197250147</latitude>
+					<altitude>0</altitude>
+					<heading>-2.656219794266589</heading>
+					<tilt>5.51938764091117</tilt>
+					<range>227.5662327214841</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8337062055998,20.54994269951207,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>32</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8332110367435</longitude>
+					<latitude>20.54926361259087</latitude>
+					<altitude>0</altitude>
+					<heading>5.279085947777917</heading>
+					<tilt>8.539116887684314</tilt>
+					<range>204.3204120551387</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8336507491486,20.54940404166303,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8342958241701</longitude>
+					<latitude>20.54550052422789</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8342958241701,20.54550052422789,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8330967730637</longitude>
+					<latitude>20.54744087988258</latitude>
+					<altitude>0</altitude>
+					<heading>5.279126041703671</heading>
+					<tilt>8.539116887684314</tilt>
+					<range>204.3204120541526</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8337488617931,20.54767776441555,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>28</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8331990367263</longitude>
+					<latitude>20.54890325772778</latitude>
+					<altitude>0</altitude>
+					<heading>5.279090156629807</heading>
+					<tilt>8.539116887684271</tilt>
+					<range>204.320412052912</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8336179218707,20.54887374111891,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>27</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8331990367263</longitude>
+					<latitude>20.54890325772778</latitude>
+					<altitude>0</altitude>
+					<heading>5.279090156629807</heading>
+					<tilt>8.539116887684271</tilt>
+					<range>204.320412052912</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8336768578781,20.54886671415346,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>26</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8331712729554</longitude>
+					<latitude>20.54835705880159</latitude>
+					<altitude>0</altitude>
+					<heading>5.279099898398592</heading>
+					<tilt>8.539116887684271</tilt>
+					<range>204.3204120545926</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8335994340932,20.54856615638036,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>31</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8332110367435</longitude>
+					<latitude>20.54926361259087</latitude>
+					<altitude>0</altitude>
+					<heading>5.279085947777917</heading>
+					<tilt>8.539116887684314</tilt>
+					<range>204.3204120551387</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8337059144952,20.54940050616898,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>37</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8329351766733</longitude>
+					<latitude>20.55027053921316</latitude>
+					<altitude>0</altitude>
+					<heading>-2.656219754773606</heading>
+					<tilt>5.519387640911037</tilt>
+					<range>227.5662327224867</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8337270045813,20.55019936808796,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>25</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8331712729554</longitude>
+					<latitude>20.54835705880159</latitude>
+					<altitude>0</altitude>
+					<heading>5.279099898398592</heading>
+					<tilt>8.539116887684271</tilt>
+					<range>204.3204120545926</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8336677694974,20.54856646678064,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>34</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8333605956741</longitude>
+					<latitude>20.54993688162997</latitude>
+					<altitude>0</altitude>
+					<heading>5.279033454793823</heading>
+					<tilt>8.539116887684271</tilt>
+					<range>204.3204120530803</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8336457335966,20.54967720371786,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>33</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 50W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>La Misión<b>]]></description>
+				<LookAt>
+					<longitude>-100.8333605956741</longitude>
+					<latitude>20.54993688162997</latitude>
+					<altitude>0</altitude>
+					<heading>5.279033454793823</heading>
+					<tilt>8.539116887684271</tilt>
+					<range>204.3204120530803</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8337100741583,20.54968016815628,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>SP GLORIETA LA MISION</name>
+			<Placemark>
+				<name>04</name>
+				<description><![CDATA[<b>Luminaria: </b>REF ATP ORION 200W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>LA MISION<b><br>Calle: </b>GLORIETA<b><br>Municipio: </b>CELAYA<b><br>]]></description>
+				<LookAt>
+					<longitude>-100.8335111708433</longitude>
+					<latitude>20.54787612921706</latitude>
+					<altitude>0</altitude>
+					<heading>0.5750126511641634</heading>
+					<tilt>10.78039646394098</tilt>
+					<range>130.9755775477491</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_target00</styleUrl>
+				<Point>
+					<coordinates>-100.8336366077872,20.54796155323167,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>03</name>
+				<description><![CDATA[<b>Luminaria: </b>REF ATP ORION 200W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>LA MISION<b><br>Calle: </b>GLORIETA<b><br>Municipio: </b>CELAYA<b><br>]]></description>
+				<LookAt>
+					<longitude>-100.8335111708433</longitude>
+					<latitude>20.54787612921706</latitude>
+					<altitude>0</altitude>
+					<heading>0.5750126511641634</heading>
+					<tilt>10.78039646394098</tilt>
+					<range>130.9755775477491</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_target00</styleUrl>
+				<Point>
+					<coordinates>-100.8336102537181,20.54792733814749,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>01</name>
+				<description><![CDATA[<b>Luminaria: </b>REF ATP ORION 200W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>LA MISION<b><br>Calle: </b>GLORIETA<b><br>Municipio: </b>CELAYA<b><br>]]></description>
+				<LookAt>
+					<longitude>-100.8335111708433</longitude>
+					<latitude>20.54787612921706</latitude>
+					<altitude>0</altitude>
+					<heading>0.5750126511641634</heading>
+					<tilt>10.78039646394098</tilt>
+					<range>130.9755775477491</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_target00</styleUrl>
+				<Point>
+					<coordinates>-100.8336119111235,20.54799565444481,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>02</name>
+				<description><![CDATA[<b>Luminaria: </b>REF ATP ORION 200W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>LA MISION<b><br>Calle: </b>GLORIETA<b><br>Municipio: </b>CELAYA<b><br>]]></description>
+				<LookAt>
+					<longitude>-100.8335111708433</longitude>
+					<latitude>20.54787612921706</latitude>
+					<altitude>0</altitude>
+					<heading>0.5750126511641634</heading>
+					<tilt>10.78039646394098</tilt>
+					<range>130.9755775477491</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_target00</styleUrl>
+				<Point>
+					<coordinates>-100.8335776939092,20.54795341985178,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

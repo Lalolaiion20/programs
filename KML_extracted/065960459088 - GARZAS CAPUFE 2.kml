@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>065960459088 - GARZAS CAPUFE 2.kmz</name>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.681818</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_shaded_dot0">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.681818</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_shaded_dot1">
+		<IconStyle>
+			<color>ffff5500</color>
+			<scale>0.681817</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_target">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>1.09091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot0">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot1">
+		<IconStyle>
+			<color>ffff5500</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_target">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>065960459088 - GARZAS CAPUFE 2</name>
+		<Folder>
+			<name>Viales 100W</name>
+			<Placemark>
+				<name>08</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.8221657624841</longitude>
+					<latitude>20.55693586508595</latitude>
+					<altitude>0</altitude>
+					<heading>1.706174656506377</heading>
+					<tilt>6.947709256956919</tilt>
+					<range>141.9825641166822</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot0</styleUrl>
+				<Point>
+					<coordinates>-100.8222792600971,20.55687243410545,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.8221657624841</longitude>
+					<latitude>20.55693586508595</latitude>
+					<altitude>0</altitude>
+					<heading>1.706174656506377</heading>
+					<tilt>6.947709256956919</tilt>
+					<range>141.9825641166822</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot0</styleUrl>
+				<Point>
+					<coordinates>-100.8222555823918,20.55719490440737,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.8221454926724</longitude>
+					<latitude>20.55717050806952</latitude>
+					<altitude>0</altitude>
+					<heading>1.706181775896769</heading>
+					<tilt>6.947709256956919</tilt>
+					<range>141.9825641170073</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot0</styleUrl>
+				<Point>
+					<coordinates>-100.8222370439415,20.55742072053244,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.8221104054533</longitude>
+					<latitude>20.55750551635754</latitude>
+					<altitude>0</altitude>
+					<heading>1.706194096184218</heading>
+					<tilt>6.947709256956919</tilt>
+					<range>141.9825641125403</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot0</styleUrl>
+				<Point>
+					<coordinates>-100.8222138071065,20.55770311309501,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.8216413239751</longitude>
+					<latitude>20.55871829612387</latitude>
+					<altitude>0</altitude>
+					<heading>16.54990777085835</heading>
+					<tilt>14.31838026159878</tilt>
+					<range>88.08367588885858</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8217795877488,20.55876567806387,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.8212647183422</longitude>
+					<latitude>20.55834187131727</latitude>
+					<altitude>0</altitude>
+					<heading>25.75516458609102</heading>
+					<tilt>18.74757899093039</tilt>
+					<range>95.8728940260504</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8215600584998,20.55859460451146,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.8210034924531</longitude>
+					<latitude>20.55814707408878</latitude>
+					<altitude>0</altitude>
+					<heading>19.39278973612658</heading>
+					<tilt>18.94024561038052</tilt>
+					<range>95.2571558360052</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8213134387554,20.55842193058715,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>22</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.8209597150583</longitude>
+					<latitude>20.55821032328347</latitude>
+					<altitude>0</altitude>
+					<heading>10.4301134523001</heading>
+					<tilt>0</tilt>
+					<range>102.0150872540716</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8210745922252,20.55827052274776,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.8203675848027</longitude>
+					<latitude>20.55799797618594</latitude>
+					<altitude>0</altitude>
+					<heading>7.008533382446491</heading>
+					<tilt>15.7253648810621</tilt>
+					<range>89.64347339790054</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8208211396327,20.55814023696925,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>24</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.8203675848027</longitude>
+					<latitude>20.55799797618594</latitude>
+					<altitude>0</altitude>
+					<heading>7.008533382446491</heading>
+					<tilt>15.7253648810621</tilt>
+					<range>89.64347339790054</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.820543376155,20.5580637625636,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>25</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.820131352013</longitude>
+					<latitude>20.55796480124904</latitude>
+					<altitude>0</altitude>
+					<heading>7.008616336377019</heading>
+					<tilt>15.72536488106215</tilt>
+					<range>89.64347339916021</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8202932989114,20.55802328391667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>26</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.8194066109849</longitude>
+					<latitude>20.557866010921</latitude>
+					<altitude>0</altitude>
+					<heading>9.12472384460588</heading>
+					<tilt>0</tilt>
+					<range>128.1637130835937</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8199608866572,20.55798968368741,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>27</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.8194066109849</longitude>
+					<latitude>20.557866010921</latitude>
+					<altitude>0</altitude>
+					<heading>9.12472384460588</heading>
+					<tilt>0</tilt>
+					<range>128.1637130835937</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8196775222379,20.55795218928,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>28</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.8198589384898</longitude>
+					<latitude>20.55748190791394</latitude>
+					<altitude>0</altitude>
+					<heading>1.816507899239309</heading>
+					<tilt>0</tilt>
+					<range>128.8016925192349</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8193741803301,20.55745035864212,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>29</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.8198589384898</longitude>
+					<latitude>20.55748190791394</latitude>
+					<altitude>0</altitude>
+					<heading>1.816507899239309</heading>
+					<tilt>0</tilt>
+					<range>128.8016925192349</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8196741330183,20.55744910124758,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.8198589384898</longitude>
+					<latitude>20.55748190791394</latitude>
+					<altitude>0</altitude>
+					<heading>1.816507899239309</heading>
+					<tilt>0</tilt>
+					<range>128.8016925192349</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8199742798494,20.55748215634967,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>31</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.8206672875265</longitude>
+					<latitude>20.55756060314636</latitude>
+					<altitude>0</altitude>
+					<heading>2.534856777386823</heading>
+					<tilt>0</tilt>
+					<range>128.8016925179033</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8202796783484,20.55751720400434,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>32</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.8209291612054</longitude>
+					<latitude>20.55750662452886</latitude>
+					<altitude>0</altitude>
+					<heading>2.53476482191599</heading>
+					<tilt>0</tilt>
+					<range>128.8016925165252</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8205466829068,20.55752700095109,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>33</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.8209291612054</longitude>
+					<latitude>20.55750662452886</latitude>
+					<altitude>0</altitude>
+					<heading>2.53476482191599</heading>
+					<tilt>0</tilt>
+					<range>128.8016925165252</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8208228129887,20.55754480307787,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>34</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.82149953824</longitude>
+					<latitude>20.55736320561663</latitude>
+					<altitude>0</altitude>
+					<heading>-0.3399607408708724</heading>
+					<tilt>0</tilt>
+					<range>128.801692516159</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8211164994813,20.55749297068828,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>35</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.82149953824</longitude>
+					<latitude>20.55736320561663</latitude>
+					<altitude>0</altitude>
+					<heading>-0.3399607408708724</heading>
+					<tilt>0</tilt>
+					<range>128.801692516159</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8213532013703,20.55738751398417,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>36</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.82149953824</longitude>
+					<latitude>20.55736320561663</latitude>
+					<altitude>0</altitude>
+					<heading>-0.3399607408708724</heading>
+					<tilt>0</tilt>
+					<range>128.801692516159</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8214896293323,20.55729785447668,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>37</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.8219297551965</longitude>
+					<latitude>20.55718682039289</latitude>
+					<altitude>0</altitude>
+					<heading>-0.3401118062482154</heading>
+					<tilt>0</tilt>
+					<range>128.8016925193907</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8216679115717,20.55717748035826,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>38</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.822272362082</longitude>
+					<latitude>20.55667055575122</latitude>
+					<altitude>0</altitude>
+					<heading>-0.3402321063382421</heading>
+					<tilt>0</tilt>
+					<range>128.8016925165245</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8219042254543,20.55701106402341,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>40</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.822272362082</longitude>
+					<latitude>20.55667055575122</latitude>
+					<altitude>0</altitude>
+					<heading>-0.3402321063382421</heading>
+					<tilt>0</tilt>
+					<range>128.8016925165245</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8222574302281,20.55666873373885,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>41</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Garzas Capufe<b>]]></description>
+				<LookAt>
+					<longitude>-100.822512326295</longitude>
+					<latitude>20.55663939521658</latitude>
+					<altitude>0</altitude>
+					<heading>5.169247310887521</heading>
+					<tilt>18.4457868317479</tilt>
+					<range>130.3715774982406</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8223592762721,20.55642746726429,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Viales 130W</name>
+			<Placemark>
+				<name>12</name>
+				<description>Led Construlita 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8218384846854</longitude>
+					<latitude>20.55832047648151</latitude>
+					<altitude>0</altitude>
+					<heading>4.148755681998788</heading>
+					<tilt>1.831780001494883</tilt>
+					<range>182.5680735525863</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8221983198363,20.55821470879299,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<description>Led Construlita 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8218384846854</longitude>
+					<latitude>20.55832047648151</latitude>
+					<altitude>0</altitude>
+					<heading>4.148755681998788</heading>
+					<tilt>1.831780001494883</tilt>
+					<range>182.5680735525863</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8221946853979,20.5585033642101,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<description>Led Construlita 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8218219175795</longitude>
+					<latitude>20.55895897328314</latitude>
+					<altitude>0</altitude>
+					<heading>0.9568651823863369</heading>
+					<tilt>2.355144403271558</tilt>
+					<range>182.8154883528672</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8221720014241,20.55875695825842,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<description>Led Construlita 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8218219175795</longitude>
+					<latitude>20.55895897328314</latitude>
+					<altitude>0</altitude>
+					<heading>0.9568651823863369</heading>
+					<tilt>2.355144403271558</tilt>
+					<range>182.8154883528672</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8221508662688,20.55896471827718,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<description>Led Construlita 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8221391020231</longitude>
+					<latitude>20.55891113339685</latitude>
+					<altitude>0</altitude>
+					<heading>3.104156257656746</heading>
+					<tilt>2.494362029134396</tilt>
+					<range>107.6803389778629</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8221323930224,20.55922846156072,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17</name>
+				<description>Led Construlita 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8223808827115</longitude>
+					<latitude>20.55941690718744</latitude>
+					<altitude>0</altitude>
+					<heading>0.9800829667446851</heading>
+					<tilt>1.480321379002418</tilt>
+					<range>122.3455628931971</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8221263213687,20.5594358616863,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18</name>
+				<description>Led Construlita 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8221532363101</longitude>
+					<latitude>20.55965841520559</latitude>
+					<altitude>0</altitude>
+					<heading>0.9775634468960207</heading>
+					<tilt>8.655845743829863</tilt>
+					<range>96.82548658431425</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8220857079689,20.55974376254825,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Ref 540W</name>
+			<Placemark>
+				<name>01</name>
+				<description>REF LED CONSTRULITA 540W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8228326163765</longitude>
+					<latitude>20.55788706888421</latitude>
+					<altitude>0</altitude>
+					<heading>0.0008730581637828132</heading>
+					<tilt>33.00490635783367</tilt>
+					<range>288.2680539483281</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_target</styleUrl>
+				<Point>
+					<coordinates>-100.8218429145353,20.55827414836779,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>02</name>
+				<description>REF LED CONSTRULITA 540W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8228326163765</longitude>
+					<latitude>20.55788706888421</latitude>
+					<altitude>0</altitude>
+					<heading>0.0008730581637828132</heading>
+					<tilt>33.00490635783367</tilt>
+					<range>288.2680539483281</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_target</styleUrl>
+				<Point>
+					<coordinates>-100.8217952168134,20.55825049190826,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>03</name>
+				<description>REF LED CONSTRULITA 540W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8228326163765</longitude>
+					<latitude>20.55788706888421</latitude>
+					<altitude>0</altitude>
+					<heading>0.0008730581637828132</heading>
+					<tilt>33.00490635783367</tilt>
+					<range>288.2680539483281</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_target</styleUrl>
+				<Point>
+					<coordinates>-100.8218147590613,20.55818590277015,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>04</name>
+				<description>REF LED CONSTRULITA 540W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8228326163765</longitude>
+					<latitude>20.55788706888421</latitude>
+					<altitude>0</altitude>
+					<heading>0.0008730581637828132</heading>
+					<tilt>33.00490635783367</tilt>
+					<range>288.2680539483281</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_target</styleUrl>
+				<Point>
+					<coordinates>-100.8218730730268,20.55817317844388,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05</name>
+				<description>REF LED CONSTRULITA 540W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8228326163765</longitude>
+					<latitude>20.55788706888421</latitude>
+					<altitude>0</altitude>
+					<heading>0.0008730581637828132</heading>
+					<tilt>33.00490635783367</tilt>
+					<range>288.2680539483281</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_target</styleUrl>
+				<Point>
+					<coordinates>-100.8219125427653,20.55820381960754,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06</name>
+				<description>REF LED CONSTRULITA 540W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8228326163765</longitude>
+					<latitude>20.55788706888421</latitude>
+					<altitude>0</altitude>
+					<heading>0.0008730581637828132</heading>
+					<tilt>33.00490635783367</tilt>
+					<range>288.2680539483281</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_target</styleUrl>
+				<Point>
+					<coordinates>-100.8218948868908,20.55825310668251,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

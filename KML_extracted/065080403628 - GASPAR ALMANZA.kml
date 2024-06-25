@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>065080403628 - GASPAR ALMANZA.kmz</name>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.681818</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_shaded_dot0">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.954545</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_shaded_dot1">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.681818</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot0">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_shaded_dot1">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>065080403628 - GASPAR ALMANZA</name>
+		<Folder>
+			<name>Viales</name>
+			<Placemark>
+				<name>31</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8131594484628</longitude>
+					<latitude>20.53264936329603</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535248583303181</heading>
+					<tilt>24.0149114210377</tilt>
+					<range>150.1252171085487</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8135256343202,20.53264014139949,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8131903008829</longitude>
+					<latitude>20.53387117773108</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535354587678386</heading>
+					<tilt>22.79396039834224</tilt>
+					<range>200.2672706227409</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8138814577404,20.53369110091665,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8131903008829</longitude>
+					<latitude>20.53387117773108</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535354587678386</heading>
+					<tilt>22.79396039834224</tilt>
+					<range>200.2672706227409</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8139308283759,20.53368337814734,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>48</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8139211239779</longitude>
+					<latitude>20.53201756766264</latitude>
+					<altitude>0</altitude>
+					<heading>-22.15900252566614</heading>
+					<tilt>0</tilt>
+					<range>100.033049321851</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8138585760447,20.53196869385528,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>44</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8135499774953</longitude>
+					<latitude>20.53219918179924</latitude>
+					<altitude>0</altitude>
+					<heading>-12.24918151053535</heading>
+					<tilt>18.78496393233533</tilt>
+					<range>128.8568785141325</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8136930454614,20.53212803531064,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8133883804791</longitude>
+					<latitude>20.53434228152669</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535424062507695</heading>
+					<tilt>22.79396039834224</tilt>
+					<range>200.2672706228724</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.813944391394,20.53397173413867,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>24</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8130114678461</longitude>
+					<latitude>20.5333824269906</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535291866100963</heading>
+					<tilt>22.7939603983422</tilt>
+					<range>200.2672706244952</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8137732619884,20.53314360531378,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>22</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8130114678461</longitude>
+					<latitude>20.5333824269906</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535291866100963</heading>
+					<tilt>22.7939603983422</tilt>
+					<range>200.2672706244952</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8138494697045,20.53341142865898,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8130114678461</longitude>
+					<latitude>20.5333824269906</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535291866100963</heading>
+					<tilt>22.7939603983422</tilt>
+					<range>200.2672706244952</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8138002324746,20.5334180626603,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>45</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8135499774953</longitude>
+					<latitude>20.53219918179924</latitude>
+					<altitude>0</altitude>
+					<heading>-12.24918151053535</heading>
+					<tilt>18.78496393233533</tilt>
+					<range>128.8568785141325</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8136554390026,20.53210465318273,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8133883804791</longitude>
+					<latitude>20.53434228152669</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535424062507695</heading>
+					<tilt>22.79396039834224</tilt>
+					<range>200.2672706228724</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8139954701121,20.53395807322732,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8130114678461</longitude>
+					<latitude>20.5333824269906</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535291866100963</heading>
+					<tilt>22.7939603983422</tilt>
+					<range>200.2672706244952</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8137268167183,20.53314969898,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>46</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8135499774953</longitude>
+					<latitude>20.53219918179924</latitude>
+					<altitude>0</altitude>
+					<heading>-12.24918151053535</heading>
+					<tilt>18.78496393233533</tilt>
+					<range>128.8568785141325</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8136588703163,20.53193314445955,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>49</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8139211239779</longitude>
+					<latitude>20.53201756766264</latitude>
+					<altitude>0</altitude>
+					<heading>-22.15900252566614</heading>
+					<tilt>0</tilt>
+					<range>100.033049321851</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.813875491505,20.53200410591845,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>50</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8139211239779</longitude>
+					<latitude>20.53201756766264</latitude>
+					<altitude>0</altitude>
+					<heading>-22.15900252566614</heading>
+					<tilt>0</tilt>
+					<range>100.033049321851</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8141044203558,20.53192247157402,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>51</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8139211239779</longitude>
+					<latitude>20.53201756766264</latitude>
+					<altitude>0</altitude>
+					<heading>-22.15900252566614</heading>
+					<tilt>0</tilt>
+					<range>100.033049321851</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8140891164858,20.53189424990878,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>53</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8141852205004</longitude>
+					<latitude>20.53191400597674</latitude>
+					<altitude>0</altitude>
+					<heading>-22.15909515176826</heading>
+					<tilt>0</tilt>
+					<range>100.0330493231059</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8143824289291,20.53181431311832,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>52</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8141852205004</longitude>
+					<latitude>20.53191400597674</latitude>
+					<altitude>0</altitude>
+					<heading>-22.15909515176826</heading>
+					<tilt>0</tilt>
+					<range>100.0330493231059</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8143946275579,20.53184584774125,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>43</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8133264310214</longitude>
+					<latitude>20.53195668235259</latitude>
+					<altitude>0</altitude>
+					<heading>-36.85170158919985</heading>
+					<tilt>2.265349310708532</tilt>
+					<range>173.5275321580218</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.813016730125,20.53191653142844,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>01</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.813671260722</longitude>
+					<latitude>20.53566232171941</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535539966296743</heading>
+					<tilt>22.57424366502596</tilt>
+					<range>260.1613451700809</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot0</styleUrl>
+				<Point>
+					<coordinates>-100.814498068386,20.53603548176663,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>02</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.813671260722</longitude>
+					<latitude>20.53566232171941</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535539966296743</heading>
+					<tilt>22.57424366502596</tilt>
+					<range>260.1613451700809</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot0</styleUrl>
+				<Point>
+					<coordinates>-100.8145638702032,20.53602846623233,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>47</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8135499774953</longitude>
+					<latitude>20.53219918179924</latitude>
+					<altitude>0</altitude>
+					<heading>-12.24918151053535</heading>
+					<tilt>18.78496393233533</tilt>
+					<range>128.8568785141325</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8136829011078,20.53195883880928,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>29</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8131594484628</longitude>
+					<latitude>20.53264936329603</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535248583303181</heading>
+					<tilt>24.0149114210377</tilt>
+					<range>150.1252171085487</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8135241562671,20.53278056513135,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8134257763517</longitude>
+					<latitude>20.53492562332976</latitude>
+					<altitude>0</altitude>
+					<heading>-4.53545385964999</heading>
+					<tilt>22.57424366502595</tilt>
+					<range>260.1613451751525</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8141642132532,20.53484766978672,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>03</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.813671260722</longitude>
+					<latitude>20.53566232171941</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535539966296743</heading>
+					<tilt>22.57424366502596</tilt>
+					<range>260.1613451700809</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot0</styleUrl>
+				<Point>
+					<coordinates>-100.8144343656875,20.53581199484642,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>04</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.813671260722</longitude>
+					<latitude>20.53566232171941</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535539966296743</heading>
+					<tilt>22.57424366502596</tilt>
+					<range>260.1613451700809</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot0</styleUrl>
+				<Point>
+					<coordinates>-100.8144989295742,20.53580125349367,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.813671260722</longitude>
+					<latitude>20.53566232171941</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535539966296743</heading>
+					<tilt>22.57424366502596</tilt>
+					<range>260.1613451700809</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot0</styleUrl>
+				<Point>
+					<coordinates>-100.8144383125111,20.53558040045564,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8132615616984</longitude>
+					<latitude>20.5345866225321</latitude>
+					<altitude>0</altitude>
+					<heading>-4.53539626082839</heading>
+					<tilt>22.57424366502596</tilt>
+					<range>260.1613451721359</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8141415945123,20.5345389660121,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>38</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8132710127843</longitude>
+					<latitude>20.5319792956318</latitude>
+					<altitude>0</altitude>
+					<heading>-42.57623746740353</heading>
+					<tilt>13.38666362570319</tilt>
+					<range>86.10408540042619</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8133911326842,20.53196409205182,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>39</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8132710127843</longitude>
+					<latitude>20.5319792956318</latitude>
+					<altitude>0</altitude>
+					<heading>-42.57623746740353</heading>
+					<tilt>13.38666362570319</tilt>
+					<range>86.10408540042619</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8133674961553,20.53199017690667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>37</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8133482440499</longitude>
+					<latitude>20.53205682785914</latitude>
+					<altitude>0</altitude>
+					<heading>-13.20767254992937</heading>
+					<tilt>29.50193609655176</tilt>
+					<range>107.3078998495705</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8134276357346,20.53214766168147,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>36</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8133482440499</longitude>
+					<latitude>20.53205682785914</latitude>
+					<altitude>0</altitude>
+					<heading>-13.20767254992937</heading>
+					<tilt>29.50193609655176</tilt>
+					<range>107.3078998495705</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.813402072133,20.53215605447418,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>41</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8132710127843</longitude>
+					<latitude>20.5319792956318</latitude>
+					<altitude>0</altitude>
+					<heading>-42.57623746740353</heading>
+					<tilt>13.38666362570319</tilt>
+					<range>86.10408540042619</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8132528754582,20.53197955505313,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>40</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8132710127843</longitude>
+					<latitude>20.5319792956318</latitude>
+					<altitude>0</altitude>
+					<heading>-42.57623746740353</heading>
+					<tilt>13.38666362570319</tilt>
+					<range>86.10408540042619</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8132415507344,20.53200740648649,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8135101115751</longitude>
+					<latitude>20.53517433758457</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535483439910326</heading>
+					<tilt>22.57424366502596</tilt>
+					<range>260.1613451694921</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot0</styleUrl>
+				<Point>
+					<coordinates>-100.8142436434227,20.53511708503553,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8133883804791</longitude>
+					<latitude>20.53434228152669</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535424062507695</heading>
+					<tilt>22.79396039834224</tilt>
+					<range>200.2672706228724</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8140655382593,20.53425578055023,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8133883804791</longitude>
+					<latitude>20.53434228152669</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535424062507695</heading>
+					<tilt>22.79396039834224</tilt>
+					<range>200.2672706228724</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8140136639286,20.53426386431671,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8132615616984</longitude>
+					<latitude>20.5345866225321</latitude>
+					<altitude>0</altitude>
+					<heading>-4.53539626082839</heading>
+					<tilt>22.57424366502596</tilt>
+					<range>260.1613451721359</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8140811840209,20.53455093071372,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8134257763517</longitude>
+					<latitude>20.53492562332976</latitude>
+					<altitude>0</altitude>
+					<heading>-4.53545385964999</heading>
+					<tilt>22.57424366502595</tilt>
+					<range>260.1613451751525</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8142238499424,20.53483404207317,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.813671260722</longitude>
+					<latitude>20.53566232171941</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535539966296743</heading>
+					<tilt>22.57424366502596</tilt>
+					<range>260.1613451700809</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot0</styleUrl>
+				<Point>
+					<coordinates>-100.8143760024921,20.5355905570225,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8135101115751</longitude>
+					<latitude>20.53517433758457</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535483439910326</heading>
+					<tilt>22.57424366502596</tilt>
+					<range>260.1613451694921</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot0</styleUrl>
+				<Point>
+					<coordinates>-100.8142970130363,20.53510756212022,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.813671260722</longitude>
+					<latitude>20.53566232171941</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535539966296743</heading>
+					<tilt>22.57424366502596</tilt>
+					<range>260.1613451700809</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot0</styleUrl>
+				<Point>
+					<coordinates>-100.8143134914961,20.53535252374968,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.813671260722</longitude>
+					<latitude>20.53566232171941</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535539966296743</heading>
+					<tilt>22.57424366502596</tilt>
+					<range>260.1613451700809</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot0</styleUrl>
+				<Point>
+					<coordinates>-100.8143632862819,20.53534542657525,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>42</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8133264310214</longitude>
+					<latitude>20.53195668235259</latitude>
+					<altitude>0</altitude>
+					<heading>-36.85170158919985</heading>
+					<tilt>2.265349310708532</tilt>
+					<range>173.5275321580218</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8129911537585,20.5319528088712,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8133860461102</longitude>
+					<latitude>20.53246534900028</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535696646234496</heading>
+					<tilt>18.8678268381319</tilt>
+					<range>203.468837878622</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8137035975273,20.53261630795736,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Reflectores</name>
+			<Placemark>
+				<name>35</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8130730473586</longitude>
+					<latitude>20.53240414146363</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535261734855071</heading>
+					<tilt>23.45524752503986</tilt>
+					<range>171.7597993881539</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8135140347721,20.53226869275372,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>34</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8130730473586</longitude>
+					<latitude>20.53240414146363</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535261734855071</heading>
+					<tilt>23.45524752503986</tilt>
+					<range>171.7597993881539</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8136116606845,20.53224862296995,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>33</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8130730473586</longitude>
+					<latitude>20.53240414146363</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535261734855071</heading>
+					<tilt>23.45524752503986</tilt>
+					<range>171.7597993881539</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8135280710875,20.53241465670014,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>32</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8130730473586</longitude>
+					<latitude>20.53240414146363</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535261734855071</heading>
+					<tilt>23.45524752503986</tilt>
+					<range>171.7597993881539</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.813633037701,20.53241445043761,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>28</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8131292218907</longitude>
+					<latitude>20.53287037231501</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535237980809316</heading>
+					<tilt>24.01491142103767</tilt>
+					<range>150.1252171043087</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8135992036527,20.53274128930517,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>27</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8131292218907</longitude>
+					<latitude>20.53287037231502</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535237980809224</heading>
+					<tilt>24.01491142103772</tilt>
+					<range>150.1252171072053</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8136744289804,20.53273468159574,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>26</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8131292218907</longitude>
+					<latitude>20.53287037231502</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535237980809224</heading>
+					<tilt>24.01491142103772</tilt>
+					<range>150.1252171072053</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8136197310261,20.53282369527311,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>25</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Gaspar de Almanza<b>]]></description>
+				<LookAt>
+					<longitude>-100.8131292218907</longitude>
+					<latitude>20.53287037231502</latitude>
+					<altitude>0</altitude>
+					<heading>-4.535237980809224</heading>
+					<tilt>24.01491142103772</tilt>
+					<range>150.1252171072053</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8137079927343,20.53282253266648,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,1490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>065130856718 - PORTO REAL.kmz</name>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_shaded_dot0">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_shaded_dot1">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot0">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_shaded_dot1">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>065130856718 - PORTO REAL</name>
+		<visibility>0</visibility>
+		<Folder>
+			<name>Vialidad</name>
+			<visibility>0</visibility>
+			<Folder>
+				<name>Led Vial 50W</name>
+				<visibility>0</visibility>
+				<Placemark>
+					<name>11</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<LookAt>
+						<longitude>-100.776965759051</longitude>
+						<latitude>20.54385064918355</latitude>
+						<altitude>0</altitude>
+						<heading>9.213184783654796</heading>
+						<tilt>9.162762321343683</tilt>
+						<range>91.06185135544256</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7771707785497,20.54379659661935,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>12</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<LookAt>
+						<longitude>-100.7767245882928</longitude>
+						<latitude>20.54379748648615</latitude>
+						<altitude>0</altitude>
+						<heading>9.213269415902939</heading>
+						<tilt>9.162762321343683</tilt>
+						<range>91.06185135421345</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7768170408346,20.54373195316713,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>13</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<LookAt>
+						<longitude>-100.7763080165245</longitude>
+						<latitude>20.54371719120773</latitude>
+						<altitude>0</altitude>
+						<heading>9.21341559898093</heading>
+						<tilt>9.162762321343724</tilt>
+						<range>91.06185135209232</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7765267283516,20.54368217564485,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>14</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<LookAt>
+						<longitude>-100.7759134668818</longitude>
+						<latitude>20.54366422712108</latitude>
+						<altitude>0</altitude>
+						<heading>9.213554053925424</heading>
+						<tilt>9.162762321343683</tilt>
+						<range>91.06185135155879</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7762448587818,20.54365865215589,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>15</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<LookAt>
+						<longitude>-100.7755601067358</longitude>
+						<latitude>20.54364684939007</latitude>
+						<altitude>0</altitude>
+						<heading>9.2136780541845</heading>
+						<tilt>9.162762321343642</tilt>
+						<range>91.0618513518662</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7759516853985,20.54364757248502,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>16</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<LookAt>
+						<longitude>-100.7755601067358</longitude>
+						<latitude>20.54364684939007</latitude>
+						<altitude>0</altitude>
+						<heading>9.2136780541845</heading>
+						<tilt>9.162762321343642</tilt>
+						<range>91.0618513518662</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7756590629746,20.54363279529143,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>17</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<LookAt>
+						<longitude>-100.7750937702892</longitude>
+						<latitude>20.54362550290998</latitude>
+						<altitude>0</altitude>
+						<heading>9.213841700414086</heading>
+						<tilt>9.162762321343642</tilt>
+						<range>91.0618513533211</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7754430468986,20.5436217027291,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>18</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<LookAt>
+						<longitude>-100.7750937702892</longitude>
+						<latitude>20.54362550290998</latitude>
+						<altitude>0</altitude>
+						<heading>9.213841700414086</heading>
+						<tilt>9.162762321343642</tilt>
+						<range>91.0618513533211</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.775249275228,20.54361262902588,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>19</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7745399614041</longitude>
+						<latitude>20.54366313468843</latitude>
+						<altitude>96.26097144230826</altitude>
+						<heading>5.535486108153362</heading>
+						<tilt>1.264354946333445</tilt>
+						<roll>1.011292004409467</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7749191961914,20.54359878129947,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>20</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7745399614041</longitude>
+						<latitude>20.54366313468843</latitude>
+						<altitude>96.26097144230826</altitude>
+						<heading>5.535486108153362</heading>
+						<tilt>1.264354946333445</tilt>
+						<roll>1.011292004409467</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7745668919674,20.54358024162062,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>21</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7741765586095</longitude>
+						<latitude>20.54364187944662</latitude>
+						<altitude>96.26097144089204</altitude>
+						<heading>5.53561363327251</heading>
+						<tilt>1.264354946333156</tilt>
+						<roll>1.011292004409036</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7743618850872,20.54356883438555,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>22</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<LookAt>
+						<longitude>-100.7739924775689</longitude>
+						<latitude>20.54352160410201</latitude>
+						<altitude>0</altitude>
+						<heading>6.439621111756136</heading>
+						<tilt>9.768177193903545</tilt>
+						<range>93.85889962610943</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7741335274521,20.54355183922932,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>23</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7737654461975</longitude>
+						<latitude>20.54344587500035</latitude>
+						<altitude>94.05731681501611</altitude>
+						<heading>95.48730681820041</heading>
+						<tilt>0.0221333651962813</tilt>
+						<roll>90.00109886830204</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7737990551198,20.54354159862697,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>24</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7729897239446</longitude>
+						<latitude>20.54365710305209</latitude>
+						<altitude>102.0764988436086</altitude>
+						<heading>93.42113940763363</heading>
+						<tilt>0.02185023549685203</tilt>
+						<roll>88.79276092873461</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7730690851331,20.54350812962623,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>25</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7723135152158</longitude>
+						<latitude>20.54360779435305</latitude>
+						<altitude>102.0764988450248</altitude>
+						<heading>93.42137670047866</heading>
+						<tilt>0.0218502354801719</tilt>
+						<roll>88.79276092875865</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7727522544144,20.54349214510643,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>26</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7723135152158</longitude>
+						<latitude>20.54360779435305</latitude>
+						<altitude>102.0764988450248</altitude>
+						<heading>93.42137670047866</heading>
+						<tilt>0.0218502354801719</tilt>
+						<roll>88.79276092875865</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7724508416551,20.54347432620417,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>27</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7716902857495</longitude>
+						<latitude>20.54355241589028</latitude>
+						<altitude>102.0764988450248</altitude>
+						<heading>93.42159540183529</heading>
+						<tilt>0.02185023543013151</tilt>
+						<roll>88.79276092878399</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7721077529699,20.54345837563919,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>28</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.773362263007</longitude>
+						<latitude>20.54335691925854</latitude>
+						<altitude>86.3547468068536</altitude>
+						<heading>94.10264216992606</heading>
+						<tilt>0.02218838982315057</tilt>
+						<roll>89.2288372818778</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7735233787237,20.5434479738555,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>29</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.773362263007</longitude>
+						<latitude>20.54335691925854</latitude>
+						<altitude>86.3547468068536</altitude>
+						<heading>94.10264216992606</heading>
+						<tilt>0.02218838982315057</tilt>
+						<roll>89.2288372818778</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7734798962188,20.54344450352385,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>30</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.773362263007</longitude>
+						<latitude>20.54335691925854</latitude>
+						<altitude>86.3547468068536</altitude>
+						<heading>94.10264216992606</heading>
+						<tilt>0.02218838982315057</tilt>
+						<roll>89.2288372818778</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7735409986795,20.5431041648581,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>31</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7733184573046</longitude>
+						<latitude>20.54296104917888</latitude>
+						<altitude>86.3547468068536</altitude>
+						<heading>94.10265754194022</heading>
+						<tilt>0.02218838983957649</tilt>
+						<roll>89.22883728187252</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.773498721821,20.54310233750869,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>32</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7733459164268</longitude>
+						<latitude>20.54278977329551</latitude>
+						<altitude>86.3547468068536</altitude>
+						<heading>94.1026479060787</heading>
+						<tilt>0.02218838977387281</tilt>
+						<roll>89.22883728186723</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7735546132931,20.54279917811744,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>33</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7733459164268</longitude>
+						<latitude>20.54278977329551</latitude>
+						<altitude>86.3547468068536</altitude>
+						<heading>94.1026479060787</heading>
+						<tilt>0.02218838977387281</tilt>
+						<roll>89.22883728186723</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7735066034351,20.54279534453775,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>34</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7733934462655</longitude>
+						<latitude>20.54247825100672</latitude>
+						<altitude>86.35474680968605</altitude>
+						<heading>94.10263122736146</heading>
+						<tilt>0.02218838985600241</tilt>
+						<roll>89.22883728189426</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7735788510183,20.54243281778588,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>35</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7733934462655</longitude>
+						<latitude>20.54247825100672</latitude>
+						<altitude>86.35474680968605</altitude>
+						<heading>94.10263122736146</heading>
+						<tilt>0.02218838985600241</tilt>
+						<roll>89.22883728189426</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7735309946557,20.54242728626475,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>36</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7734115667008</longitude>
+						<latitude>20.54206878428851</latitude>
+						<altitude>86.3547468068536</altitude>
+						<heading>94.10262486939318</heading>
+						<tilt>0.02218838983957649</tilt>
+						<roll>89.22883728189949</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7735897306666,20.54220306915131,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>37</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7734115667008</longitude>
+						<latitude>20.54206878428851</latitude>
+						<altitude>86.3547468068536</altitude>
+						<heading>94.10262486939318</heading>
+						<tilt>0.02218838983957649</tilt>
+						<roll>89.22883728189949</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7735463265101,20.54219875140889,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>38</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7734573640321</longitude>
+						<latitude>20.54179635053707</latitude>
+						<altitude>86.3547468068536</altitude>
+						<heading>94.1026087994657</heading>
+						<tilt>0.02218838983957649</tilt>
+						<roll>89.22883728187469</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7736035348543,20.54192124668314,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>39</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7734573640321</longitude>
+						<latitude>20.54179635053707</latitude>
+						<altitude>86.3547468068536</altitude>
+						<heading>94.1026087994657</heading>
+						<tilt>0.02218838983957649</tilt>
+						<roll>89.22883728187469</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7735648134949,20.54191559343276,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>40</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7734663180141</longitude>
+						<latitude>20.54162787368165</latitude>
+						<altitude>86.35474680826982</altitude>
+						<heading>94.10260565722741</heading>
+						<tilt>0.02218838980672465</tilt>
+						<roll>89.22883728187769</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7736107332865,20.54165179912135,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>41</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7734663180141</longitude>
+						<latitude>20.54162787368165</latitude>
+						<altitude>86.35474680826982</altitude>
+						<heading>94.10260565722741</heading>
+						<tilt>0.02218838980672465</tilt>
+						<roll>89.22883728187769</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7735726859576,20.54164876138732,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>42</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7734405473398</longitude>
+						<latitude>20.54126945419552</latitude>
+						<altitude>86.3547468068536</altitude>
+						<heading>94.10261469969285</heading>
+						<tilt>0.02218838985600241</tilt>
+						<roll>89.22883728185731</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7736308585114,20.54137052928594,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>43</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7734405473398</longitude>
+						<latitude>20.54126945419552</latitude>
+						<altitude>86.3547468068536</altitude>
+						<heading>94.10261469969285</heading>
+						<tilt>0.02218838985600241</tilt>
+						<roll>89.22883728185731</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7735864719138,20.54136698693501,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>44</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7734169759883</longitude>
+						<latitude>20.54090694224614</latitude>
+						<altitude>86.35474680826982</altitude>
+						<heading>94.10262297036212</heading>
+						<tilt>0.02218838985600241</tilt>
+						<roll>89.22883728187463</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7736480127222,20.54110184020481,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>45</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7734169759883</longitude>
+						<latitude>20.54090694224614</latitude>
+						<altitude>86.35474680826982</altitude>
+						<heading>94.10262297036212</heading>
+						<tilt>0.02218838985600241</tilt>
+						<roll>89.22883728187463</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7736118787812,20.5410878498691,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>46</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7736294625634</longitude>
+						<latitude>20.54073764840967</latitude>
+						<altitude>86.35474680826982</altitude>
+						<heading>94.10254841380082</heading>
+						<tilt>0.02218838985600241</tilt>
+						<roll>89.22883728188498</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7737417920048,20.54083335443296,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>47</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7736294625634</longitude>
+						<latitude>20.54073764840967</latitude>
+						<altitude>86.35474680826982</altitude>
+						<heading>94.10254841380082</heading>
+						<tilt>0.02218838985600241</tilt>
+						<roll>89.22883728188498</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7737060402176,20.54081511981641,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>48</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7736294625634</longitude>
+						<latitude>20.54073764840967</latitude>
+						<altitude>86.35474680826982</altitude>
+						<heading>94.10254841380082</heading>
+						<tilt>0.02218838985600241</tilt>
+						<roll>89.22883728188498</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7739161739201,20.54062169741974,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>49</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7736797879552</longitude>
+						<latitude>20.54060581383801</latitude>
+						<altitude>86.35474681110229</altitude>
+						<heading>94.10253075613775</heading>
+						<tilt>0.02218838982315057</tilt>
+						<roll>89.22883728189727</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7738904901498,20.54059316226546,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>50</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7740731864757</longitude>
+						<latitude>20.54049454154907</latitude>
+						<altitude>86.3547468068536</altitude>
+						<heading>94.10239272525577</heading>
+						<tilt>0.02218838983957649</tilt>
+						<roll>89.22883728187034</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7741629873655,20.54045685321256,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>51</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7740731864757</longitude>
+						<latitude>20.54049454154907</latitude>
+						<altitude>86.3547468068536</altitude>
+						<heading>94.10239272525577</heading>
+						<tilt>0.02218838983957649</tilt>
+						<roll>89.22883728187034</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.774144700271,20.54042719311703,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>52</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7744298467125</longitude>
+						<latitude>20.54035554309515</latitude>
+						<altitude>86.3547468068536</altitude>
+						<heading>94.10226758466551</heading>
+						<tilt>0.02218838980672465</tilt>
+						<roll>89.22883728187006</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7744415748751,20.54035349262243,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>53</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7743596386661</longitude>
+						<latitude>20.54038497295007</latitude>
+						<altitude>86.35474680826982</altitude>
+						<heading>94.10229221837287</heading>
+						<tilt>0.02218838985600241</tilt>
+						<roll>89.22883728188589</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7744218612163,20.54031944587766,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>54</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7743596386661</longitude>
+						<latitude>20.54038497295007</latitude>
+						<altitude>86.35474680826982</altitude>
+						<heading>94.10229221837287</heading>
+						<tilt>0.02218838985600241</tilt>
+						<roll>89.22883728188589</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7746893255156,20.54025792943035,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>55</name>
+					<visibility>0</visibility>
+					<description>Led Construlita 50w</description>
+					<Camera>
+						<longitude>-100.7743596386661</longitude>
+						<latitude>20.54038497295007</latitude>
+						<altitude>86.35474680826982</altitude>
+						<heading>94.10229221837287</heading>
+						<tilt>0.02218838985600241</tilt>
+						<roll>89.22883728188589</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.7746678830748,20.54022289251871,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Aire 3 53W</name>
+				<visibility>0</visibility>
+				<Placemark>
+					<name>56</name>
+					<visibility>0</visibility>
+					<description>Led ATP Aire 3, 53W</description>
+					<Camera>
+						<longitude>-100.773074910322</longitude>
+						<latitude>20.54253526673272</latitude>
+						<altitude>132.7439888955446</altitude>
+						<heading>-5.29498760971561</heading>
+						<tilt>0.6239711079683715</tilt>
+						<roll>-3.851210305418446</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_shaded_dot1</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-100.77340463772,20.54248506668485,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Clouster Porto Aveiro</name>
+			<visibility>0</visibility>
+			<Folder>
+				<name>Led Vial 70W</name>
+				<visibility>0</visibility>
+				<Placemark>
+					<name>01</name>
+					<visibility>0</visibility>
+					<description>Led Vial Dianming G5 80W</description>
+					<styleUrl>#msn_shaded_dot0</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>1</value>
+						</Data>
+						<Data name="LED">
+							<value>null</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>abed3107-9143-4354-9f95-2afbc67eea38</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.54235703</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.77298606</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1706892600</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1706892600</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7730143889785,20.54243099956519,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>02</name>
+					<visibility>0</visibility>
+					<description>Led Vial Dianming G5 80W</description>
+					<styleUrl>#msn_shaded_dot0</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>2</value>
+						</Data>
+						<Data name="LED">
+							<value>null</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>cbf6b327-f1d3-422f-93d6-91f9767e2509</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.54236092</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.77271757</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1706892615</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1706892614</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.772698558867,20.54241467381157,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>03</name>
+					<visibility>0</visibility>
+					<description>Led Vial Dianming G5 80W</description>
+					<styleUrl>#msn_shaded_dot0</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>3</value>
+						</Data>
+						<Data name="LED">
+							<value>null</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>99d4ddae-c36f-447f-ad58-248ce8d59804</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.54237164</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.77237013</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1706892630</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1706892630</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7723689824343,20.54241184820018,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>04</name>
+					<visibility>0</visibility>
+					<description>Led Vial Dianming G5 80W</description>
+					<styleUrl>#msn_shaded_dot0</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>4</value>
+						</Data>
+						<Data name="LED">
+							<value>null</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>aad9482e-ab07-4ff4-bf6c-7984417388aa</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.54271859</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.77229123</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1706892650</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1706892649</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.772339142859,20.54271073480372,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>05</name>
+					<visibility>0</visibility>
+					<description>Led Vial Dianming G5 80W</description>
+					<styleUrl>#msn_shaded_dot0</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>5</value>
+						</Data>
+						<Data name="LED">
+							<value>null</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>6a6d57f6-c098-4580-a16f-1e9abcd930bf</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.54301795</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.77227429</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1706892664</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1706892663</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7723421603441,20.5429600158308,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>06</name>
+					<visibility>0</visibility>
+					<description>Led Vial Dianming G5 80W</description>
+					<styleUrl>#msn_shaded_dot0</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>6</value>
+						</Data>
+						<Data name="LED">
+							<value>null</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>a4d39f8c-2620-4b81-8eae-30088dd4b31b</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.54304566</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.77268625</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1706892685</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1706892684</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7726439088583,20.54297822526017,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>07</name>
+					<visibility>0</visibility>
+					<description>Led Vial Dianming G5 80W</description>
+					<styleUrl>#msn_shaded_dot0</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>7</value>
+						</Data>
+						<Data name="LED">
+							<value>null</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>5b3a1c0f-6bff-42af-bbcc-415932894758</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.54305942</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.77300742</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1706892700</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1706892699</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7729510217905,20.54299612073175,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>08</name>
+					<visibility>0</visibility>
+					<description>Led Vial Dianming G5 80W</description>
+					<styleUrl>#msn_shaded_dot0</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>8</value>
+						</Data>
+						<Data name="LED">
+							<value>null</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>70dc1d9f-3934-4bff-81fc-be5b0807c50f</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.54286186</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.7730519</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1706892728</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1706892728</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.772994607687,20.54272015348971,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>09</name>
+					<visibility>0</visibility>
+					<description>Led Vial Dianming G5 80W</description>
+					<styleUrl>#msn_shaded_dot0</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>9</value>
+						</Data>
+						<Data name="LED">
+							<value>PUNTA POSTE DE ADM</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>0482158d-cbcc-42e9-9af6-cac9d6a5f4aa</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.54284381</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.77279815</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1706892828</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1706892785</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7728259637952,20.54258201270366,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>10</name>
+					<visibility>0</visibility>
+					<description>Led Vial Dianming G5 80W</description>
+					<styleUrl>#msn_shaded_dot0</styleUrl>
+					<ExtendedData>
+						<Data name="PK_UID">
+							<value>10</value>
+						</Data>
+						<Data name="LED">
+							<value>PUNTA POSTE DE ADM</value>
+						</Data>
+						<Data name="c_uuid">
+							<value>214fa4e6-ad44-41c9-8c1f-9e92a1109f8e</value>
+						</Data>
+						<Data name="c_refrec">
+							<value>null</value>
+						</Data>
+						<Data name="b_insp">
+							<value>0</value>
+						</Data>
+						<Data name="f_insp">
+							<value>null</value>
+						</Data>
+						<Data name="d_observa">
+							<value>null</value>
+						</Data>
+						<Data name="username">
+							<value>defaultUser</value>
+						</Data>
+						<Data name="latitude">
+							<value>20.54284281</value>
+						</Data>
+						<Data name="longitude">
+							<value>-100.77279798</value>
+						</Data>
+						<Data name="f_actuacion">
+							<value>1706892817</value>
+						</Data>
+						<Data name="f_creacion">
+							<value>1706892808</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-100.7725396379828,20.54279770064899,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

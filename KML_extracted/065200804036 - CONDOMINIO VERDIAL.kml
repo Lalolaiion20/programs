@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>065200804036 - CONDOMINIO VERDIAL.kmz</name>
+	<Style id="failed1300">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed13000">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed13001">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed13002">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed13003">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed13004">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed13005">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed13006">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed143">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed13004</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed15010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed1430">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed13005</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed15016</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed1431">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed13002</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed15011</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed1432">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed13003</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed15012</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed1433">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed13006</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed15014</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed1434">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed13000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed15013</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed1435">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed1300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed1501</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed1436">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed13001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed15015</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed1501">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed15010">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed15011">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed15012">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed15013">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed15014">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed15015">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed15016">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>065200804036 - CONDOMINIO VERDIAL</name>
+		<Folder>
+			<name>Vial Led 50W</name>
+			<Placemark>
+				<name>01</name>
+				<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Fraccionamiento: </b>CONDOMINIO VERDIAL<b>]]></description>
+				<styleUrl>#failed1434</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>5</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>69e9c2af-b2fd-4e24-a9d7-3b271801fb9d</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5515933333333</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.765951666667</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1660679710</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1660679707</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7664383989849,20.5517536602759,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>03</name>
+				<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Fraccionamiento: </b>CONDOMINIO VERDIAL<b>]]></description>
+				<styleUrl>#failed1433</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>6</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>cd253211-08da-4edc-807b-d6d3214faf07</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5515933333333</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.765951666667</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1660679719</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1660679718</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7659516666667,20.55159333333334,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>04</name>
+				<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Fraccionamiento: </b>CONDOMINIO VERDIAL<b>]]></description>
+				<styleUrl>#failed1436</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>7</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>660ce7f4-62dd-4578-8d29-fc368cd964bb</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5515383333333</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.765681666667</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1660679750</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1660679748</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.765695,20.55154166666667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05</name>
+				<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Fraccionamiento: </b>CONDOMINIO VERDIAL<b>]]></description>
+				<styleUrl>#failed143</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>8</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>b0e1418e-4627-49f8-8036-66a04b38517d</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5516866666667</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.765496666667</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1660679783</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1660679782</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7655166666667,20.5517,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06</name>
+				<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Fraccionamiento: </b>CONDOMINIO VERDIAL<b>]]></description>
+				<styleUrl>#failed1435</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>9</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>814a2f6b-5089-479d-aa60-356a84771d23</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5517733333333</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.765688333333</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1660679848</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1660679813</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.76568,20.55178333333334,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07</name>
+				<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Fraccionamiento: </b>CONDOMINIO VERDIAL<b>]]></description>
+				<styleUrl>#failed1432</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>10</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>b05e69d7-5842-4f62-9189-e973e62e3c8c</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5518183333333</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.766048333333</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1660679925</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1660679883</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7660066666667,20.551805,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08</name>
+				<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Fraccionamiento: </b>CONDOMINIO VERDIAL<b>]]></description>
+				<styleUrl>#failed1431</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>11</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>fcf97190-3661-43b8-a7fb-ca90bfb8839d</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5516824</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.7663151</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1660679948</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1660679947</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.7662783333333,20.55182666666667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>02</name>
+				<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Fraccionamiento: </b>CONDOMINIO VERDIAL<b>]]></description>
+				<styleUrl>#failed1430</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>12</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>28caf6cd-86d3-4a96-96c2-d47b94afd55d</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.5517516666667</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.766485</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1660680022</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1660680021</value>
+					</Data>
+				</ExtendedData>
+				<gx:balloonVisibility>1</gx:balloonVisibility>
+				<Point>
+					<coordinates>-100.7662153037595,20.55167161161163,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

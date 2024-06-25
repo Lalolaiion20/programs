@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>075051002997 - CAMINO REAL T1.kmz</name>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot09">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot9100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot513</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_shaded_dot513">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_shaded_dot9100">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>075051002997 - CAMINO REAL T1</name>
+		<Placemark>
+			<name>01</name>
+			<open>1</open>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot09</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8737223345292,20.54505906958835,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>02</name>
+			<open>1</open>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot09</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8736818002331,20.54504087268512,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>03</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8738163932182,20.5448908261221,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>04</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8737745939052,20.54486850968333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8738945148984,20.54474227008456,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>06</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8738467189302,20.54471989294251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>07</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.874045422359,20.54445542739057,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>08</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8739861660631,20.54444236146645,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>09</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8741862765299,20.54417559610847,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8741443413721,20.54415101977542,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8743519023428,20.54385324929855,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8743128261539,20.54383747752523,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8745270263347,20.54351022141304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8744880197405,20.54349442747984,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8746851348057,20.54320189289504,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8746449441657,20.54318659687485,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>17</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8748309426337,20.54282148270648,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>18</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8748744334905,20.54284174227477,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8749917029886,20.54249771567082,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8750528420647,20.54252367558504,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>21</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8751559428243,20.54221386910039,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>22</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.875211892299,20.5422490059848,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>23</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8753995965644,20.54191869703779,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>24</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8754473966819,20.54195650134335,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>25</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8757053526697,20.54167439933226,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>26</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8757358760179,20.54171370316428,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>27</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8760282168025,20.54148719811729,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>28</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8760551914267,20.54152868025695,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>29</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8764136326715,20.54140866376842,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>30</name>
+			<description><![CDATA[<b>Luminaria: </b>LED CONSTRULITA 50W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Camino Real<b>]]></description>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-100.8763950154315,20.54136169456994,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

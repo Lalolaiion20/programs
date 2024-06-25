@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>065050309376 - AV. TECNOLOGICO T2.kmz</name>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>065050309376 - AV. TECNOLOGICO T2</name>
+		<open>1</open>
+		<Folder>
+			<name>Led 50W</name>
+			<Placemark>
+				<name>07</name>
+				<description>Led Construlita 50W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8219370833375,20.56741162510227,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<description>Led Construlita 50W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8219838351911,20.56767933574551,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<description>Led Construlita 50W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8219697541097,20.56795386346519,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<description>Led Construlita 50W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.822029,20.568244,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20</name>
+				<description>Led Construlita 50W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8220669458766,20.56869934670167,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>29</name>
+				<description>Led Construlita 50W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8220832357215,20.56959153973097,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>26</name>
+				<description>Led Construlita 50W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8220538986281,20.56930663319357,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23</name>
+				<description>Led Construlita 50W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8220620366502,20.56903439950012,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>04</name>
+				<description>Led Construlita 50W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8219380301622,20.56714303667543,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Led 130W</name>
+			<Placemark>
+				<name>01</name>
+				<description>Led Construlita 130W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8219736149127,20.56689226835699,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>02</name>
+				<description>Led Construlita 130W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8218804970046,20.56688737099852,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>03</name>
+				<description>Led Construlita 130W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8219805339425,20.56714066467974,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05</name>
+				<description>Led Construlita 130W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8218929484684,20.56714859641816,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06</name>
+				<description>Led Construlita 130W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.82202478334,20.56740555742678,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08</name>
+				<description>Led Construlita 130W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.821894692156,20.567413658772,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09</name>
+				<description>Led Construlita 130W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8220372678419,20.56767588415655,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<description>Led Construlita 130W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8219129403738,20.5676863286728,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<description>Led Construlita 130W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8220475509658,20.56794681909577,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<description>Led Construlita 130W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8219225791356,20.5679588299276,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<description>Led Construlita 130W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8220652487422,20.56824158837988,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17</name>
+				<description>Led Construlita 130W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8219378064911,20.56824674689893,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18</name>
+				<description>Led Construlita 130W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8220867543468,20.56852513026237,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19</name>
+				<description>Led Construlita 130W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.822104096255,20.56869359586437,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19</name>
+				<description>Led Construlita 130W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8219526194457,20.56854739926939,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21</name>
+				<description>Led Construlita 130W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8219816036434,20.56870516126864,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>22</name>
+				<description>Led Construlita 130W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8221260889707,20.56902687636985,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>24</name>
+				<description>Led Construlita 130W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8220054869239,20.56904035078697,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>25</name>
+				<description>Led Construlita 130W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8221395380875,20.56930341379165,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>27</name>
+				<description>Led Construlita 130W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8220246791845,20.56930884473845,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>28</name>
+				<description>Led Construlita 130W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8221699257162,20.56956879053669,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30</name>
+				<description>Led Construlita 130W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.8220426197809,20.56959545868471,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

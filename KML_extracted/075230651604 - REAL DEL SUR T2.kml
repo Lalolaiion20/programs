@@ -1,0 +1,2462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>075230651604 - REAL DEL SUR T2.kmz</name>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_shaded_dot0">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_shaded_dot1">
+		<IconStyle>
+			<color>ffffff00</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ffffff00</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot0">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot1">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>075230651604 - REAL DEL SUR T2</name>
+		<open>1</open>
+		<Folder>
+			<name>Led Vial 53W</name>
+			<Placemark>
+				<name>28</name>
+				<open>1</open>
+				<description>Led Aire 3 ATP 53W</description>
+				<styleUrl>#msn_shaded_dot0</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>28</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>1c98715d-966f-4c57-8540-277994ea4206</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4903774228571</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.855513481775</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507345</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507344</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8554829284549,20.49074624220866,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>29</name>
+				<open>1</open>
+				<description>Led Aire 3 ATP 53W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>29</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>78b59f89-53d5-4e78-8e9a-82095e7a6653</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.490378274124</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.855512704979</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507348</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507347</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.855330042541,20.49073682032488,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>27</name>
+				<open>1</open>
+				<description>Led Aire 3 ATP 53W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>27</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>66c750d1-5a68-45d7-b03c-8c4e63a34e80</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4903779100246</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.855513594885</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507342</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507342</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8552482351661,20.49061936079168,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>26</name>
+				<open>1</open>
+				<description>Led Aire 3 ATP 53W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>26</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>08f911a0-547b-4355-b328-ea4a80836c6c</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4903773282979</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.855514113316</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507339</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507338</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.855321995914,20.49050409961148,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>25</name>
+				<open>1</open>
+				<description>Led Aire 3 ATP 53W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>25</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>b8d1e347-3ac4-4952-a736-490d1b9dbdac</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4903776185069</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.855514114179</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507336</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507335</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8554983511567,20.49050755430751,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>22</name>
+				<open>1</open>
+				<description>Led Aire 3 ATP 53W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>22</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>dc4428a1-d751-42f0-bff5-76268514b0fa</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.490381534636</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.855516817213</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507319</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507318</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8557055518031,20.49054272938998,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>24</name>
+				<open>1</open>
+				<description>Led Aire 3 ATP 53W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>24</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>1fa74e08-c94a-4e6f-a439-a4f2949a7d80</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.490378403975</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.855513957974</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507331</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507330</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8556006103754,20.49064322958112,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23</name>
+				<open>1</open>
+				<description>Led Aire 3 ATP 53W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>23</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>b0007826-30c3-46bd-aa0f-08f371db223a</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4903738027577</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.855511735621</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507323</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507322</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8556834235787,20.49074592814588,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21</name>
+				<open>1</open>
+				<description>Led Aire 3 ATP 53W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>21</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>5e7b4202-8b7e-4628-b91e-c349ccb4065b</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4903788592695</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.855524506322</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507314</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507313</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8558711782098,20.49055906067551,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20</name>
+				<open>1</open>
+				<description>Led Aire 3 ATP 53W</description>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>20</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>a54cdf4a-2888-4ff6-8e7f-8f6daac24b57</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4903915035864</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.855528987035</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507311</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507310</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8558574318886,20.49075283752697,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>A.M. Vial 100W</name>
+			<Placemark>
+				<name>01</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>1</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>9e27190f-f9d3-4e52-90f7-f56fd327f993</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4927003677007</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.856772108638</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507057</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507056</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8567559719086,20.49273927167757,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>02</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>2</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>c3f52b2b-8091-4b98-a57e-97ef18111f7e</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4927003677007</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.856772108638</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507061</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507060</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8567931875587,20.49242301423983,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>03</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>3</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>3f0fcc76-f67f-4bf2-8ce1-2da56019b7e6</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4924625176874</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.856789016488</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507085</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507084</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8568287268281,20.49214067462552,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>04</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>4</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>91d10665-3c6c-42c2-a2ae-c830e70f5f10</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4922908464654</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.856804636602</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507089</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507088</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8568635955453,20.49179300989225,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>10</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>f6feb3f4-51ec-43fc-a32a-2d80ed24cdd9</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4909091435102</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.856963685253</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507120</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507119</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.857037268579,20.49031252089137,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>11</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>9b026b25-b4fb-4a4b-9d1f-ce7d9c38de57</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4905390427566</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.85699705408</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507127</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507126</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8569749072194,20.49020008605564,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>12</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>c539d545-920e-4179-b853-0c7ba7ec4cb3</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4903798970847</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.857006392574</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507131</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507130</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.856667123735,20.49016553902251,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>13</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>b31e1596-5bed-469d-bdb1-ebd7ba40deaf</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4902647601192</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.857008577355</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507136</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507135</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8563767746091,20.49016114212684,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>14</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>a60623b5-5135-41fd-9b49-b01013d08dd9</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4901526872734</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.856889624713</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507141</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507140</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8560596033931,20.49014857956704,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>15</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>f6c432dd-c8d0-44ce-913c-4231b47893f1</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4901376934994</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.856794338016</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507144</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507143</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8557514846325,20.49010869343289,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>16</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>21cecbc9-7e25-4de5-b461-c13f503b3bb4</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4901315070583</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.85666655426</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507148</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507148</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8554426953197,20.49009361835585,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>17</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>ca7072ed-3122-421e-a99d-b9a7b80ea893</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4901250321158</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.85647021122</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507153</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507151</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8551510050893,20.49007163386587,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>18</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>b536fcbb-2929-408a-abe3-aa2a83e8ee44</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4901153070463</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.856333724612</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507157</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507156</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8548475801945,20.49005907129874,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>19</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>0deae60e-48bf-4d8d-a949-df39e3f0d7bc</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.490111237454</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.856282764861</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507161</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507160</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8545448258519,20.4900380289965,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>30</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>1da2aeb8-a9e6-4ba8-934c-cd0880097e15</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4903800708358</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.855511495315</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507354</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507353</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8553736284375,20.49047269328033,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>31</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>31</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>fb7f21eb-d76d-4474-b5bd-d107fe6019bc</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.490427109014</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.855508018529</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507360</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507359</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8551523461938,20.49045667604895,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>32</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>32</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>a4f88586-31b8-4536-8b59-0dc89685c06d</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4904798625342</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.855470152964</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507367</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507366</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8545441552997,20.49040736809091,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>33</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>33</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>383d9f1c-aa6f-4946-a7e4-32a2755ab42a</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4905241</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.8556807</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507369</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507369</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8548345044255,20.49043155097678,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>34</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>34</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>883de686-5e59-458f-bd7d-c34ed8d47fe3</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4904797585149</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.855459745005</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507376</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507375</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8558084815741,20.49048682613013,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>35</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>35</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>2106ccae-488f-4616-b69c-a7b8e7b97a7e</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4904715005579</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.855468166999</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507386</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507385</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8562024310231,20.49052200121735,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>36</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>36</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>ed3b94ce-7b2e-4fc1-93cf-08a1d2131abd</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4904717568209</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.855470145775</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507388</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507388</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8564991503954,20.49052514184975,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>37</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>37</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>6c1d4c01-ff38-40da-bc7b-05075cc9a42b</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4904861193326</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.854560735847</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507434</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507433</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.854626968503,20.49058701229482,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>38</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>38</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>302f3722-3991-41c7-9c0e-2904aabd44aa</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.490580776044</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.85455982535</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507437</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507436</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8545656129718,20.49097550786911,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>39</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>39</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>f77a5039-0f27-4f81-bdc9-aeebb7a3f056</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4906191312192</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.854559937543</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507442</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507441</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8548150584102,20.49079649224577,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>40</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>40</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>97f9842c-9138-4249-bd55-53cfde42d802</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.490621034208</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.854560801921</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507444</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507444</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.855081602931,20.49080528600057,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>41</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>41</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>70440728-1d4a-467a-bedd-704e1b362843</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4906843687822</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.854560481212</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507448</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507447</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8554168790579,20.49084014695213,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>42</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>42</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>a6072814-97f8-4343-b8a3-e6b78a64cdbf</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4907987145582</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.85460525477</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507461</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507460</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8557219803333,20.49085365164296,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>43</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>43</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>8e2e7cfa-3374-4b10-bc89-6d32a7460c76</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4908018008493</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.854609570751</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507468</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507468</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8560713380575,20.49087626414584,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>44</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>44</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>387bfe01-acb0-4a5f-8ac1-abe1eec62ec9</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4908022349089</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.854612875599</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507472</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507471</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.856321118772,20.49089039695846,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>45</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>45</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>8c914499-1323-4720-bb71-64edc895144d</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4907978428347</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.85460658081</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507477</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507477</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8565896749497,20.49060271544949,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>46</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>46</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>d2b367cd-150c-4e05-b103-eea5ee07a407</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4907789526537</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.8545900232</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507480</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507480</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.856556147337,20.490924001641,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>47</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>47</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>52b97ef4-3f7d-4002-a480-69059950bfe2</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4907645195025</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.854581781648</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507483</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507483</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8565041795373,20.49128485893606,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>48</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>48</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>29f0041d-de82-441c-9cc4-8005a750f351</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4911622872376</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.854547865144</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507515</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507514</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8544475957751,20.49114101861911,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>49</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>49</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>452b0bdd-bd69-4519-9f3c-0ead5b533f7b</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4911636555485</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.854555700819</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507519</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507519</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8547892421484,20.49115358109758,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>50</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>50</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>5a0bc3a5-d6fa-48c1-a9ed-26ae6c0f96bc</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.491164611555</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.854558112547</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507523</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507522</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8550980314612,20.49118687166056,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>51</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>51</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>e0f210b0-423c-4567-9121-54d816726840</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4911633358494</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.854558639326</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507526</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507525</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8553927391768,20.49120006225899,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>52</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>52</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>382a1f21-3cea-4ed5-ada6-79e1d446602a</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4911645354146</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.854561450066</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507530</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507529</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8556907996535,20.49121733565996,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>53</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>53</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>2622d902-a927-44c5-a392-607bc96c5a68</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.491105</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.8548277</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507533</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507532</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8559982478619,20.49123743561503,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>54</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>54</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>844d1279-8de4-47d5-a888-e0cd185fc1fa</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4911761213842</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.854583544928</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507538</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507537</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8563412353396,20.49125659338224,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>55</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>cf319edd-7630-4edd-a2b6-c86247dffa99</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>MURETE</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4914987000559</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.856407107048</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507633</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507623</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8564193546772,20.49148805670838,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>6</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>4a4c6f86-084a-4570-b38a-4b46fb56c1f7</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4918827049886</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.856843685086</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507099</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507098</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8569001406431,20.4915232315659,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>7</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>af0f6e84-02be-4571-8f72-3eeb9ceef89f</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4916912592015</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.856866679449</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507102</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507102</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8569333329797,20.49120477318672,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>8</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>baa8a80e-9e8e-41f2-98a5-ebaf4633a185</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4914190636978</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.856900306699</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507111</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507110</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.856952778995,20.49086998289538,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08</name>
+				<description>Enur ATP A.M. 100W</description>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<ExtendedData>
+					<Data name="PK_UID">
+						<value>9</value>
+					</Data>
+					<Data name="c_uuid">
+						<value>a4f1f778-3700-49d7-8bc6-9bb6583004c2</value>
+					</Data>
+					<Data name="c_refrec">
+						<value>null</value>
+					</Data>
+					<Data name="b_insp">
+						<value>0</value>
+					</Data>
+					<Data name="f_insp">
+						<value>null</value>
+					</Data>
+					<Data name="d_observa">
+						<value>null</value>
+					</Data>
+					<Data name="username">
+						<value>defaultUser</value>
+					</Data>
+					<Data name="latitude">
+						<value>20.4912156517371</value>
+					</Data>
+					<Data name="longitude">
+						<value>-100.856926891674</value>
+					</Data>
+					<Data name="f_actuacion">
+						<value>1674507115</value>
+					</Data>
+					<Data name="f_creacion">
+						<value>1674507114</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.8569997176528,20.49055215128568,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>065110906361 - AV. IRRIGACIÓN.kmz</name>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<scale>0.681817</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_shaded_dot0">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<scale>0.681817</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot0">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>065110906361 - AV. IRRIGACIÓN</name>
+		<Placemark>
+			<name>01</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.7780150164624</longitude>
+				<latitude>20.53670753982697</latitude>
+				<altitude>0</altitude>
+				<heading>-8.102449689270307</heading>
+				<tilt>3.488968894271938</tilt>
+				<range>112.8293405888762</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot0</styleUrl>
+			<Point>
+				<coordinates>-100.7781927135546,20.53682154317103,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>02</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.7780150164624</longitude>
+				<latitude>20.53670753982697</latitude>
+				<altitude>0</altitude>
+				<heading>-8.102449689270307</heading>
+				<tilt>3.488968894271938</tilt>
+				<range>112.8293405888762</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot0</styleUrl>
+			<Point>
+				<coordinates>-100.7783495201029,20.53662453805717,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>03</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.7785666923399</longitude>
+				<latitude>20.53636354729191</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9218843074620794</heading>
+				<tilt>10.76441058994585</tilt>
+				<range>134.335660803316</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot0</styleUrl>
+			<Point>
+				<coordinates>-100.7784211990592,20.53644566688461,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>04</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 50W</description>
+			<LookAt>
+				<longitude>-100.7785184636301</longitude>
+				<latitude>20.53632387665677</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9218623240061649</heading>
+				<tilt>18.2801160811253</tilt>
+				<range>108.0873638656213</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot0</styleUrl>
+			<Point>
+				<coordinates>-100.7784029203638,20.5363198448296,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.7785184636301</longitude>
+				<latitude>20.53632387665677</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9218623240061649</heading>
+				<tilt>18.2801160811253</tilt>
+				<range>108.0873638656213</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot0</styleUrl>
+			<Point>
+				<coordinates>-100.7783974561524,20.53627858170478,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>06</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.7787344659723</longitude>
+				<latitude>20.53640736977043</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9219431634594994</heading>
+				<tilt>10.76441058994592</tilt>
+				<range>134.3356608052825</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot0</styleUrl>
+			<Point>
+				<coordinates>-100.7787397737799,20.53644477066721,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>07</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.7787677409192</longitude>
+				<latitude>20.53641199209056</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9219497707707148</heading>
+				<tilt>18.28011608112528</tilt>
+				<range>108.0873638636758</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7786914869743,20.53628077186216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>08</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.7787677409192</longitude>
+				<latitude>20.53641199209056</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9219497707707148</heading>
+				<tilt>18.28011608112528</tilt>
+				<range>108.0873638636758</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.778982387452,20.53644439053641,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>09</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 50W</description>
+			<LookAt>
+				<longitude>-100.7789083808495</longitude>
+				<latitude>20.53646222434247</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9219991071415574</heading>
+				<tilt>18.2801160811253</tilt>
+				<range>108.0873638655945</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7789909578753,20.53632092191635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.7787677409192</longitude>
+				<latitude>20.53641199209056</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9219497707707148</heading>
+				<tilt>18.28011608112528</tilt>
+				<range>108.0873638636758</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.778989894869,20.53628110058556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.779086095297</longitude>
+				<latitude>20.53647817382855</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9220614496081465</heading>
+				<tilt>18.28011608112528</tilt>
+				<range>108.0873638636882</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7792952437953,20.53644637101686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 50W</description>
+			<LookAt>
+				<longitude>-100.779086095297</longitude>
+				<latitude>20.53647817382855</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9220614496081465</heading>
+				<tilt>18.28011608112528</tilt>
+				<range>108.0873638636882</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7792898457883,20.53640772405473,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.7794599112704</longitude>
+				<latitude>20.53621981838663</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9221925854999568</heading>
+				<tilt>18.28011608112528</tilt>
+				<range>108.0873638660661</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7792963333494,20.53628176767391,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.779511461455</longitude>
+				<latitude>20.53644836461622</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9222106690140868</heading>
+				<tilt>18.28011608112528</tilt>
+				<range>108.0873638653665</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7796049098619,20.53645064085849,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 50W</description>
+			<LookAt>
+				<longitude>-100.7792817732678</longitude>
+				<latitude>20.5361911837778</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9221465982513534</heading>
+				<tilt>22.5270706410986</tilt>
+				<range>142.9669998891208</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7795900317846,20.53632267812817,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.7792817732678</longitude>
+				<latitude>20.5361911837778</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9221465982513534</heading>
+				<tilt>22.5270706410986</tilt>
+				<range>142.9669998891208</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7795887591857,20.53628290076468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>17</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.7795692162247</longitude>
+				<latitude>20.53659550491593</latitude>
+				<altitude>0</altitude>
+				<heading>2.668001504861538</heading>
+				<tilt>18.14951259408415</tilt>
+				<range>138.5430208992803</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7799003622316,20.53645508979216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>18</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 50W</description>
+			<LookAt>
+				<longitude>-100.7795692162247</longitude>
+				<latitude>20.53659550491593</latitude>
+				<altitude>0</altitude>
+				<heading>2.668001504861538</heading>
+				<tilt>18.14951259408415</tilt>
+				<range>138.5430208992803</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.779900131083,20.53641074902466,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.7795805048667</longitude>
+				<latitude>20.53640744697966</latitude>
+				<altitude>0</altitude>
+				<heading>2.667997543221666</heading>
+				<tilt>18.14951259408419</tilt>
+				<range>138.5430208990319</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.779911022153,20.53628704062587,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.7799320417452</longitude>
+				<latitude>20.53642523930755</latitude>
+				<altitude>0</altitude>
+				<heading>2.667874224238898</heading>
+				<tilt>18.14951259408421</tilt>
+				<range>138.5430208992802</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7802087669026,20.53645287878358,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>21</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 50W</description>
+			<LookAt>
+				<longitude>-100.7799320417452</longitude>
+				<latitude>20.53642523930755</latitude>
+				<altitude>0</altitude>
+				<heading>2.667874224238898</heading>
+				<tilt>18.14951259408421</tilt>
+				<range>138.5430208992802</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.780199808433,20.53633382216578,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>22</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.7799320417452</longitude>
+				<latitude>20.53642523930755</latitude>
+				<altitude>0</altitude>
+				<heading>2.667874224238898</heading>
+				<tilt>18.14951259408421</tilt>
+				<range>138.5430208992802</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7802016288883,20.53628837629513,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>23</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.7803935533536</longitude>
+				<latitude>20.53660333436326</latitude>
+				<altitude>0</altitude>
+				<heading>2.667712327480903</heading>
+				<tilt>18.14951259408421</tilt>
+				<range>138.5430208992568</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.780521491339,20.53644411060242,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>24</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 50W</description>
+			<LookAt>
+				<longitude>-100.7804776169961</longitude>
+				<latitude>20.53649089057818</latitude>
+				<altitude>0</altitude>
+				<heading>-1.359584761890828</heading>
+				<tilt>24.35974006384684</tilt>
+				<range>111.7911372338586</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7805142176916,20.53640315714556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>25</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.7804588755315</longitude>
+				<latitude>20.53646235112848</latitude>
+				<altitude>0</altitude>
+				<heading>2.667689411844379</heading>
+				<tilt>18.14951259408421</tilt>
+				<range>138.5430209014839</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7805060102667,20.53629094580253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>26</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.780524355702</longitude>
+				<latitude>20.53655084368224</latitude>
+				<altitude>0</altitude>
+				<heading>-1.371504824257324</heading>
+				<tilt>22.24002764865453</tilt>
+				<range>124.8440759869758</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7808266117893,20.53642390262484,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>27</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 50W</description>
+			<LookAt>
+				<longitude>-100.780524355702</longitude>
+				<latitude>20.53655084368224</latitude>
+				<altitude>0</altitude>
+				<heading>-1.371504824257324</heading>
+				<tilt>22.24002764865453</tilt>
+				<range>124.8440759869758</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7808280802506,20.53633173754157,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>28</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.780524355702</longitude>
+				<latitude>20.53655084368224</latitude>
+				<altitude>0</altitude>
+				<heading>-1.371504824257324</heading>
+				<tilt>22.24002764865453</tilt>
+				<range>124.8440759869758</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.78082605778,20.53629260828252,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>29</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.7809651324679</longitude>
+				<latitude>20.53647578638019</latitude>
+				<altitude>0</altitude>
+				<heading>-1.135112807907224</heading>
+				<tilt>25.36443799219283</tilt>
+				<range>155.0570915653347</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7811324521157,20.53636908780783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>30</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.780871954222</longitude>
+				<latitude>20.5364510224584</latitude>
+				<altitude>0</altitude>
+				<heading>-1.359723095899898</heading>
+				<tilt>24.3597400638468</tilt>
+				<range>111.791137234606</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7811527268897,20.53634841838944,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>31</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<LookAt>
+				<longitude>-100.7809666252087</longitude>
+				<latitude>20.5364761407639</latitude>
+				<altitude>0</altitude>
+				<heading>-1.135113749455298</heading>
+				<tilt>25.36597818156859</tilt>
+				<range>155.0293898238251</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7811305123547,20.53632413119024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>32</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<Camera>
+				<longitude>-100.7814375213916</longitude>
+				<latitude>20.53612155853631</latitude>
+				<altitude>123.3854702978985</altitude>
+				<heading>-2.583384000050716</heading>
+				<tilt>13.97560788748731</tilt>
+				<roll>0.9226687509434175</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7814372921298,20.53640265928178,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>33</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<Camera>
+				<longitude>-100.7814375213916</longitude>
+				<latitude>20.53612155853631</latitude>
+				<altitude>123.3854702978985</altitude>
+				<heading>-2.583384000050716</heading>
+				<tilt>13.97560788748731</tilt>
+				<roll>0.9226687509434175</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7814545941022,20.53638015360743,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>34</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<Camera>
+				<longitude>-100.7814375213916</longitude>
+				<latitude>20.53612155853631</latitude>
+				<altitude>123.3854702978985</altitude>
+				<heading>-2.583384000050716</heading>
+				<tilt>13.97560788748731</tilt>
+				<roll>0.9226687509434175</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7814597722583,20.53641783363992,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>35</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7817066953504</longitude>
+				<latitude>20.53614532784895</latitude>
+				<altitude>123.3854702978985</altitude>
+				<heading>-2.583478426306697</heading>
+				<tilt>13.97560788748731</tilt>
+				<roll>0.9226687509434084</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7817745383899,20.536462568967,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>36</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 50W</description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7817066953504</longitude>
+				<latitude>20.53614532784895</latitude>
+				<altitude>123.3854702978985</altitude>
+				<heading>-2.583478426306697</heading>
+				<tilt>13.97560788748731</tilt>
+				<roll>0.9226687509434084</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7817753786064,20.5363686302593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>37</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7817066953504</longitude>
+				<latitude>20.53614532784895</latitude>
+				<altitude>123.3854702978985</altitude>
+				<heading>-2.583478426306697</heading>
+				<tilt>13.97560788748731</tilt>
+				<roll>0.9226687509434084</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7817724698343,20.53633110321876,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>38</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7818915349957</longitude>
+				<latitude>20.53617758730752</latitude>
+				<altitude>123.3854702978985</altitude>
+				<heading>-2.583543267745515</heading>
+				<tilt>13.97560788748731</tilt>
+				<roll>0.9226687509434215</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7819757477716,20.5364624576761,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>39</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 50W</description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7818915349957</longitude>
+				<latitude>20.53617758730752</latitude>
+				<altitude>123.3854702978985</altitude>
+				<heading>-2.583543267745515</heading>
+				<tilt>13.97560788748731</tilt>
+				<roll>0.9226687509434215</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7819753294908,20.53642378145004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>40</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7817066953504</longitude>
+				<latitude>20.53614532784895</latitude>
+				<altitude>123.3854702978985</altitude>
+				<heading>-2.583478426306697</heading>
+				<tilt>13.97560788748731</tilt>
+				<roll>0.9226687509434084</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.781969211829,20.53632227258956,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>41</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7819988930569</longitude>
+				<latitude>20.53616878421955</latitude>
+				<altitude>123.3854702993147</altitude>
+				<heading>-2.583580929320305</heading>
+				<tilt>13.97560788748734</tilt>
+				<roll>0.9226687509434627</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.782237760427,20.53646384541688,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>42</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 50W</description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7819988930569</longitude>
+				<latitude>20.53616878421955</latitude>
+				<altitude>123.3854702993147</altitude>
+				<heading>-2.583580929320305</heading>
+				<tilt>13.97560788748734</tilt>
+				<roll>0.9226687509434627</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7822468614988,20.53634158342862,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>43</name>
+			<open>1</open>
+			<description>LED CONSTRULITA 70W</description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.7819988930569</longitude>
+				<latitude>20.53616878421955</latitude>
+				<altitude>123.3854702993147</altitude>
+				<heading>-2.583580929320305</heading>
+				<tilt>13.97560788748734</tilt>
+				<roll>0.9226687509434627</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.7822457251602,20.53630216975179,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,1795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>065131055743 - LIB. NORORINTE.kmz</name>
+	<StyleMap id="msn_open-diamond">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot24010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot2300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot23010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_open-diamond">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.954546</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.681818</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_shaded_dot23010">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.954546</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_open-diamond">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot2300">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>065131055743 - LIB. NORORINTE</name>
+		<Folder>
+			<name>Viales</name>
+			<Placemark>
+				<name>26</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7783183485311</longitude>
+					<latitude>20.53741329086645</latitude>
+					<altitude>0</altitude>
+					<heading>72.97719511456256</heading>
+					<tilt>11.38311364421058</tilt>
+					<range>166.4369278870976</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7782513026846,20.53711518546179,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>27</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.778141367408</longitude>
+					<latitude>20.53680602749916</latitude>
+					<altitude>0</altitude>
+					<heading>-0.9866549419494307</heading>
+					<tilt>24.12992686422833</tilt>
+					<range>160.7741885599313</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7780968238975,20.53678029615956,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>25</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7783183485311</longitude>
+					<latitude>20.53741329086645</latitude>
+					<altitude>0</altitude>
+					<heading>72.97719511456256</heading>
+					<tilt>11.38311364421058</tilt>
+					<range>166.4369278870976</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7782972033051,20.53745943956846,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>24</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7783294293189</longitude>
+					<latitude>20.53777741847482</latitude>
+					<altitude>0</altitude>
+					<heading>72.97719122992984</heading>
+					<tilt>11.38311364421042</tilt>
+					<range>173.1691634830572</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7783770479324,20.53773305770941,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7785714922022</longitude>
+					<latitude>20.53772631404248</latitude>
+					<altitude>0</altitude>
+					<heading>72.97710630960198</heading>
+					<tilt>11.38311364421046</tilt>
+					<range>173.1691634819217</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7784399203169,20.5379968012726,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7786925107442</longitude>
+					<latitude>20.5387225385375</latitude>
+					<altitude>0</altitude>
+					<heading>72.97706385420827</heading>
+					<tilt>11.38311364421042</tilt>
+					<range>173.1691634830418</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7786903176738,20.53884301867783,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>22</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7785714922022</longitude>
+					<latitude>20.53772631404248</latitude>
+					<altitude>0</altitude>
+					<heading>72.97710630960198</heading>
+					<tilt>11.38311364421046</tilt>
+					<range>173.1691634819217</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7785348660856,20.53828101871614,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7788436527285</longitude>
+					<latitude>20.53918481223163</latitude>
+					<altitude>0</altitude>
+					<heading>72.97701082520221</heading>
+					<tilt>11.38311364421049</tilt>
+					<range>173.1691634816379</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7789198005052,20.53965231183966,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7789611457833</longitude>
+					<latitude>20.5402894030468</latitude>
+					<altitude>0</altitude>
+					<heading>72.97696056468399</heading>
+					<tilt>17.34189663175327</tilt>
+					<range>216.7265758312945</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7790010010163,20.53992637981542,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7791484096594</longitude>
+					<latitude>20.54080560635799</latitude>
+					<altitude>0</altitude>
+					<heading>72.97689486187163</heading>
+					<tilt>17.34189663175324</tilt>
+					<range>216.726575832869</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7790840694826,20.54018928289458,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7789611457833</longitude>
+					<latitude>20.5402894030468</latitude>
+					<altitude>0</altitude>
+					<heading>72.97696056468399</heading>
+					<tilt>17.34189663175327</tilt>
+					<range>216.7265758312945</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7792427631771,20.5407239011047,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7791484096594</longitude>
+					<latitude>20.54080560635799</latitude>
+					<altitude>0</altitude>
+					<heading>72.97689486187163</heading>
+					<tilt>17.34189663175324</tilt>
+					<range>216.726575832869</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7791601914753,20.5404512816409,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7793602941516</longitude>
+					<latitude>20.54160557554551</latitude>
+					<altitude>0</altitude>
+					<heading>72.97682051999536</heading>
+					<tilt>17.34189663175329</tilt>
+					<range>216.7265758321559</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7795409916924,20.54181179008034,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7793602941516</longitude>
+					<latitude>20.54160557554551</latitude>
+					<altitude>0</altitude>
+					<heading>72.97682051999536</heading>
+					<tilt>17.34189663175329</tilt>
+					<range>216.7265758321559</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7793936660995,20.54125899742644,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7791484096594</longitude>
+					<latitude>20.54080560635799</latitude>
+					<altitude>0</altitude>
+					<heading>72.97689486187163</heading>
+					<tilt>17.34189663175324</tilt>
+					<range>216.726575832869</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7793184737978,20.54098663997415,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7795454073406</longitude>
+					<latitude>20.54230227323012</latitude>
+					<altitude>0</altitude>
+					<heading>72.97675556882776</heading>
+					<tilt>17.34189663175329</tilt>
+					<range>216.7265758320896</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7796936318277,20.54234335490155,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7793602941516</longitude>
+					<latitude>20.54160557554551</latitude>
+					<altitude>0</altitude>
+					<heading>72.97682051999536</heading>
+					<tilt>17.34189663175329</tilt>
+					<range>216.7265758321559</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7796314686906,20.54208850883175,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>03</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7798375465016</longitude>
+					<latitude>20.54300619962547</latitude>
+					<altitude>0</altitude>
+					<heading>72.97663230091531</heading>
+					<tilt>24.05567525912687</tilt>
+					<range>149.248690071055</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7799349897103,20.54315637623039,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>04</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7795454073406</longitude>
+					<latitude>20.54230227323012</latitude>
+					<altitude>0</altitude>
+					<heading>72.97675556882776</heading>
+					<tilt>17.34189663175329</tilt>
+					<range>216.7265758320896</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7798517334019,20.54289270873121,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>02</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7798375465016</longitude>
+					<latitude>20.54300619962547</latitude>
+					<altitude>0</altitude>
+					<heading>72.97663230091531</heading>
+					<tilt>24.05567525912687</tilt>
+					<range>149.248690071055</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7800077087054,20.54342138495402,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>01</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7801468083415</longitude>
+					<latitude>20.54375896879539</latitude>
+					<altitude>0</altitude>
+					<heading>68.94635290500158</heading>
+					<tilt>0</tilt>
+					<range>158.4141245422164</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.780090137914,20.54370071745764,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>49</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7796443524782</longitude>
+					<latitude>20.54305448620953</latitude>
+					<altitude>160.6464891441176</altitude>
+					<heading>57.04324581293856</heading>
+					<tilt>5.62936863971551</tilt>
+					<roll>2.282125785192033</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7795269044719,20.54306506195746,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>50</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7796443524782</longitude>
+					<latitude>20.54305448620953</latitude>
+					<altitude>160.6464891441176</altitude>
+					<heading>57.04324581293856</heading>
+					<tilt>5.62936863971551</tilt>
+					<roll>2.282125785192033</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7796041462984,20.54333914455504,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>51</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7799647584913</longitude>
+					<latitude>20.54348265867079</latitude>
+					<altitude>160.6464891469501</altitude>
+					<heading>57.04313337677508</heading>
+					<tilt>5.629368639715445</tilt>
+					<roll>2.282125785192055</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7796939657867,20.54363973172707,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>52</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7798918247756</longitude>
+					<latitude>20.54381231975267</latitude>
+					<altitude>123.1102308575752</altitude>
+					<heading>67.19478408405895</heading>
+					<tilt>0.843170070706197</tilt>
+					<roll>-7.869524922132752</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7797808988643,20.54396184202149,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>47</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7793526576419</longitude>
+					<latitude>20.54228501820261</latitude>
+					<altitude>160.6464891441176</altitude>
+					<heading>57.04334817005028</heading>
+					<tilt>5.629368639715705</tilt>
+					<roll>2.282125785192297</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7793680856973,20.54251211518152,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>48</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7796443524782</longitude>
+					<latitude>20.54305448620953</latitude>
+					<altitude>160.6464891441176</altitude>
+					<heading>57.04324581293856</heading>
+					<tilt>5.62936863971551</tilt>
+					<roll>2.282125785192033</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7794422454116,20.54278680479657,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>45</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7793533101647</longitude>
+					<latitude>20.54228588272218</latitude>
+					<altitude>160.6464891441176</altitude>
+					<heading>57.04334794107786</heading>
+					<tilt>5.629368639715445</tilt>
+					<roll>2.282125785192084</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7792033709173,20.54193234181731,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>43</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7791053437423</longitude>
+					<latitude>20.54130862042581</latitude>
+					<altitude>160.6464891427014</altitude>
+					<heading>57.04343495105312</heading>
+					<tilt>5.62936863971551</tilt>
+					<roll>2.282125785192109</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7790478636038,20.54136751676211,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>44</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7791053437423</longitude>
+					<latitude>20.54130862042581</latitude>
+					<altitude>160.6464891427014</altitude>
+					<heading>57.04343495105312</heading>
+					<tilt>5.62936863971551</tilt>
+					<roll>2.282125785192109</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7791258631021,20.54164773595893,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>40</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7789306344534</longitude>
+					<latitude>20.54054398613635</latitude>
+					<altitude>160.6464891441176</altitude>
+					<heading>57.0434962529781</heading>
+					<tilt>5.62936863971564</tilt>
+					<roll>2.282125785192189</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7788072618785,20.54052103535475,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>41</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7789306344534</longitude>
+					<latitude>20.54054398613635</latitude>
+					<altitude>160.6464891441176</altitude>
+					<heading>57.0434962529781</heading>
+					<tilt>5.62936863971564</tilt>
+					<roll>2.282125785192189</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7788839650382,20.54080151529338,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>42</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7791053437423</longitude>
+					<latitude>20.54130862042581</latitude>
+					<altitude>160.6464891427014</altitude>
+					<heading>57.04343495105312</heading>
+					<tilt>5.62936863971551</tilt>
+					<roll>2.282125785192109</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7789625092298,20.54108332160773,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>38</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7786433208929</longitude>
+					<latitude>20.5396940065252</latitude>
+					<altitude>160.6464891427014</altitude>
+					<heading>57.0435970598593</heading>
+					<tilt>5.629368639715574</tilt>
+					<roll>2.282125785192278</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7786421553206,20.53995073049634,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>39</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7789306344534</longitude>
+					<latitude>20.54054398613635</latitude>
+					<altitude>160.6464891441176</altitude>
+					<heading>57.0434962529781</heading>
+					<tilt>5.62936863971564</tilt>
+					<roll>2.282125785192189</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7787247579587,20.54023688403672,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>36</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7786433208929</longitude>
+					<latitude>20.5396940065252</latitude>
+					<altitude>160.6464891427014</altitude>
+					<heading>57.0435970598593</heading>
+					<tilt>5.629368639715574</tilt>
+					<roll>2.282125785192278</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7784744876791,20.53939269212415,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>32</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7781958265106</longitude>
+					<latitude>20.53815699293314</latitude>
+					<altitude>160.6464891441176</altitude>
+					<heading>57.04375406134595</heading>
+					<tilt>5.629368639715251</tilt>
+					<roll>2.282125785192195</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.778157591685,20.53824322907582,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7779128526592</longitude>
+					<latitude>20.53727332360117</latitude>
+					<altitude>160.6464891469501</altitude>
+					<heading>57.04385333500149</heading>
+					<tilt>5.629368639715316</tilt>
+					<roll>2.282125785192046</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.77801368561,20.53771513507475,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>31</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7781958265106</longitude>
+					<latitude>20.53815699293314</latitude>
+					<altitude>160.6464891441176</altitude>
+					<heading>57.04375406134595</heading>
+					<tilt>5.629368639715251</tilt>
+					<roll>2.282125785192195</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7780818614837,20.53795010358674,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>29</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7779128526592</longitude>
+					<latitude>20.53727332360117</latitude>
+					<altitude>160.6464891469501</altitude>
+					<heading>57.04385333500149</heading>
+					<tilt>5.629368639715316</tilt>
+					<roll>2.282125785192046</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7779438905429,20.53747153130902,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>53</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.777712457106</longitude>
+					<latitude>20.53684435149919</latitude>
+					<altitude>135.13237462391</altitude>
+					<heading>-25.45668278627798</heading>
+					<tilt>20.43013280455761</tilt>
+					<roll>0.637756186289491</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7778694899318,20.53721645885655,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>28</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7779128526592</longitude>
+					<latitude>20.53727332360117</latitude>
+					<altitude>160.6464891469501</altitude>
+					<heading>57.04385333500149</heading>
+					<tilt>5.629368639715316</tilt>
+					<roll>2.282125785192046</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.777785904291,20.53694310879419,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>34</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7783584402126</longitude>
+					<latitude>20.53883280866578</latitude>
+					<altitude>160.6464891469501</altitude>
+					<heading>57.04369701000687</heading>
+					<tilt>5.629368639715574</tilt>
+					<roll>2.282125785192106</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7783223430355,20.53882337876755,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>33</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7781958265106</longitude>
+					<latitude>20.53815699293314</latitude>
+					<altitude>160.6464891441176</altitude>
+					<heading>57.04375406134595</heading>
+					<tilt>5.629368639715251</tilt>
+					<roll>2.282125785192195</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7782341974249,20.53848643166073,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>35</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7783584402125</longitude>
+					<latitude>20.5388328086658</latitude>
+					<altitude>160.6464891427014</altitude>
+					<heading>57.04369701000703</heading>
+					<tilt>5.629368639715381</tilt>
+					<roll>2.282125785192237</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7783992530946,20.53911195682459,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>37</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7786433208929</longitude>
+					<latitude>20.5396940065252</latitude>
+					<altitude>160.6464891427014</altitude>
+					<heading>57.0435970598593</heading>
+					<tilt>5.629368639715574</tilt>
+					<roll>2.282125785192278</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7785671963351,20.53966972932222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>46</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7793526576419</longitude>
+					<latitude>20.54228501820261</latitude>
+					<altitude>160.6464891441176</altitude>
+					<heading>57.04334817005028</heading>
+					<tilt>5.629368639715705</tilt>
+					<roll>2.282125785192297</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7792917601692,20.54222635797975,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7795454073406</longitude>
+					<latitude>20.54230227323012</latitude>
+					<altitude>0</altitude>
+					<heading>72.97675556882776</heading>
+					<tilt>17.34189663175329</tilt>
+					<range>216.7265758320896</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7797767589243,20.5426194858841,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7795454073406</longitude>
+					<latitude>20.54230227323012</latitude>
+					<altitude>0</altitude>
+					<heading>72.97675556882776</heading>
+					<tilt>17.34189663175329</tilt>
+					<range>216.7265758320896</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7794705679146,20.54153068404768,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7788873016938</longitude>
+					<latitude>20.53988942869217</latitude>
+					<altitude>0</altitude>
+					<heading>72.97698647147764</heading>
+					<tilt>17.34189663175327</tilt>
+					<range>216.7265758326748</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7788487780826,20.53938855091074,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7786925107442</longitude>
+					<latitude>20.5387225385375</latitude>
+					<altitude>0</altitude>
+					<heading>72.97706385420827</heading>
+					<tilt>11.38311364421042</tilt>
+					<range>173.1691634830418</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7786111917776,20.53855354131766,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<LookAt>
+					<longitude>-100.7786925107442</longitude>
+					<latitude>20.5387225385375</latitude>
+					<altitude>0</altitude>
+					<heading>72.97706385420827</heading>
+					<tilt>11.38311364421042</tilt>
+					<range>173.1691634830418</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7787658400866,20.53912760793987,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Faroles Camellon</name>
+			<Placemark>
+				<name>74</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7784853022234</longitude>
+					<latitude>20.53960534410572</latitude>
+					<altitude>0</altitude>
+					<heading>-13.97980486946722</heading>
+					<tilt>23.03093524175641</tilt>
+					<range>141.7511204110443</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7787285758231,20.53951452649765,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>85</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.777817880498</longitude>
+					<latitude>20.53714468264162</latitude>
+					<altitude>0</altitude>
+					<heading>-17.26203325930884</heading>
+					<tilt>0</tilt>
+					<range>146.9135753465019</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7779714543463,20.5371433349099,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>80</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7780080809799</longitude>
+					<latitude>20.53823669361655</latitude>
+					<altitude>0</altitude>
+					<heading>-13.97962601989507</heading>
+					<tilt>0</tilt>
+					<range>188.5109922074547</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7783627980391,20.53821231637469,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>79</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7783258336653</longitude>
+					<latitude>20.53841998794116</latitude>
+					<altitude>0</altitude>
+					<heading>-13.97972332493418</heading>
+					<tilt>14.54900083437117</tilt>
+					<range>102.5600435877187</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7784255730405,20.53842570064713,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>75</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7784447285378</longitude>
+					<latitude>20.53944376989254</latitude>
+					<altitude>0</altitude>
+					<heading>-13.97979063485442</heading>
+					<tilt>23.03093524175636</tilt>
+					<range>141.7511204092485</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7786682219757,20.53929692317006,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>76</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7784860687953</longitude>
+					<latitude>20.53905925869166</latitude>
+					<altitude>0</altitude>
+					<heading>-13.97980514079386</heading>
+					<tilt>23.03093524175636</tilt>
+					<range>141.7511204103039</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7786044104081,20.53907849826246,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>77</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7784726632226</longitude>
+					<latitude>20.53898120791876</latitude>
+					<altitude>0</altitude>
+					<heading>-13.97980043776387</heading>
+					<tilt>23.03093524175639</tilt>
+					<range>141.7511204117888</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7785531268035,20.53886079748765,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>78</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7783565179738</longitude>
+					<latitude>20.5385917497466</latitude>
+					<altitude>0</altitude>
+					<heading>-13.97973408974098</heading>
+					<tilt>14.54900083437115</tilt>
+					<range>102.5600435902098</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7784859673068,20.53864033557685,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>81</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7780190803806</longitude>
+					<latitude>20.53813057705151</latitude>
+					<altitude>0</altitude>
+					<heading>-17.26210384087069</heading>
+					<tilt>0</tilt>
+					<range>146.9135753474563</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7783016015983,20.53799649940165,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>82</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.777987047426</longitude>
+					<latitude>20.53785569652048</latitude>
+					<altitude>0</altitude>
+					<heading>-17.26209260445417</heading>
+					<tilt>0</tilt>
+					<range>146.9135753490073</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7782431036235,20.53777905518314,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>73</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7784853022234</longitude>
+					<latitude>20.53960534410572</latitude>
+					<altitude>0</altitude>
+					<heading>-13.97980486946722</heading>
+					<tilt>23.03093524175641</tilt>
+					<range>141.7511204110443</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.77879384196,20.5397346733739,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>84</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7777422395444</longitude>
+					<latitude>20.53739689666129</latitude>
+					<altitude>0</altitude>
+					<heading>-17.26200672192124</heading>
+					<tilt>0</tilt>
+					<range>146.9135753467438</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7780858833932,20.53736013470873,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>86</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.777714998772</longitude>
+					<latitude>20.53679805296184</latitude>
+					<altitude>0</altitude>
+					<heading>-17.26199716871642</heading>
+					<tilt>0</tilt>
+					<range>146.9135753458463</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7779092357724,20.53692839463198,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>87</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.777714998772</longitude>
+					<latitude>20.53679805296184</latitude>
+					<altitude>0</altitude>
+					<heading>-17.26199716871642</heading>
+					<tilt>0</tilt>
+					<range>146.9135753458463</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7778429593571,20.53671037196787,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>54</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7801564366142</longitude>
+					<latitude>20.54398114540687</latitude>
+					<altitude>0</altitude>
+					<heading>38.40738491253728</heading>
+					<tilt>1.338834087232381</tilt>
+					<range>106.901693003843</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot24010</styleUrl>
+				<Point>
+					<coordinates>-100.7799438737422,20.54384659950503,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>55</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7799423331487</longitude>
+					<latitude>20.54351398976163</latitude>
+					<altitude>0</altitude>
+					<heading>-9.941081825374715</heading>
+					<tilt>0</tilt>
+					<range>109.2160925812398</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7798533737485,20.54363766471253,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>83</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7779278932679</longitude>
+					<latitude>20.53766828450454</latitude>
+					<altitude>0</altitude>
+					<heading>-17.26207185241848</heading>
+					<tilt>0</tilt>
+					<range>146.9135753464137</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7781703373867,20.53756434197533,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>64</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7793270104651</longitude>
+					<latitude>20.54181385087864</latitude>
+					<altitude>0</altitude>
+					<heading>-9.940865904138168</heading>
+					<tilt>0</tilt>
+					<range>109.2160925779907</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7793079971023,20.541697654767,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>56</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7795050453742</longitude>
+					<latitude>20.54341574388347</latitude>
+					<altitude>0</altitude>
+					<heading>-9.940928373247033</heading>
+					<tilt>0</tilt>
+					<range>109.2160925800576</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7797901193126,20.5434165819909,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>57</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7795050453742</longitude>
+					<latitude>20.54341574388347</latitude>
+					<altitude>0</altitude>
+					<heading>-9.940928373247033</heading>
+					<tilt>0</tilt>
+					<range>109.2160925800576</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7797249834955,20.54320297718959,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>58</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7795862844814</longitude>
+					<latitude>20.54318159108911</latitude>
+					<altitude>0</altitude>
+					<heading>-9.940956881418712</heading>
+					<tilt>0</tilt>
+					<range>109.2160925806411</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7796625424906,20.54298421168402,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>59</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7796136198351</longitude>
+					<latitude>20.5428309328992</latitude>
+					<altitude>0</altitude>
+					<heading>-9.940966474165315</heading>
+					<tilt>0</tilt>
+					<range>109.2160925794806</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7795962911734,20.54276464494289,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>60</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7794412887264</longitude>
+					<latitude>20.5426523318217</latitude>
+					<altitude>0</altitude>
+					<heading>-9.940906001790742</heading>
+					<tilt>0</tilt>
+					<range>109.2160925805208</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7795560651937,20.54254387931866,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>61</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7795908079159</longitude>
+					<latitude>20.54235843406759</latitude>
+					<altitude>0</altitude>
+					<heading>-9.940958468788303</heading>
+					<tilt>0</tilt>
+					<range>109.2160925808236</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7795553418959,20.542323799772,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>70</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7788474779215</longitude>
+					<latitude>20.54047450012476</latitude>
+					<altitude>0</altitude>
+					<heading>-15.99946859844573</heading>
+					<tilt>0</tilt>
+					<range>89.32361811573493</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.778985907821,20.54039226973753,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>63</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7792241263122</longitude>
+					<latitude>20.54209394951339</latitude>
+					<altitude>0</altitude>
+					<heading>-9.94082980234886</heading>
+					<tilt>0</tilt>
+					<range>109.2160925814549</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7793659444778,20.54191960841234,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>72</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7786177384836</longitude>
+					<latitude>20.5398476402925</latitude>
+					<altitude>0</altitude>
+					<heading>-18.9165897697847</heading>
+					<tilt>0</tilt>
+					<range>145.1101386454227</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7788581294049,20.53995256275518,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>65</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7791096435052</longitude>
+					<latitude>20.5416692695828</latitude>
+					<altitude>0</altitude>
+					<heading>-9.940789632071505</heading>
+					<tilt>0</tilt>
+					<range>109.2160925807692</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7792456744066,20.54148153985702,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>66</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7792266832302</longitude>
+					<latitude>20.5413479286422</latitude>
+					<altitude>0</altitude>
+					<heading>-9.940830700120907</heading>
+					<tilt>0</tilt>
+					<range>109.2160925837276</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7791817328364,20.54126261789859,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>67</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.778877075975</longitude>
+					<latitude>20.54117877876999</latitude>
+					<altitude>0</altitude>
+					<heading>-9.940708030380245</heading>
+					<tilt>0</tilt>
+					<range>83.69427064062549</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7791187506647,20.54104375690902,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>68</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7789177165931</longitude>
+					<latitude>20.54095706131766</latitude>
+					<altitude>0</altitude>
+					<heading>-9.940722291031236</heading>
+					<tilt>0</tilt>
+					<range>83.69427063968051</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7790956378283,20.54082622375851,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>69</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7788815795887</longitude>
+					<latitude>20.54068764512545</latitude>
+					<altitude>0</altitude>
+					<heading>-15.99948056297122</heading>
+					<tilt>0</tilt>
+					<range>89.3236181184472</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7790722895405,20.54060253516838,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>71</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7788368854805</longitude>
+					<latitude>20.54018435459749</latitude>
+					<altitude>0</altitude>
+					<heading>-15.55067794523737</heading>
+					<tilt>14.41074363090235</tilt>
+					<range>94.03629175404394</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7789176581488,20.54017498092598,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>62</name>
+				<description><![CDATA[<b>Luminaria: </b>PP CONSTRULITA 70W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>CAMELLON VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.779521231142</longitude>
+					<latitude>20.54210356700737</latitude>
+					<altitude>0</altitude>
+					<heading>-9.940934054792281</heading>
+					<tilt>0</tilt>
+					<range>109.2160925782576</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>-100.7794669168421,20.54212016238452,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

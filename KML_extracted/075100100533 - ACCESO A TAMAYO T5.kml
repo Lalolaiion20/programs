@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>075100100533 - ACCESO A TAMAYO T5.kmz</name>
+	<StyleMap id="msn_shaded_dot3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot20">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.681818</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot9">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>075100100533 - ACCESO A TAMAYO T5</name>
+		<open>1</open>
+		<Folder>
+			<name>Led Vial 130W</name>
+			<Placemark>
+				<name>01</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7707510800872</longitude>
+					<latitude>20.42195591027823</latitude>
+					<altitude>0</altitude>
+					<heading>1.376054516299055</heading>
+					<tilt>15.71733693700249</tilt>
+					<range>236.3675181067968</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7713672988192,20.42206830917083,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>02</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7707510800872</longitude>
+					<latitude>20.42195591027823</latitude>
+					<altitude>0</altitude>
+					<heading>1.376054516299055</heading>
+					<tilt>15.71733693700249</tilt>
+					<range>236.3675181067968</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7713738379917,20.42203174082339,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>03</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7701881407244</longitude>
+					<latitude>20.42209478093918</latitude>
+					<altitude>0</altitude>
+					<heading>1.376250941488742</heading>
+					<tilt>15.71733693700246</tilt>
+					<range>236.3675181031263</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7709723486262,20.4220483766687,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>04</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7701881407244</longitude>
+					<latitude>20.42209478093918</latitude>
+					<altitude>0</altitude>
+					<heading>1.376250941488742</heading>
+					<tilt>15.71733693700246</tilt>
+					<range>236.3675181031263</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7709823551805,20.42200540904804,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7698495784531</longitude>
+					<latitude>20.42221488032535</latitude>
+					<altitude>0</altitude>
+					<heading>1.376369076905467</heading>
+					<tilt>15.71733693700249</tilt>
+					<range>236.3675181037574</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7705820451539,20.42202207818212,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7698495784531</longitude>
+					<latitude>20.42221488032535</latitude>
+					<altitude>0</altitude>
+					<heading>1.376369076905467</heading>
+					<tilt>15.71733693700249</tilt>
+					<range>236.3675181037574</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7705847778358,20.42199128204907,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7693586934792</longitude>
+					<latitude>20.42220531598285</latitude>
+					<altitude>0</altitude>
+					<heading>1.376540361224567</heading>
+					<tilt>15.71733693700246</tilt>
+					<range>236.3675181034165</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7701960753117,20.42199941895167,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7693586934792</longitude>
+					<latitude>20.42220531598285</latitude>
+					<altitude>0</altitude>
+					<heading>1.376540361224567</heading>
+					<tilt>15.71733693700246</tilt>
+					<range>236.3675181034165</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7701915005335,20.42196399427681,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.768975227354</longitude>
+					<latitude>20.4222102449762</latitude>
+					<altitude>0</altitude>
+					<heading>1.37667416399587</heading>
+					<tilt>15.71733693700244</tilt>
+					<range>236.3675181061728</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7698009129155,20.42196112936416,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.768975227354</longitude>
+					<latitude>20.4222102449762</latitude>
+					<altitude>0</altitude>
+					<heading>1.37667416399587</heading>
+					<tilt>15.71733693700244</tilt>
+					<range>236.3675181061728</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7697991460983,20.42192012327042,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7683571224199</longitude>
+					<latitude>20.42216634178955</latitude>
+					<altitude>0</altitude>
+					<heading>1.376889838982813</heading>
+					<tilt>15.71733693700242</tilt>
+					<range>236.3675181069908</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7694147107284,20.42195155005995,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7683571224199</longitude>
+					<latitude>20.42216634178955</latitude>
+					<altitude>0</altitude>
+					<heading>1.376889838982813</heading>
+					<tilt>15.71733693700242</tilt>
+					<range>236.3675181069908</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7694069922954,20.42191161619438,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7687905421262</longitude>
+					<latitude>20.42227192182521</latitude>
+					<altitude>0</altitude>
+					<heading>1.376738606368697</heading>
+					<tilt>15.71733693700244</tilt>
+					<range>236.3675181074216</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7690321042355,20.42193413239663,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7687905421262</longitude>
+					<latitude>20.42227192182521</latitude>
+					<altitude>0</altitude>
+					<heading>1.376738606368697</heading>
+					<tilt>15.71733693700244</tilt>
+					<range>236.3675181074216</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7690335086926,20.42189844908861,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7681475397222</longitude>
+					<latitude>20.42208644851156</latitude>
+					<altitude>0</altitude>
+					<heading>1.376962968951874</heading>
+					<tilt>15.71733693700249</tilt>
+					<range>236.3675181047871</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7686344436601,20.42191922961224,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7681475397222</longitude>
+					<latitude>20.42208644851156</latitude>
+					<altitude>0</altitude>
+					<heading>1.376962968951874</heading>
+					<tilt>15.71733693700249</tilt>
+					<range>236.3675181047871</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7686412744672,20.42188362969569,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.767661316428</longitude>
+					<latitude>20.42206203674284</latitude>
+					<altitude>0</altitude>
+					<heading>1.37713262557891</heading>
+					<tilt>15.71733693700246</tilt>
+					<range>236.3675181055929</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7682436086525,20.42190165706709,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7674659026211</longitude>
+					<latitude>20.42208082710735</latitude>
+					<altitude>0</altitude>
+					<heading>1.377200811551125</heading>
+					<tilt>15.71733693700246</tilt>
+					<range>236.3675181043501</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7682532981714,20.42185995198032,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7667650328405</longitude>
+					<latitude>20.42211194513245</latitude>
+					<altitude>0</altitude>
+					<heading>2.18613277957814</heading>
+					<tilt>20.05727602619481</tilt>
+					<range>266.7687505135833</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7678561066173,20.42188436098853,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7673206072545</longitude>
+					<latitude>20.42216026201465</latitude>
+					<altitude>0</altitude>
+					<heading>2.185938924573695</heading>
+					<tilt>20.05727602619477</tilt>
+					<range>266.7687505147444</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7678550407212,20.42183660216134,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21</name>
+				<open>1</open>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7661831865015</longitude>
+					<latitude>20.4222870422641</latitude>
+					<altitude>0</altitude>
+					<heading>2.18633552997388</heading>
+					<tilt>20.05762046756322</tilt>
+					<range>378.5600918575435</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7674701053867,20.42186856957773,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>22</name>
+				<open>1</open>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7661831865015</longitude>
+					<latitude>20.4222870422641</latitude>
+					<altitude>0</altitude>
+					<heading>2.18633552997388</heading>
+					<tilt>20.05762046756322</tilt>
+					<range>378.5600918575435</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7674544878367,20.42180982145046,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7658206784521</longitude>
+					<latitude>20.42226955735593</latitude>
+					<altitude>0</altitude>
+					<heading>2.186462017278139</heading>
+					<tilt>20.05762046756319</tilt>
+					<range>378.5600918538897</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7670726098713,20.42185960357691,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>24</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7658206784521</longitude>
+					<latitude>20.42226955735593</latitude>
+					<altitude>0</altitude>
+					<heading>2.186462017278139</heading>
+					<tilt>20.05762046756319</tilt>
+					<range>378.5600918538897</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7670686859078,20.42181566386019,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>25</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7655832695355</longitude>
+					<latitude>20.42209866007178</latitude>
+					<altitude>0</altitude>
+					<heading>2.186645165477781</heading>
+					<tilt>24.08262430249452</tilt>
+					<range>288.9662985360957</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7666756112874,20.4218316240807,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>26</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7655832695355</longitude>
+					<latitude>20.42209866007178</latitude>
+					<altitude>0</altitude>
+					<heading>2.186645165477781</heading>
+					<tilt>24.08262430249452</tilt>
+					<range>288.9662985360957</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.766682919043,20.4217863683798,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>27</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7653416016093</longitude>
+					<latitude>20.42217301976486</latitude>
+					<altitude>0</altitude>
+					<heading>2.186729491479968</heading>
+					<tilt>24.08262430249453</tilt>
+					<range>288.9662985378589</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7662898566444,20.42181975838015,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>28</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7653435300886</longitude>
+					<latitude>20.42217308879998</latitude>
+					<altitude>0</altitude>
+					<heading>2.186728818578604</heading>
+					<tilt>24.08262430249452</tilt>
+					<range>288.9662985392195</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.766282852354,20.42177519572443,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>29</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7652376743644</longitude>
+					<latitude>20.42244099484158</latitude>
+					<altitude>0</altitude>
+					<heading>2.186765758223724</heading>
+					<tilt>24.08262430249448</tilt>
+					<range>288.9662985364996</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7659102589622,20.42180959249013,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30</name>
+				<description>Led Sola Basic 130W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7652376743644</longitude>
+					<latitude>20.42244099484158</latitude>
+					<altitude>0</altitude>
+					<heading>2.186765758223724</heading>
+					<tilt>24.08262430249448</tilt>
+					<range>288.9662985364996</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3</styleUrl>
+				<Point>
+					<coordinates>-100.7659066051974,20.42175900351246,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

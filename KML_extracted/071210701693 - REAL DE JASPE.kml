@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>071210701693 - REAL DE JASPE.kmz</name>
+	<StyleMap id="m_ylw-pushpin71">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl07</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin8">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl07">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>071210701693 - REAL DE JASPE</name>
+		<Placemark>
+			<name>1</name>
+			<description>Led Autobahn ATBO 73W</description>
+			<styleUrl>#m_ylw-pushpin71</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>1</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>3ac90dae-48db-453f-851d-712d1ab5e27d</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.55969735</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.87016555</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1686066643</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1686066642</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8701542764902,20.55972527246868,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2</name>
+			<description>Led Autobahn ATBO 73W</description>
+			<styleUrl>#m_ylw-pushpin71</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>2</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>f1e4a0d3-c3e7-433a-9089-afcbec056e51</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.55945753</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.87032951</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1686066665</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1686066664</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8703567832709,20.55948166937807,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3</name>
+			<description>Led Autobahn ATBO 73W</description>
+			<styleUrl>#m_ylw-pushpin71</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>3</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>da3ab610-7bc9-4fed-ad70-fe11c4d45433</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.5591536</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.8702913</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1686066684</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1686066683</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8705143630505,20.55924748356648,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>Led Autobahn ATBO 73W</description>
+			<styleUrl>#m_ylw-pushpin71</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>4</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>43410744-a35f-4b26-9da5-629d814c4ca4</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.55898257</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.87063643</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1686066694</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1686066694</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.87068233639,20.55899917087277,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>Led Autobahn ATBO 73W</description>
+			<styleUrl>#m_ylw-pushpin71</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>5</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>cea49d4c-1ed4-465c-909b-287c000bd28e</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.55878415</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.87077406</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1686066708</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1686066707</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8708432689309,20.55878507540702,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>Led Autobahn ATBO 73W</description>
+			<styleUrl>#m_ylw-pushpin71</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>6</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>ad101be2-bbc7-4011-870d-50d84743715e</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.55870859</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.87056421</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1686066728</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1686066727</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8705512434244,20.5586485187582,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>Led Autobahn ATBO 73W</description>
+			<styleUrl>#m_ylw-pushpin71</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>7</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>00ff5b9f-bd94-4156-b235-736a65ad0d51</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.55883595</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.87039467</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1686066743</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1686066742</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8703591302037,20.5588095614139,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>Led Autobahn ATBO 73W</description>
+			<styleUrl>#m_ylw-pushpin71</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>8</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>f5a8e884-eaa7-4dfa-841e-3c3b0dd4c6e8</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.55908169</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.87025602</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1686066765</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1686066764</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8701911568642,20.55905693264792,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9</name>
+			<description>Led Autobahn ATBO 73W</description>
+			<styleUrl>#m_ylw-pushpin71</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>9</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>2067720b-14cf-49ed-ac1c-c51f1505ed65</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.55933942</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.8700894</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1686066780</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1686066779</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.870029553771,20.55932753371674,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10</name>
+			<description>Led Autobahn ATBO 73W</description>
+			<styleUrl>#m_ylw-pushpin71</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>10</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>7d226277-8c50-42d2-9497-55580099ef49</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.5595753</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.86990379</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1686066798</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1686066797</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8698562160134,20.55958432175872,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11</name>
+			<description>Led Autobahn ATBO 73W</description>
+			<styleUrl>#m_ylw-pushpin71</styleUrl>
+			<ExtendedData>
+				<Data name="PK_UID">
+					<value>11</value>
+				</Data>
+				<Data name="c_uuid">
+					<value>21e16402-5685-41a0-8b8d-2bf8739eb6c6</value>
+				</Data>
+				<Data name="c_refrec">
+					<value>null</value>
+				</Data>
+				<Data name="b_insp">
+					<value>0</value>
+				</Data>
+				<Data name="f_insp">
+					<value>null</value>
+				</Data>
+				<Data name="d_observa">
+					<value>null</value>
+				</Data>
+				<Data name="username">
+					<value>defaultUser</value>
+				</Data>
+				<Data name="latitude">
+					<value>20.55957764</value>
+				</Data>
+				<Data name="longitude">
+					<value>-100.86990312</value>
+				</Data>
+				<Data name="f_actuacion">
+					<value>1686066804</value>
+				</Data>
+				<Data name="f_creacion">
+					<value>1686066803</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.8699514344335,20.55991613647444,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

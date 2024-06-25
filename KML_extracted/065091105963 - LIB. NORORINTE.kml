@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>065091105963 - LIB. NORORINTE.kmz</name>
+	<StyleMap id="msn_placemark_square">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_square</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_square_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_placemark_square_highlight">
+		<IconStyle>
+			<scale>0.954546</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<color>ffff5500</color>
+			<scale>0.681817</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_target">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>1.09091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_placemark_square">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ffff5500</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_target">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>065091105963 - LIB. NORORINTE</name>
+		<Folder>
+			<name>SP IRRIGACION ESQ EJE NOR ORIENTE</name>
+			<Placemark>
+				<name>04</name>
+				<description><![CDATA[<b>Luminaria: </b>REF LED CONSTRULITA 270W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>av. irrigación<b><br>Calle: </b>VIALIDAD<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7783337598015</longitude>
+					<latitude>20.53642037911553</latitude>
+					<altitude>0</altitude>
+					<heading>0.0358313146717294</heading>
+					<tilt>19.64819423113763</tilt>
+					<range>137.6629326840192</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_target</styleUrl>
+				<Point>
+					<coordinates>-100.7780271737818,20.53632703178258,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>02</name>
+				<description><![CDATA[<b>Luminaria: </b>REF LED CONSTRULITA 270W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>av. irrigación<b><br>Calle: </b>VIALIDAD<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7783337598015</longitude>
+					<latitude>20.53642037911553</latitude>
+					<altitude>0</altitude>
+					<heading>0.0358313146717294</heading>
+					<tilt>19.64819423113763</tilt>
+					<range>137.6629326840192</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_target</styleUrl>
+				<Point>
+					<coordinates>-100.7780148344172,20.53640395096986,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>03</name>
+				<description><![CDATA[<b>Luminaria: </b>REF LED CONSTRULITA 270W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>av. irrigación<b><br>Calle: </b>VIALIDAD<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7783337598015</longitude>
+					<latitude>20.53642037911553</latitude>
+					<altitude>0</altitude>
+					<heading>0.0358313146717294</heading>
+					<tilt>19.64819423113763</tilt>
+					<range>137.6629326840192</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_target</styleUrl>
+				<Point>
+					<coordinates>-100.7780108878779,20.53636718401205,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>01</name>
+				<description><![CDATA[<b>Luminaria: </b>REF LED CONSTRULITA 270W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>av. irrigación<b><br>Calle: </b>VIALIDAD<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7783337598015</longitude>
+					<latitude>20.53642037911553</latitude>
+					<altitude>0</altitude>
+					<heading>0.0358313146717294</heading>
+					<tilt>19.64819423113763</tilt>
+					<range>137.6629326840192</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_target</styleUrl>
+				<Point>
+					<coordinates>-100.7780872767035,20.53637840142105,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Viales</name>
+			<Placemark>
+				<name>10</name>
+				<description><![CDATA[<b>Luminaria: </b>CONSTRULITA 130W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7777640502333</longitude>
+					<latitude>20.53598401263403</latitude>
+					<altitude>0</altitude>
+					<heading>-2.420162543228308</heading>
+					<tilt>0.1895347444224018</tilt>
+					<range>110.6150205310868</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7779001541073,20.53593925942438,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09</name>
+				<description><![CDATA[<b>Luminaria: </b>CONSTRULITA 130W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7776073866166</longitude>
+					<latitude>20.53579551892564</latitude>
+					<altitude>0</altitude>
+					<heading>-14.31317600541596</heading>
+					<tilt>0</tilt>
+					<range>110.5956585430745</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7777421938881,20.53554033166388,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08</name>
+				<description><![CDATA[<b>Luminaria: </b>CONSTRULITA 130W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7775361867736</longitude>
+					<latitude>20.53537426690151</latitude>
+					<altitude>0</altitude>
+					<heading>-14.31315103002967</heading>
+					<tilt>0</tilt>
+					<range>141.4357441076518</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7776025869997,20.53516088248499,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07</name>
+				<description><![CDATA[<b>Luminaria: </b>CONSTRULITA 130W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7772528999465</longitude>
+					<latitude>20.53529854491014</latitude>
+					<altitude>0</altitude>
+					<heading>-8.861904946914754</heading>
+					<tilt>14.85497148127051</tilt>
+					<range>89.04107400944139</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7772975360415,20.53522914833647,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06</name>
+				<description><![CDATA[<b>Luminaria: </b>CONSTRULITA 130W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<longitude>-100.7774572408991</longitude>
+					<latitude>20.5356818981526</latitude>
+					<altitude>0</altitude>
+					<heading>-11.84470057876255</heading>
+					<tilt>1.501339413573012</tilt>
+					<range>196.5851138920915</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7773998956736,20.53560696721884,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05</name>
+				<description><![CDATA[<b>Luminaria: </b>CONSTRULITA 130W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>VIALIDAD<b><br>Calle: </b>EJE NOR ORIENTE<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<Camera>
+					<longitude>-100.7775139980801</longitude>
+					<latitude>20.53583413797127</latitude>
+					<altitude>160.1136145609229</altitude>
+					<heading>-4.591795401649128</heading>
+					<tilt>3.071483976233809</tilt>
+					<roll>3.172274552808112</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.7775108436577,20.53602581018987,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Reflectores</name>
+			<Placemark>
+				<name>11</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>REF LEDVANCE 80W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>ACCESO ORIENTE<b><br>Calle: </b>VIALIDAD<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7781552318899</longitude>
+					<latitude>20.53657300393983</latitude>
+					<altitude>0</altitude>
+					<heading>-19.06667278179026</heading>
+					<tilt>19.43361515124451</tilt>
+					<range>215.7229340412695</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<coordinates>-100.7782090629816,20.53665494175082,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>REF LEDVANCE 80W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>ACCESO ORIENTE<b><br>Calle: </b>VIALIDAD<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7781552318899</longitude>
+					<latitude>20.53657300393983</latitude>
+					<altitude>0</altitude>
+					<heading>-19.06667278179026</heading>
+					<tilt>19.43361515124451</tilt>
+					<range>215.7229340412695</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<coordinates>-100.7782586931535,20.53662250575421,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>REF LEDVANCE 80W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>ACCESO ORIENTE<b><br>Calle: </b>VIALIDAD<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7781552318899</longitude>
+					<latitude>20.53657300393983</latitude>
+					<altitude>0</altitude>
+					<heading>-19.06667278179026</heading>
+					<tilt>19.43361515124451</tilt>
+					<range>215.7229340412695</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<coordinates>-100.7782262534083,20.53658439347749,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<open>1</open>
+				<description><![CDATA[<b>Luminaria: </b>REF LEDVANCE 80W<b><br>Se carga a municipio: </b>SI<b><br>Colonia: </b>ACCESO ORIENTE<b><br>Calle: </b>VIALIDAD<b><br>Municipio: </b>CELAYA<b>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.7781552318899</longitude>
+					<latitude>20.53657300393983</latitude>
+					<altitude>0</altitude>
+					<heading>-19.06667278179026</heading>
+					<tilt>19.43361515124451</tilt>
+					<range>215.7229340412695</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<coordinates>-100.7781722866303,20.53660829707361,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

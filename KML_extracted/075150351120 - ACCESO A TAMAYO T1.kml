@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>075150351120 - ACCESO A TAMAYO T1.kmz</name>
+	<StyleMap id="msn_grn-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_square">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_square</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_square_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-pushpin">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.954545</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_placemark_square_highlight">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.954545</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-pushpin">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_placemark_square">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>075150351120 - ACCESO A TAMAYO (BAJO PUENTE)</name>
+		<Folder>
+			<name>Ref Led 100W</name>
+			<Placemark>
+				<name>01</name>
+				<description>Ref Led Sola Basic 100W</description>
+				<LookAt>
+					<longitude>-100.7936912029982</longitude>
+					<latitude>20.42264232558448</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<coordinates>-100.7936912029982,20.42264232558448,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>02</name>
+				<description>Ref Led Sola Basic 100W</description>
+				<LookAt>
+					<longitude>-100.7935487106442</longitude>
+					<latitude>20.42265175164619</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<coordinates>-100.7935487106442,20.42265175164619,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>03</name>
+				<description>Ref Led Sola Basic 100W</description>
+				<LookAt>
+					<longitude>-100.793645940721</longitude>
+					<latitude>20.42278811527425</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<coordinates>-100.793645940721,20.42278811527425,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>04</name>
+				<description>Ref Led Sola Basic 100W</description>
+				<LookAt>
+					<longitude>-100.7936502993107</longitude>
+					<latitude>20.42285504023645</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<coordinates>-100.7936502993107,20.42285504023645,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05</name>
+				<description>Ref Led Sola Basic 100W</description>
+				<LookAt>
+					<longitude>-100.79361140728</longitude>
+					<latitude>20.4230187391997</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<coordinates>-100.79361140728,20.4230187391997,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06</name>
+				<description>Ref Led Sola Basic 100W</description>
+				<LookAt>
+					<longitude>-100.7937743514776</longitude>
+					<latitude>20.42302282381653</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<coordinates>-100.7937743514776,20.42302282381653,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08</name>
+				<description>Ref Led Sola Basic 100W</description>
+				<LookAt>
+					<longitude>-100.7937867566943</longitude>
+					<latitude>20.42311111435355</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<coordinates>-100.7937867566943,20.42311111435355,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07</name>
+				<description>Ref Led Sola Basic 100W</description>
+				<LookAt>
+					<longitude>-100.7936271652579</longitude>
+					<latitude>20.4231177125767</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<coordinates>-100.7936271652579,20.4231177125767,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09</name>
+				<description>Ref Led Sola Basic 100W</description>
+				<LookAt>
+					<longitude>-100.7937280833721</longitude>
+					<latitude>20.42321134447475</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<coordinates>-100.7937280833721,20.42321134447475,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.48452955745593<b><br>Longitud: </b>-100.79303976148367<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 11.43.54.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7930397614837</longitude>
+					<latitude>20.48452955745593</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7930397614837,20.48452955745593,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.484551542740462<b><br>Longitud: </b>-100.7933334633708<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 11.44.32.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7933334633708</longitude>
+					<latitude>20.48455154274046</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7933334633708,20.48455154274046,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.484575726549814<b><br>Longitud: </b>-100.79370193183422<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 11.45.06.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7937019318342</longitude>
+					<latitude>20.48457572654981</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7937019318342,20.48457572654981,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.48462032525315<b><br>Longitud: </b>-100.794113650918<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 11.45.41.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.794113650918</longitude>
+					<latitude>20.48462032525315</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.794113650918,20.48462032525315,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.48438225596825<b><br>Longitud: </b>-100.79443216323854<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 11.50.40.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7944321632385</longitude>
+					<latitude>20.48438225596825</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7944321632385,20.48438225596825,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.48459080216929<b><br>Longitud: </b>-100.79452939331532<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 11.53.16.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7945293933153</longitude>
+					<latitude>20.48459080216929</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7945293933153,20.48459080216929,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.484400158288807<b><br>Longitud: </b>-100.79529784619807<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 11.55.05.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7952978461981</longitude>
+					<latitude>20.48440015828881</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7952978461981,20.48440015828881,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.484535524890617<b><br>Longitud: </b>-100.79487439244986<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 11.54.12.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7948743924499</longitude>
+					<latitude>20.48453552489062</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7948743924499,20.48453552489062,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.484210456399857<b><br>Longitud: </b>-100.795191898942<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 11.59.27.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.795191898942</longitude>
+					<latitude>20.48421045639986</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.795191898942,20.48421045639986,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.484314729652624<b><br>Longitud: </b>-100.79477313905956<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 11.59.59.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7947731390596</longitude>
+					<latitude>20.48431472965262</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7947731390596,20.48431472965262,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.484392620469883<b><br>Longitud: </b>-100.79404525458813<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.00.55.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7940452545881</longitude>
+					<latitude>20.48439262046988</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7940452545881,20.48439262046988,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.484347707624437<b><br>Longitud: </b>-100.79329825937748<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.01.59.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7932982593775</longitude>
+					<latitude>20.48434770762444</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7932982593775,20.48434770762444,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.48438382634733<b><br>Longitud: </b>-100.7936992496252<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.01.24.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7936992496252</longitude>
+					<latitude>20.48438382634733</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7936992496252,20.48438382634733,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.4843163000324<b><br>Longitud: </b>-100.7929378375411<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.02.30.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7929378375411</longitude>
+					<latitude>20.4843163000324</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7929378375411,20.4843163000324,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.48424500477459<b><br>Longitud: </b>-100.79253416508435<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.03.47.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7925341650843</longitude>
+					<latitude>20.48424500477459</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7925341650843,20.48424500477459,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.4843034229178<b><br>Longitud: </b>-100.79268302768469<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.03.15.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7926830276847</longitude>
+					<latitude>20.4843034229178</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7926830276847,20.4843034229178,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.483935325428767<b><br>Longitud: </b>-100.79233232885599<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.04.38.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.792332328856</longitude>
+					<latitude>20.48393532542877</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.792332328856,20.48393532542877,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.484120002436423<b><br>Longitud: </b>-100.79241514205931<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.04.11.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7924151420593</longitude>
+					<latitude>20.48412000243642</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7924151420593,20.48412000243642,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.483419610566614<b><br>Longitud: </b>-100.79252041876316<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.05.40.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7925204187632</longitude>
+					<latitude>20.48341961056661</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7925204187632,20.48341961056661,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.483709818168883<b><br>Longitud: </b>-100.79234305769205<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.05.08.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7923430576921</longitude>
+					<latitude>20.48370981816888</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7923430576921,20.48370981816888,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.48320101226985<b><br>Longitud: </b>-100.79298745840788<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.06.48.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7929874584079</longitude>
+					<latitude>20.48320101226985</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7929874584079,20.48320101226985,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.483317849329293<b><br>Longitud: </b>-100.79272963106632<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.06.19.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7927296310663</longitude>
+					<latitude>20.48331784932929</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7927296310663,20.48331784932929,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.48292839211837<b><br>Longitud: </b>-100.79357385635376<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.07.44.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7935738563538</longitude>
+					<latitude>20.48292839211837</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7935738563538,20.48292839211837,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.483078207630257<b><br>Longitud: </b>-100.79324763268232<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.07.16.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7932476326823</longitude>
+					<latitude>20.48307820763026</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7932476326823,20.48307820763026,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.48264666318086<b><br>Longitud: </b>-100.7943181693554<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.09.07.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7943181693554</longitude>
+					<latitude>20.48264666318086</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7943181693554,20.48264666318086,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.48272518300364<b><br>Longitud: </b>-100.79406939446926<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.08.38.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7940693944693</longitude>
+					<latitude>20.48272518300364</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7940693944693,20.48272518300364,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.48282568831815<b><br>Longitud: </b>-100.79381626099348<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.08.10.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7938162609935</longitude>
+					<latitude>20.48282568831815</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7938162609935,20.48282568831815,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.482485854458346<b><br>Longitud: </b>-100.79486232250929<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.10.02.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7948623225093</longitude>
+					<latitude>20.48248585445835</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7948623225093,20.48248585445835,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.482554951976955<b><br>Longitud: </b>-100.79456929117441<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.09.34.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7945692911744</longitude>
+					<latitude>20.48255495197695</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7945692911744,20.48255495197695,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.48246072808023<b><br>Longitud: </b>-100.79515099525452<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.10.32.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7951509952545</longitude>
+					<latitude>20.48246072808023</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7951509952545,20.48246072808023,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.48429619917011<b><br>Longitud: </b>-100.78962966799736<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.31.43.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7896296679974</longitude>
+					<latitude>20.48429619917011</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7896296679974,20.48429619917011,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.484315043728582<b><br>Longitud: </b>-100.78992269933224<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.32.27.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7899226993322</longitude>
+					<latitude>20.48431504372858</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7899226993322,20.48431504372858,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.484326978614405<b><br>Longitud: </b>-100.79019159078598<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.33.01.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.790191590786</longitude>
+					<latitude>20.4843269786144</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.790191590786,20.4843269786144,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.484331061601456<b><br>Longitud: </b>-100.790487639606<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.33.39.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.790487639606</longitude>
+					<latitude>20.48433106160146</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.790487639606,20.48433106160146,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.484352418762686<b><br>Longitud: </b>-100.79078234732151<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.34.12.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7907823473215</longitude>
+					<latitude>20.48435241876269</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7907823473215,20.48435241876269,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.48436466772145<b><br>Longitud: </b>-100.79109080135822<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.34.43.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7910908013582</longitude>
+					<latitude>20.48436466772145</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7910908013582,20.48436466772145,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.484373461845113<b><br>Longitud: </b>-100.79136539250612<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.35.20.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7913653925061</longitude>
+					<latitude>20.48437346184511</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7913653925061,20.48437346184511,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.484397017530966<b><br>Longitud: </b>-100.79167183488607<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.35.56.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7916718348861</longitude>
+					<latitude>20.48439701753097</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7916718348861,20.48439701753097,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.484414291698297<b><br>Longitud: </b>-100.79191859811544<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.36.27.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7919185981154</longitude>
+					<latitude>20.4844142916983</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7919185981154,20.4844142916983,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.48444978225415<b><br>Longitud: </b>-100.79218816012144<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.37.05.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7921881601214</longitude>
+					<latitude>20.48444978225415</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7921881601214,20.48444978225415,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.48448024759201<b><br>Longitud: </b>-100.792514719069<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.37.50.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.792514719069</longitude>
+					<latitude>20.48448024759201</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.792514719069,20.48448024759201,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUPER SODIO 100</name>
+				<description><![CDATA[<b>Luminaria: </b>SUPER SODIO 100<b><br>Latitud: </b>20.48451134107492<b><br>Longitud: </b>-100.79279568046331<b><br>Se carga a municipio: </b>NO<b><br>Colonia: </b>HONDA DE MEXICO <b><br>Calle: </b>ACCESO A HONDA DE MEXICO <b><br>Municipio: </b>CELAYA <b><br><br>Foto: </b><img src='files/2017-11-02 12.38.24.jpg'>]]></description>
+				<LookAt>
+					<longitude>-100.7927956804633</longitude>
+					<latitude>20.48451134107492</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<Point>
+					<coordinates>-100.7927956804633,20.48451134107492,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

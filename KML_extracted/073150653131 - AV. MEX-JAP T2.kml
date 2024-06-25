@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>073150653131 - AV. MEX-JAP T2.kmz</name>
+	<StyleMap id="msn_placemark_square">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_square</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_square_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot014001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot11600</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot3700</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_placemark_square_highlight">
+		<IconStyle>
+			<scale>0.954545</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.681818</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_shaded_dot3700">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.681818</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_placemark_square">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot11600">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>073150653131 - AV. MEX-JAP T2</name>
+		<open>1</open>
+		<Folder>
+			<name>Vial Led 100W</name>
+			<Placemark>
+				<name>01</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8231056988057</longitude>
+					<latitude>20.5524886967937</latitude>
+					<altitude>139.4159917991342</altitude>
+					<heading>2.481394897057946</heading>
+					<tilt>6.984825585865341</tilt>
+					<roll>-0.994521068303186</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot014001</styleUrl>
+				<Point>
+					<coordinates>-100.823048496701,20.55248708269772,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>02</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8230954775221</longitude>
+					<latitude>20.55264408373488</latitude>
+					<altitude>140.4153586332896</altitude>
+					<heading>-85.17420605018899</heading>
+					<tilt>0.1209374736345668</tilt>
+					<roll>-90.42194905624669</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8232748385939,20.5525622983515,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>03</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8234291452496</longitude>
+					<latitude>20.55240068066962</latitude>
+					<altitude>103.6365380407525</altitude>
+					<heading>7.230890318917162</heading>
+					<tilt>10.54468640569491</tilt>
+					<roll>-0.6600888545711437</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8235405460331,20.55257536953802,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>04</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8234291452496</longitude>
+					<latitude>20.55240068066962</latitude>
+					<altitude>103.6365380407525</altitude>
+					<heading>7.230890318917162</heading>
+					<tilt>10.54468640569491</tilt>
+					<roll>-0.6600888545711437</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8237837488342,20.55260553615019,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8238222195874</longitude>
+					<latitude>20.55245170146434</latitude>
+					<altitude>103.6365380421688</altitude>
+					<heading>7.23075232390576</heading>
+					<tilt>10.54468640569491</tilt>
+					<roll>-0.6600888545711995</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8240304473831,20.5526339567136,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8239619237016</longitude>
+					<latitude>20.55251660194685</latitude>
+					<altitude>103.6365380421688</altitude>
+					<heading>7.230703278699255</heading>
+					<tilt>10.54468640569495</tilt>
+					<roll>-0.6600888545711995</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8242706158263,20.55264339130098,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8243820498543</longitude>
+					<latitude>20.55254029494414</latitude>
+					<altitude>103.6365380421688</altitude>
+					<heading>7.230555786411845</heading>
+					<tilt>10.54468640569502</tilt>
+					<roll>-0.6600888545711072</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8246031497344,20.55269150806877,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8246467690373</longitude>
+					<latitude>20.55268327857262</latitude>
+					<altitude>94.19641035504152</altitude>
+					<heading>-0.2306002710244381</heading>
+					<tilt>1.052759088868698</tilt>
+					<roll>-6.590145046115177</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8248936583446,20.55272743289532,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8249564634354</longitude>
+					<latitude>20.55272055746568</latitude>
+					<altitude>94.19641035504152</altitude>
+					<heading>-0.2307089946363604</heading>
+					<tilt>1.052759088868005</tilt>
+					<roll>-6.590145046115479</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.825128311446,20.5527486695115,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8251726854887</longitude>
+					<latitude>20.55276072596341</latitude>
+					<altitude>94.19641035220906</altitude>
+					<heading>-0.2307849034108954</heading>
+					<tilt>1.052759088867659</tilt>
+					<roll>-6.590145046115767</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.825388791504,20.55277326031127,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8256358837695</longitude>
+					<latitude>20.55275424714702</latitude>
+					<altitude>116.7565741605515</altitude>
+					<heading>5.199454907596449</heading>
+					<tilt>5.953285960231777</tilt>
+					<roll>-1.164920624948903</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8256232023029,20.55280360247756,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8258948489456</longitude>
+					<latitude>20.55278203131428</latitude>
+					<altitude>116.7565741591352</altitude>
+					<heading>5.199363992777538</heading>
+					<tilt>5.953285960231593</tilt>
+					<roll>-1.164920624948989</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8258493715799,20.55282639911258,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8260431380576</longitude>
+					<latitude>20.55279672547608</latitude>
+					<altitude>116.7565741605515</altitude>
+					<heading>5.199311932946384</heading>
+					<tilt>5.953285960231716</tilt>
+					<roll>-1.164920624948749</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.826090667028,20.55285236850801,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8259279220004</longitude>
+					<latitude>20.55277453111843</latitude>
+					<altitude>116.7565741591352</altitude>
+					<heading>5.199352382026852</heading>
+					<tilt>5.953285960231716</tilt>
+					<roll>-1.164920624948881</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8263537009183,20.5528782851028,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8262732414427</longitude>
+					<latitude>20.55252549207811</latitude>
+					<altitude>118.0822164617136</altitude>
+					<heading>0.7433107124851352</heading>
+					<tilt>17.0211655466644</tilt>
+					<roll>-2.016984307233062</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8266664933377,20.55291554712795,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8262732414427</longitude>
+					<latitude>20.55252549207811</latitude>
+					<altitude>118.0822164617136</altitude>
+					<heading>0.7433107124851352</heading>
+					<tilt>17.0211655466644</tilt>
+					<roll>-2.016984307233062</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8266154799507,20.55319117064831,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8260307225933</longitude>
+					<latitude>20.5526163068626</latitude>
+					<altitude>118.0822164631298</altitude>
+					<heading>0.7433958533091006</heading>
+					<tilt>17.02116554666444</tilt>
+					<roll>-2.016984307233055</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8263979222858,20.55317906523993,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8256984446579</longitude>
+					<latitude>20.55316160717345</latitude>
+					<altitude>175.7983835461112</altitude>
+					<heading>-4.453286817280746</heading>
+					<tilt>6.310107583056939</tilt>
+					<roll>-5.378700841175132</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.826164132755,20.55315455091049,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8256984446579</longitude>
+					<latitude>20.55316160717345</latitude>
+					<altitude>175.7983835461112</altitude>
+					<heading>-4.453286817280746</heading>
+					<tilt>6.310107583056939</tilt>
+					<roll>-5.378700841175132</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.825921200332,20.55311528474569,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8256984446579</longitude>
+					<latitude>20.55316160717345</latitude>
+					<altitude>175.7983835461112</altitude>
+					<heading>-4.453286817280746</heading>
+					<tilt>6.310107583056939</tilt>
+					<roll>-5.378700841175132</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8256884056837,20.5530993359373,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8252883135875</longitude>
+					<latitude>20.5528711142068</latitude>
+					<altitude>136.7313469560845</altitude>
+					<heading>-1.493187468146827</heading>
+					<tilt>13.89870050771558</tilt>
+					<roll>-2.45825658065732</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8254588178448,20.55308037190861,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>22</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8249363223927</longitude>
+					<latitude>20.55275691311715</latitude>
+					<altitude>136.7313469546683</altitude>
+					<heading>-1.493063893492941</heading>
+					<tilt>13.89870050771558</tilt>
+					<roll>-2.458256580657318</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8252224506476,20.55305628235524,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8248101171666</longitude>
+					<latitude>20.55275203201938</latitude>
+					<altitude>136.731346953252</altitude>
+					<heading>-1.493019586201414</heading>
+					<tilt>13.89870050771555</tilt>
+					<roll>-2.458256580657269</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8249227051618,20.55302448576812,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>24</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8244784661311</longitude>
+					<latitude>20.55273096782583</latitude>
+					<altitude>136.7313469546683</altitude>
+					<heading>-1.492903153068079</heading>
+					<tilt>13.89870050771553</tilt>
+					<roll>-2.458256580657342</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8246757794322,20.55300197416563,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>25</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8243750270168</longitude>
+					<latitude>20.55272544513926</latitude>
+					<altitude>106.3365987078819</altitude>
+					<heading>-9.012256064228954</heading>
+					<tilt>11.04646172132239</tilt>
+					<roll>-3.081628164298691</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8244241776319,20.55297186083817,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>26</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8241831590203</longitude>
+					<latitude>20.55294333108898</latitude>
+					<altitude>104.736121560921</altitude>
+					<heading>-90.68917783764014</heading>
+					<tilt>0.5903820762210374</tilt>
+					<roll>-91.4948701762392</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8241852217013,20.55294973021864,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>27</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8239227731215</longitude>
+					<latitude>20.55289610128931</latitude>
+					<altitude>104.8065422091641</altitude>
+					<heading>-42.19092541465525</heading>
+					<tilt>0.8239496986285801</tilt>
+					<roll>-45.74942895371267</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8239455829796,20.55292263448399,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>28</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8237183218961</longitude>
+					<latitude>20.55252152509156</latitude>
+					<altitude>90.01640546082562</altitude>
+					<heading>-4.618514726019252</heading>
+					<tilt>26.09763176585131</tilt>
+					<roll>-1.341379083850285</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8239476227048,20.55295094290408,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>29</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8237183218961</longitude>
+					<latitude>20.55252152509156</latitude>
+					<altitude>90.01640546082562</altitude>
+					<heading>-4.618514726019252</heading>
+					<tilt>26.09763176585131</tilt>
+					<roll>-1.341379083850285</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8237118166108,20.55290181575548,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8237183218961</longitude>
+					<latitude>20.55252152509156</latitude>
+					<altitude>90.01640546082562</altitude>
+					<heading>-4.618514726019252</heading>
+					<tilt>26.09763176585131</tilt>
+					<roll>-1.341379083850285</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8237063785447,20.55292428767835,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>31</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8232901875973</longitude>
+					<latitude>20.55260634160655</latitude>
+					<altitude>124.6886366030774</altitude>
+					<heading>4.105503190055774</heading>
+					<tilt>15.1122356030287</tilt>
+					<roll>-2.2638033811442</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.823473820325,20.55287626348172,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>32</name>
+				<description><![CDATA[<b>Luminaria: </b>LED SOLA BASIC 100 W<b><br>Se carga a municipio: </b>SI<b><br>Vialidad: </b>Av. México-Japon<b>]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8232901875973</longitude>
+					<latitude>20.55260634160655</latitude>
+					<altitude>124.6886366030774</altitude>
+					<heading>4.105503190055774</heading>
+					<tilt>15.1122356030287</tilt>
+					<roll>-2.2638033811442</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8232480002382,20.55284547566898,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Ref Led 200W</name>
+			<Placemark>
+				<name>33</name>
+				<description>Ref Phillips 200W</description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8226192550477</longitude>
+					<latitude>20.55216544789632</latitude>
+					<altitude>170.3134537164343</altitude>
+					<heading>1.413905179408388</heading>
+					<tilt>17.14246995537706</tilt>
+					<roll>-2.000826823836434</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.8230690700246,20.55241887394085,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>34</name>
+				<open>1</open>
+				<description>Ref Phillips 200W</description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8226192550477</longitude>
+					<latitude>20.55216544789632</latitude>
+					<altitude>170.3134537164343</altitude>
+					<heading>1.413905179408388</heading>
+					<tilt>17.14246995537706</tilt>
+					<roll>-2.000826823836434</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.8230517747286,20.552404288288,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>35</name>
+				<open>1</open>
+				<description>Ref Phillips 200W</description>
+				<Camera>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8226192550477</longitude>
+					<latitude>20.55216544789632</latitude>
+					<altitude>170.3134537164343</altitude>
+					<heading>1.413905179408388</heading>
+					<tilt>17.14246995537706</tilt>
+					<roll>-2.000826823836434</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.8230381779934,20.55238885687187,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

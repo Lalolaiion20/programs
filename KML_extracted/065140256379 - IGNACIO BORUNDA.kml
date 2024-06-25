@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>065140256379 - IGNACIO BORUNDA.kmz</name>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.681818</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>065140256379 - IGNACIO BORUNDA</name>
+		<Placemark>
+			<name>01</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.81567266986</longitude>
+				<latitude>20.55149105062861</latitude>
+				<altitude>194.2186339560596</altitude>
+				<heading>86.3264963323976</heading>
+				<tilt>0.1171181157718893</tilt>
+				<roll>95.59991079160363</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8161762813312,20.55162753816303,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>02</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.81567266986</longitude>
+				<latitude>20.55149105062861</latitude>
+				<altitude>194.2186339560596</altitude>
+				<heading>86.3264963323976</heading>
+				<tilt>0.1171181157718893</tilt>
+				<roll>95.59991079160363</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8161118251001,20.5516296550439,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>03</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8155233618988</longitude>
+				<latitude>20.55129157213043</latitude>
+				<altitude>194.2186339546434</altitude>
+				<heading>86.32654874554014</heading>
+				<tilt>0.1171181157687773</tilt>
+				<roll>95.59991079160214</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8161334619517,20.55136653616708,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>04</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8155233618988</longitude>
+				<latitude>20.55129157213043</latitude>
+				<altitude>194.2186339546434</altitude>
+				<heading>86.32654874554014</heading>
+				<tilt>0.1171181157687773</tilt>
+				<roll>95.59991079160214</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8160737356652,20.55136405075128,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8155061065731</longitude>
+				<latitude>20.55116885321024</latitude>
+				<altitude>194.2186339560596</altitude>
+				<heading>86.3265548022508</heading>
+				<tilt>0.1171181157718893</tilt>
+				<roll>95.59991079160018</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8161033414571,20.55108300343375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>06</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8154711369729</longitude>
+				<latitude>20.55095056425924</latitude>
+				<altitude>231.9801687344375</altitude>
+				<heading>47.31860644295059</heading>
+				<tilt>0.0859446629304837</tilt>
+				<roll>58.86848760818257</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8160341313849,20.5510894106533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>07</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8154711369729</longitude>
+				<latitude>20.55095056425924</latitude>
+				<altitude>231.9801687344375</altitude>
+				<heading>47.31860644295059</heading>
+				<tilt>0.0859446629304837</tilt>
+				<roll>58.86848760818257</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8160517092533,20.55082790115288,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>08</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8154711369729</longitude>
+				<latitude>20.55095056425924</latitude>
+				<altitude>231.9801687344375</altitude>
+				<heading>47.31860644295059</heading>
+				<tilt>0.0859446629304837</tilt>
+				<roll>58.86848760818257</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8159936907782,20.55083589311644,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>09</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.815365771641</longitude>
+				<latitude>20.55072660183189</latitude>
+				<altitude>231.9801687358537</altitude>
+				<heading>47.31864342852943</heading>
+				<tilt>0.08594466293472439</tilt>
+				<roll>58.8684876081814</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8159815391099,20.55055988856099,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.815365771641</longitude>
+				<latitude>20.55072660183189</latitude>
+				<altitude>231.9801687358537</altitude>
+				<heading>47.31864342852943</heading>
+				<tilt>0.08594466293472439</tilt>
+				<roll>58.8684876081814</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.815915882787,20.55057089560293,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8152537784915</longitude>
+				<latitude>20.55051789453347</latitude>
+				<altitude>231.9801687344375</altitude>
+				<heading>47.31868274068467</heading>
+				<tilt>0.08594466292624299</tilt>
+				<roll>58.86848760818021</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8159056050295,20.55028831247675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8156107428064</longitude>
+				<latitude>20.55034169226264</latitude>
+				<altitude>195.3193892572239</altitude>
+				<heading>49.73108472152182</heading>
+				<tilt>0.05000808140447776</tilt>
+				<roll>56.45605453275886</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.815867748203,20.55029543593165,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8154565355282</longitude>
+				<latitude>20.5501907780516</latitude>
+				<altitude>195.3193892586401</altitude>
+				<heading>49.73113885187104</heading>
+				<tilt>0.050008081419054</tilt>
+				<roll>56.45605453275999</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8158715502821,20.55000823871594,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8154565355282</longitude>
+				<latitude>20.5501907780516</latitude>
+				<altitude>195.3193892586401</altitude>
+				<heading>49.73113885187104</heading>
+				<tilt>0.050008081419054</tilt>
+				<roll>56.45605453275999</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8158203367749,20.55001776571656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8154155253146</longitude>
+				<latitude>20.54997762284713</latitude>
+				<altitude>172.9033660210794</altitude>
+				<heading>-12.06761438293234</heading>
+				<tilt>2.265404242431231</tilt>
+				<roll>1.019916382388116</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8158328791112,20.54974824758444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8154155253146</longitude>
+				<latitude>20.54997762284713</latitude>
+				<altitude>172.9033660210794</altitude>
+				<heading>-12.06761438293234</heading>
+				<tilt>2.265404242431231</tilt>
+				<roll>1.019916382388116</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8157764661146,20.54975589990975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>17</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8153397448015</longitude>
+				<latitude>20.54958295929041</latitude>
+				<altitude>172.9033660239119</altitude>
+				<heading>-12.06758778386546</heading>
+				<tilt>2.26540424243107</tilt>
+				<roll>1.019916382386982</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8157767798903,20.54947687436907,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>18</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8153397448015</longitude>
+				<latitude>20.54958295929041</latitude>
+				<altitude>172.9033660239119</altitude>
+				<heading>-12.06758778386546</heading>
+				<tilt>2.26540424243107</tilt>
+				<roll>1.019916382386982</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8157269789915,20.54948189790962,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8151928947502</longitude>
+				<latitude>20.54925258661768</latitude>
+				<altitude>172.9033660210794</altitude>
+				<heading>-12.06753624086384</heading>
+				<tilt>2.265404242430748</tilt>
+				<roll>1.019916382386788</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8157138570873,20.54921451120952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8151927059277</longitude>
+				<latitude>20.54925265547383</latitude>
+				<altitude>172.9744602981607</altitude>
+				<heading>-12.06753144002951</heading>
+				<tilt>2.265404272801439</tilt>
+				<roll>1.019921120645319</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8156701191186,20.54922409195273,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>21</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8150759813615</longitude>
+				<latitude>20.54904816512005</latitude>
+				<altitude>172.9744602981607</altitude>
+				<heading>-12.0674904702715</heading>
+				<tilt>2.265404272801117</tilt>
+				<roll>1.019921120645013</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8156455511373,20.54894700798245,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>22</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8150759813615</longitude>
+				<latitude>20.54904816512005</latitude>
+				<altitude>172.9744602981607</altitude>
+				<heading>-12.0674904702715</heading>
+				<tilt>2.265404272801117</tilt>
+				<roll>1.019921120645013</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8156047887494,20.54895821310505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>23</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8151138585255</longitude>
+				<latitude>20.54869059080489</latitude>
+				<altitude>0</altitude>
+				<heading>-12.84841267641302</heading>
+				<tilt>9.605952711307099</tilt>
+				<range>144.6237382707231</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8155891149463,20.54865642171559,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>24</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8151138585255</longitude>
+				<latitude>20.54869059080489</latitude>
+				<altitude>0</altitude>
+				<heading>-12.84841267641302</heading>
+				<tilt>9.605952711307099</tilt>
+				<range>144.6237382707231</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8155513811112,20.54866162324632,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>25</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8150918929275</longitude>
+				<latitude>20.54837503342329</latitude>
+				<altitude>0</altitude>
+				<heading>-12.84840496851551</heading>
+				<tilt>9.60595271130706</tilt>
+				<range>144.6237382719451</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8155481796389,20.54837935708198,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>26</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8150918929275</longitude>
+				<latitude>20.54837503342329</latitude>
+				<altitude>0</altitude>
+				<heading>-12.84840496851551</heading>
+				<tilt>9.60595271130706</tilt>
+				<range>144.6237382719451</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.815503714742,20.54838397191492,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>27</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8150918929275</longitude>
+				<latitude>20.54837503342329</latitude>
+				<altitude>0</altitude>
+				<heading>-12.84840496851551</heading>
+				<tilt>9.60595271130706</tilt>
+				<range>144.6237382719451</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8155114652905,20.54813275995631,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>28</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8150918929275</longitude>
+				<latitude>20.54837503342329</latitude>
+				<altitude>0</altitude>
+				<heading>-12.84840496851551</heading>
+				<tilt>9.60595271130706</tilt>
+				<range>144.6237382719451</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8154718748519,20.54813852404816,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>29</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8151583798154</longitude>
+				<latitude>20.54794802432831</latitude>
+				<altitude>0</altitude>
+				<heading>-12.84842830668507</heading>
+				<tilt>9.605952711307021</tilt>
+				<range>144.6237382716106</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8154626773793,20.54785464249564,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>30</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8151583798154</longitude>
+				<latitude>20.54794802432831</latitude>
+				<altitude>0</altitude>
+				<heading>-12.84842830668507</heading>
+				<tilt>9.605952711307021</tilt>
+				<range>144.6237382716106</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8154207953346,20.54786179895612,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>31</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8150070502627</longitude>
+				<latitude>20.54783428295174</latitude>
+				<altitude>0</altitude>
+				<heading>-12.84837519242929</heading>
+				<tilt>9.605952711307021</tilt>
+				<range>144.6237382705772</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8154014200455,20.54760416636543,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>32</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8150070502627</longitude>
+				<latitude>20.54783428295174</latitude>
+				<altitude>0</altitude>
+				<heading>-12.84837519242929</heading>
+				<tilt>9.605952711307021</tilt>
+				<range>144.6237382705772</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8153623477926,20.54761171936483,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>33</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8148130281616</longitude>
+				<latitude>20.54773250803365</latitude>
+				<altitude>0</altitude>
+				<heading>-12.94132109401713</heading>
+				<tilt>15.51906799904023</tilt>
+				<range>234.4183783527064</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8153511874455,20.54734643729946,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>34</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8148130281616</longitude>
+				<latitude>20.54773250803365</latitude>
+				<altitude>0</altitude>
+				<heading>-12.94132109401713</heading>
+				<tilt>15.51906799904023</tilt>
+				<range>234.4183783527064</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8152903503436,20.5473581531454,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>35</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8146768824254</longitude>
+				<latitude>20.54742622841733</latitude>
+				<altitude>0</altitude>
+				<heading>-12.94127331143491</heading>
+				<tilt>15.51906799904023</tilt>
+				<range>234.4183783560371</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8152878320001,20.54709235288874,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>36</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8146768824254</longitude>
+				<latitude>20.54742622841733</latitude>
+				<altitude>0</altitude>
+				<heading>-12.94127331143491</heading>
+				<tilt>15.51906799904023</tilt>
+				<range>234.4183783560371</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8152344583531,20.54709307242873,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>37</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8146888790614</longitude>
+				<latitude>20.54715179038312</latitude>
+				<altitude>0</altitude>
+				<heading>-12.94127752354653</heading>
+				<tilt>15.51906799904018</tilt>
+				<range>234.418378353849</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8152316708013,20.54680942794835,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>38</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8146888790614</longitude>
+				<latitude>20.54715179038312</latitude>
+				<altitude>0</altitude>
+				<heading>-12.94127752354653</heading>
+				<tilt>15.51906799904018</tilt>
+				<range>234.418378353849</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8151779354252,20.54681338445099,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>39</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8146888790614</longitude>
+				<latitude>20.54715179038312</latitude>
+				<altitude>0</altitude>
+				<heading>-12.94127752354653</heading>
+				<tilt>15.51906799904018</tilt>
+				<range>234.418378353849</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8151772236441,20.5465546150654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>40</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8146888790614</longitude>
+				<latitude>20.54715179038312</latitude>
+				<altitude>0</altitude>
+				<heading>-12.94127752354653</heading>
+				<tilt>15.51906799904018</tilt>
+				<range>234.418378353849</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8151230808084,20.54656640205762,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>41</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8146208208148</longitude>
+				<latitude>20.54650900268837</latitude>
+				<altitude>0</altitude>
+				<heading>-12.97224543271051</heading>
+				<tilt>19.44783540228997</tilt>
+				<range>179.4449668196361</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8151228125469,20.5462787886512,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>42</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8146208208148</longitude>
+				<latitude>20.54650900268837</latitude>
+				<altitude>0</altitude>
+				<heading>-12.97224543271051</heading>
+				<tilt>19.44783540228997</tilt>
+				<range>179.4449668196361</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8150753251147,20.54628303387348,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>43</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8145713936814</longitude>
+				<latitude>20.54631490879571</latitude>
+				<altitude>0</altitude>
+				<heading>-12.97222808687771</heading>
+				<tilt>19.44783540228997</tilt>
+				<range>179.4449668179239</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8150554430618,20.54600929698424,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>44</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8145713936814</longitude>
+				<latitude>20.54631490879571</latitude>
+				<altitude>0</altitude>
+				<heading>-12.97222808687771</heading>
+				<tilt>19.44783540228997</tilt>
+				<range>179.4449668179239</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8150256028537,20.54601107376532,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>45</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.814510951811</longitude>
+				<latitude>20.54606488799468</latitude>
+				<altitude>0</altitude>
+				<heading>-12.97220687481763</heading>
+				<tilt>19.44783540228989</tilt>
+				<range>179.4449668161891</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.815024255011,20.54574582285759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>46</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.814510951811</longitude>
+				<latitude>20.54606488799468</latitude>
+				<altitude>0</altitude>
+				<heading>-12.97220687481763</heading>
+				<tilt>19.44783540228989</tilt>
+				<range>179.4449668161891</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8149819300657,20.54575150946651,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>47</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8144173217203</longitude>
+				<latitude>20.54572717396661</latitude>
+				<altitude>0</altitude>
+				<heading>-12.97217401637911</heading>
+				<tilt>19.44783540228993</tilt>
+				<range>179.4449668188359</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.814976696606,20.54547105840625,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>48</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8144173217203</longitude>
+				<latitude>20.54572717396661</latitude>
+				<altitude>0</altitude>
+				<heading>-12.97217401637911</heading>
+				<tilt>19.44783540228993</tilt>
+				<range>179.4449668188359</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8149276582487,20.54547446354538,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>49</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8144181162056</longitude>
+				<latitude>20.54540237934368</latitude>
+				<altitude>0</altitude>
+				<heading>-12.97217429729802</heading>
+				<tilt>19.44783540228997</tilt>
+				<range>179.4449668172541</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8149188733559,20.54521432750341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>50</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8144181162056</longitude>
+				<latitude>20.54540237934368</latitude>
+				<altitude>0</altitude>
+				<heading>-12.97217429729802</heading>
+				<tilt>19.44783540228997</tilt>
+				<range>179.4449668172541</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.814875417874,20.54522006991562,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>51</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8144181162056</longitude>
+				<latitude>20.54540237934368</latitude>
+				<altitude>0</altitude>
+				<heading>-12.97217429729802</heading>
+				<tilt>19.44783540228997</tilt>
+				<range>179.4449668172541</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8148667400788,20.54494014724514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>52</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8146704374843</longitude>
+				<latitude>20.54502865506733</latitude>
+				<altitude>122.9536453003045</altitude>
+				<heading>-104.2834619111317</heading>
+				<tilt>0.5010001032396003</tilt>
+				<roll>-91.99180445017846</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8148150511464,20.54494956317204,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>53</name>
+			<description><![CDATA[<b>Luminaria: </b>Led Sola Basic 70W<b><br>Se carga a municipio: </b>Si<b><br>Colonia: </b>Vialidad<b>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8146704374843</longitude>
+				<latitude>20.54502865506733</latitude>
+				<altitude>122.9536453003045</altitude>
+				<heading>-104.2834619111317</heading>
+				<tilt>0.5010001032396003</tilt>
+				<roll>-91.99180445017846</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.8148367898962,20.54491366010668,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

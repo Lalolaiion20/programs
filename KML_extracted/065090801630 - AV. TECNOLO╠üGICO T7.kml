@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>065090801630 - AV. TECNOLÓGICO T7.kmz</name>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>0.681818</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_shaded_dot0">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>0.681818</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_shaded_dot1">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>0.681818</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_shaded_dot4">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>0.681818</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot0">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot1">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_shaded_dot14">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>065090801630 - AV. TECNOLÓGICO T7</name>
+		<Folder>
+			<name>Vial 150W</name>
+			<Placemark>
+				<name>05</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8197409928883</longitude>
+					<latitude>20.53810391529758</latitude>
+					<altitude>0</altitude>
+					<heading>-9.537784487857419</heading>
+					<tilt>19.55908271832955</tilt>
+					<range>88.74254827560705</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot0</styleUrl>
+				<Point>
+					<coordinates>-100.8198952705906,20.53807219477392,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8197409928883</longitude>
+					<latitude>20.53810391529758</latitude>
+					<altitude>0</altitude>
+					<heading>-9.537784487857419</heading>
+					<tilt>19.55908271832955</tilt>
+					<range>88.74254827560705</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot0</styleUrl>
+				<Point>
+					<coordinates>-100.8199337876561,20.53806807282889,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8196801356171</longitude>
+					<latitude>20.53826211287427</latitude>
+					<altitude>0</altitude>
+					<heading>-9.537761996030722</heading>
+					<tilt>19.62854775962036</tilt>
+					<range>112.486237918704</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8199745240094,20.5382852990177,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<longitude>-100.81991314888</longitude>
+					<latitude>20.53829927246949</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.81991314888,20.53829927246949,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8196542700594</longitude>
+					<latitude>20.53853932679126</latitude>
+					<altitude>0</altitude>
+					<heading>-9.537752920485884</heading>
+					<tilt>19.62854775962034</tilt>
+					<range>112.4862379157014</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8199589985578,20.53847296037187,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8196556821457</longitude>
+					<latitude>20.53854408616336</latitude>
+					<altitude>0</altitude>
+					<heading>-9.537753415871459</heading>
+					<tilt>19.62854775962034</tilt>
+					<range>112.4862379148118</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8200042233941,20.53847001281773,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8196556821457</longitude>
+					<latitude>20.53854408616336</latitude>
+					<altitude>0</altitude>
+					<heading>-9.537753415871459</heading>
+					<tilt>19.62854775962034</tilt>
+					<range>112.4862379148118</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8199930062271,20.53866469970608,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8196556821457</longitude>
+					<latitude>20.53854408616336</latitude>
+					<altitude>0</altitude>
+					<heading>-9.537753415871459</heading>
+					<tilt>19.62854775962034</tilt>
+					<range>112.4862379148118</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8200360391433,20.5386625366161,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8196556821457</longitude>
+					<latitude>20.53854408616336</latitude>
+					<altitude>0</altitude>
+					<heading>-9.537753415871459</heading>
+					<tilt>19.62854775962034</tilt>
+					<range>112.4862379148118</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8200242133639,20.53883541684148,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8196491437783</longitude>
+					<latitude>20.53882059926986</latitude>
+					<altitude>0</altitude>
+					<heading>-9.537751121124225</heading>
+					<tilt>19.62854775962033</tilt>
+					<range>112.486237914814</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.820068957127,20.53883269240623,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8195161536865</longitude>
+					<latitude>20.53907514681906</latitude>
+					<altitude>0</altitude>
+					<heading>-9.537703938823181</heading>
+					<tilt>19.62913479208292</tilt>
+					<range>152.0547338740172</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8200612349891,20.5390985360365,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8195161536865</longitude>
+					<latitude>20.53907514681906</latitude>
+					<altitude>0</altitude>
+					<heading>-9.537703938823181</heading>
+					<tilt>19.62913479208292</tilt>
+					<range>152.0547338740172</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8201159980203,20.53909344234273,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8195161536865</longitude>
+					<latitude>20.53907514681907</latitude>
+					<altitude>0</altitude>
+					<heading>-9.53770393882318</heading>
+					<tilt>19.62913479208292</tilt>
+					<range>152.0547338740172</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.820105127192,20.5392854849813,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8195161536865</longitude>
+					<latitude>20.53907514681907</latitude>
+					<altitude>0</altitude>
+					<heading>-9.537703938823194</heading>
+					<tilt>19.62913479208288</tilt>
+					<range>152.054733874726</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8201589126836,20.5392770225417,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8196091359367</longitude>
+					<latitude>20.53943131113794</latitude>
+					<altitude>0</altitude>
+					<heading>-9.537736558298016</heading>
+					<tilt>19.62913479208289</tilt>
+					<range>152.0547338724101</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8201384917617,20.53951063427745,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8196054839977</longitude>
+					<latitude>20.53936206144074</latitude>
+					<altitude>0</altitude>
+					<heading>-9.537735277618342</heading>
+					<tilt>19.62913479208292</tilt>
+					<range>152.054733873646</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8201873255702,20.53950654452082,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8201704094821</longitude>
+					<latitude>20.53953204682124</latitude>
+					<altitude>0</altitude>
+					<heading>-13.33027254309574</heading>
+					<tilt>0</tilt>
+					<range>174.7733137709425</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8202027750227,20.53986877456133,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>22</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8201271987275</longitude>
+					<latitude>20.5396754486831</latitude>
+					<altitude>0</altitude>
+					<heading>-10.25789769703646</heading>
+					<tilt>0</tilt>
+					<range>130.3266048977729</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8202562927781,20.5398531128486,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8201378056292</longitude>
+					<latitude>20.53993940610756</latitude>
+					<altitude>0</altitude>
+					<heading>-10.2579014180994</heading>
+					<tilt>0</tilt>
+					<range>130.3266048995393</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8202547102579,20.54011373082339,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>24</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8201336085411</longitude>
+					<latitude>20.5398977766844</latitude>
+					<altitude>0</altitude>
+					<heading>-10.25789994557701</heading>
+					<tilt>0</tilt>
+					<range>130.3266049010277</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8202956969634,20.54010678485417,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>25</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8200852553065</longitude>
+					<latitude>20.54019514837814</latitude>
+					<altitude>0</altitude>
+					<heading>-10.25788297926525</heading>
+					<tilt>0</tilt>
+					<range>130.3266048985508</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8202839909465,20.54032497610087,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>26</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8200852553065</longitude>
+					<latitude>20.54019514837814</latitude>
+					<altitude>0</altitude>
+					<heading>-10.25788297926525</heading>
+					<tilt>0</tilt>
+					<range>130.3266048985508</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8203349671812,20.54031994075437,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>27</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8200889033734</longitude>
+					<latitude>20.54028371585132</latitude>
+					<altitude>0</altitude>
+					<heading>-10.25788425888189</heading>
+					<tilt>0</tilt>
+					<range>130.3266049008009</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8203360282267,20.54055939118961,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>28</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8200889033734</longitude>
+					<latitude>20.54028371585132</latitude>
+					<altitude>0</altitude>
+					<heading>-10.25788425888189</heading>
+					<tilt>0</tilt>
+					<range>130.3266049008009</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8203732889959,20.54055307672558,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>29</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8200716464779</longitude>
+					<latitude>20.54065239115524</latitude>
+					<altitude>0</altitude>
+					<heading>-10.25787820290166</heading>
+					<tilt>0</tilt>
+					<range>130.326604899373</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8203757157744,20.54077968314065,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8200716464779</longitude>
+					<latitude>20.54065239115524</latitude>
+					<altitude>0</altitude>
+					<heading>-10.25787820290166</heading>
+					<tilt>0</tilt>
+					<range>130.326604899373</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8204179713492,20.54077432393775,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>31</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8200810925635</longitude>
+					<latitude>20.54098501108254</latitude>
+					<altitude>0</altitude>
+					<heading>-10.25788151584939</heading>
+					<tilt>0</tilt>
+					<range>130.3266049018538</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8204161405352,20.54102867805851,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>32</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8200810925635</longitude>
+					<latitude>20.54098501108254</latitude>
+					<altitude>0</altitude>
+					<heading>-10.25788151584939</heading>
+					<tilt>0</tilt>
+					<range>130.3266049018538</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8204616165555,20.54102007049586,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>33</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8200810925635</longitude>
+					<latitude>20.54098501108254</latitude>
+					<altitude>0</altitude>
+					<heading>-10.25788151584939</heading>
+					<tilt>0</tilt>
+					<range>130.3266049018538</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8204624919898,20.541278470637,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>34</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8200810925635</longitude>
+					<latitude>20.54098501108254</latitude>
+					<altitude>0</altitude>
+					<heading>-10.25788151584939</heading>
+					<tilt>0</tilt>
+					<range>130.3266049018538</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.820511694222,20.54126923165254,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>35</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<Camera>
+					<longitude>-100.8203061898169</longitude>
+					<latitude>20.54139734235558</latitude>
+					<altitude>243.4046222908387</altitude>
+					<heading>-101.6641835630327</heading>
+					<tilt>8.918297629697708</tilt>
+					<roll>-1.246229279878698</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8204852075943,20.54149772911086,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>36</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<Camera>
+					<longitude>-100.8203061898169</longitude>
+					<latitude>20.54139734235558</latitude>
+					<altitude>243.4046222908387</altitude>
+					<heading>-101.6641835630327</heading>
+					<tilt>8.918297629697708</tilt>
+					<roll>-1.246229279878698</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8205593343148,20.54148564199265,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>37</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<Camera>
+					<longitude>-100.8203061898169</longitude>
+					<latitude>20.54139734235558</latitude>
+					<altitude>243.4046222908387</altitude>
+					<heading>-101.6641835630327</heading>
+					<tilt>8.918297629697708</tilt>
+					<roll>-1.246229279878698</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8205271343816,20.54172883083413,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>38</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<Camera>
+					<longitude>-100.8203061898169</longitude>
+					<latitude>20.54139734235558</latitude>
+					<altitude>243.4046222908387</altitude>
+					<heading>-101.6641835630327</heading>
+					<tilt>8.918297629697708</tilt>
+					<roll>-1.246229279878698</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8205952608153,20.54172205387598,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>39</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<Camera>
+					<longitude>-100.8203061898169</longitude>
+					<latitude>20.54139734235558</latitude>
+					<altitude>243.4046222908387</altitude>
+					<heading>-101.6641835630327</heading>
+					<tilt>8.918297629697708</tilt>
+					<roll>-1.246229279878698</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8205566199681,20.54195807581664,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>40</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<Camera>
+					<longitude>-100.8203061898169</longitude>
+					<latitude>20.54139734235558</latitude>
+					<altitude>243.4046222908387</altitude>
+					<heading>-101.6641835630327</heading>
+					<tilt>8.918297629697708</tilt>
+					<roll>-1.246229279878698</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8206328100598,20.5419399979761,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>41</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<Camera>
+					<longitude>-100.8203061898169</longitude>
+					<latitude>20.54139734235558</latitude>
+					<altitude>243.4046222908387</altitude>
+					<heading>-101.6641835630327</heading>
+					<tilt>8.918297629697708</tilt>
+					<roll>-1.246229279878698</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8206065449771,20.54218591760131,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>42</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<Camera>
+					<longitude>-100.8203061898169</longitude>
+					<latitude>20.54139734235558</latitude>
+					<altitude>243.4046222908387</altitude>
+					<heading>-101.6641835630327</heading>
+					<tilt>8.918297629697708</tilt>
+					<roll>-1.246229279878698</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8206689065254,20.54217709752232,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>433</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<Camera>
+					<longitude>-100.8202836309142</longitude>
+					<latitude>20.54259603936296</latitude>
+					<altitude>243.4046222908387</altitude>
+					<heading>-101.6641756434813</heading>
+					<tilt>8.918297629697831</tilt>
+					<roll>-1.2462292798786</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8206451041165,20.5424446428083,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>44</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<Camera>
+					<longitude>-100.8202836309142</longitude>
+					<latitude>20.54259603936296</latitude>
+					<altitude>243.4046222908387</altitude>
+					<heading>-101.6641756434813</heading>
+					<tilt>8.918297629697831</tilt>
+					<roll>-1.2462292798786</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8207293942922,20.54242633232972,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>45</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<Camera>
+					<longitude>-100.8202836309142</longitude>
+					<latitude>20.54259603936296</latitude>
+					<altitude>243.4046222908387</altitude>
+					<heading>-101.6641756434813</heading>
+					<tilt>8.918297629697831</tilt>
+					<roll>-1.2462292798786</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.820682410885,20.54266223569346,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>46</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<Camera>
+					<longitude>-100.8202836309142</longitude>
+					<latitude>20.54259603936296</latitude>
+					<altitude>243.4046222908387</altitude>
+					<heading>-101.6641756434813</heading>
+					<tilt>8.918297629697831</tilt>
+					<roll>-1.2462292798786</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8207613048704,20.54264442308936,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>48</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<Camera>
+					<longitude>-100.8201637247561</longitude>
+					<latitude>20.54267081169745</latitude>
+					<altitude>243.4046222922549</altitude>
+					<heading>-101.6641335672374</heading>
+					<tilt>8.918297629697667</tilt>
+					<roll>-1.246229279878734</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8207245193009,20.5425507730303,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>50</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<Camera>
+					<longitude>-100.8201637247561</longitude>
+					<latitude>20.54267081169745</latitude>
+					<altitude>243.4046222922549</altitude>
+					<heading>-101.6641335672374</heading>
+					<tilt>8.918297629697667</tilt>
+					<roll>-1.246229279878734</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8207893170226,20.54286317209321,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>51</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<Camera>
+					<longitude>-100.8201637247561</longitude>
+					<latitude>20.54267081169745</latitude>
+					<altitude>243.4046222922549</altitude>
+					<heading>-101.6641335672374</heading>
+					<tilt>8.918297629697667</tilt>
+					<roll>-1.246229279878734</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8207433110925,20.54287017712165,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>52</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<Camera>
+					<longitude>-100.8201637247561</longitude>
+					<latitude>20.54267081169745</latitude>
+					<altitude>243.4046222922549</altitude>
+					<heading>-101.6641335672374</heading>
+					<tilt>8.918297629697667</tilt>
+					<roll>-1.246229279878734</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8208257179755,20.54305849373606,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>53</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<Camera>
+					<longitude>-100.8201637247561</longitude>
+					<latitude>20.54267081169745</latitude>
+					<altitude>243.4046222922549</altitude>
+					<heading>-101.6641335672374</heading>
+					<tilt>8.918297629697667</tilt>
+					<roll>-1.246229279878734</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8207602028645,20.54306760920376,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>54</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<Camera>
+					<longitude>-100.8201637247561</longitude>
+					<latitude>20.54267081169745</latitude>
+					<altitude>243.4046222922549</altitude>
+					<heading>-101.6641335672374</heading>
+					<tilt>8.918297629697667</tilt>
+					<roll>-1.246229279878734</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8208722727761,20.54328702466246,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>55</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<Camera>
+					<longitude>-100.8201637247561</longitude>
+					<latitude>20.54267081169745</latitude>
+					<altitude>243.4046222922549</altitude>
+					<heading>-101.6641335672374</heading>
+					<tilt>8.918297629697667</tilt>
+					<roll>-1.246229279878734</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.820806062182,20.54330179222934,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>56</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<Camera>
+					<longitude>-100.8201637247561</longitude>
+					<latitude>20.54267081169745</latitude>
+					<altitude>243.4046222922549</altitude>
+					<heading>-101.6641335672374</heading>
+					<tilt>8.918297629697667</tilt>
+					<roll>-1.246229279878734</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8209046202655,20.54349891661499,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>56</name>
+				<description>LED ATP AIRE 7 - 150W</description>
+				<Camera>
+					<longitude>-100.8202369592595</longitude>
+					<latitude>20.54267433596146</latitude>
+					<altitude>243.4046222908387</altitude>
+					<heading>-101.6641592665617</heading>
+					<tilt>8.918297629697708</tilt>
+					<roll>-1.246229279878775</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<coordinates>-100.8208353997535,20.54351319594272,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Vial 80W</name>
+			<Placemark>
+				<name>01</name>
+				<description>Led Dianming G5 80W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8196287563984</longitude>
+					<latitude>20.53758676940149</latitude>
+					<altitude>0</altitude>
+					<heading>-4.254571048135278</heading>
+					<tilt>28.2682008196405</tilt>
+					<range>142.5859811848297</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8200102815921,20.53767230214037,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>02</name>
+				<description>Led Dianming G5 80W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8193421509757</longitude>
+					<latitude>20.53779676641349</latitude>
+					<altitude>0</altitude>
+					<heading>-4.254470498211463</heading>
+					<tilt>28.2682008196405</tilt>
+					<range>142.5859811824035</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8196671583382,20.53760000916905,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>03</name>
+				<description>Led Dianming G5 80W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8195092708409</longitude>
+					<latitude>20.53804839985822</latitude>
+					<altitude>0</altitude>
+					<heading>-9.537702688984877</heading>
+					<tilt>19.55919265757941</tilt>
+					<range>125.4232408237722</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8197375274688,20.53802955555414,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>58</name>
+				<open>1</open>
+				<description>Led Dianming G5 80W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8202898300647</longitude>
+					<latitude>20.53835333230262</latitude>
+					<altitude>0</altitude>
+					<heading>-104.4366015115326</heading>
+					<tilt>24.17341503218596</tilt>
+					<range>305.6788489812371</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8198411748955,20.53871205324706,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>57</name>
+				<open>1</open>
+				<description>Led Dianming G5 80W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8202898300647</longitude>
+					<latitude>20.53835333230262</latitude>
+					<altitude>0</altitude>
+					<heading>-104.4366015115326</heading>
+					<tilt>24.17341503218596</tilt>
+					<range>305.6788489812371</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<coordinates>-100.8197823412051,20.53837629770194,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>04</name>
+				<description>Led Dianming G5 80W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8197082803805</longitude>
+					<latitude>20.53807142314309</latitude>
+					<altitude>0</altitude>
+					<heading>-9.537772506885149</heading>
+					<tilt>19.55919265757937</tilt>
+					<range>125.4232408222578</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8200448874402,20.53803553098435,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>47</name>
+				<open>1</open>
+				<description>Led Dianming G5 80W</description>
+				<Camera>
+					<longitude>-100.8201637247561</longitude>
+					<latitude>20.54267081169745</latitude>
+					<altitude>243.4046222922549</altitude>
+					<heading>-101.6641335672374</heading>
+					<tilt>8.918297629697667</tilt>
+					<roll>-1.246229279878734</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8209019872566,20.54253180330804,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>49</name>
+				<open>1</open>
+				<description>Led Dianming G5 80W</description>
+				<Camera>
+					<longitude>-100.8201637247561</longitude>
+					<latitude>20.54267081169745</latitude>
+					<altitude>243.4046222922549</altitude>
+					<heading>-101.6641335672374</heading>
+					<tilt>8.918297629697667</tilt>
+					<roll>-1.246229279878734</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<coordinates>-100.8205411474238,20.54258258186524,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

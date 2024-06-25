@@ -1,0 +1,1207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>075120602594 - EJE CLOUTHIER T3.kmz</name>
+	<StyleMap id="msn_shaded_dot11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot1111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot11">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>0.681818</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_shaded_dot5">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.681818</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot14">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot23">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>075120602594 - EJE CLOUTHIER T3</name>
+		<Folder>
+			<name>Led Vial 100W</name>
+			<Placemark>
+				<name>48</name>
+				<description>LED ATP  ENUR L - 100W</description>
+				<LookAt>
+					<longitude>-100.8405539654592</longitude>
+					<latitude>20.54848751300528</latitude>
+					<altitude>0</altitude>
+					<heading>25.27697425612617</heading>
+					<tilt>0</tilt>
+					<range>86.16948102038042</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8405563055982,20.54831554068475,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>37</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8408109065777</longitude>
+					<latitude>20.54797372521702</latitude>
+					<altitude>0</altitude>
+					<heading>20.86347494604986</heading>
+					<tilt>15.5613500995904</tilt>
+					<range>102.1576563564065</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8409710872537,20.54805755447447,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>43</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<longitude>-100.8406209827786</longitude>
+					<latitude>20.54836118090457</latitude>
+					<altitude>0</altitude>
+					<heading>25.27695073282414</heading>
+					<tilt>0</tilt>
+					<range>86.16948101922132</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8407680892196,20.548532095743,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>44</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<longitude>-100.8404982222475</longitude>
+					<latitude>20.54870033385232</latitude>
+					<altitude>0</altitude>
+					<heading>25.01287362445668</heading>
+					<tilt>6.573300213728249</tilt>
+					<range>108.0680120947556</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8405737616793,20.54871321368599,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>46</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8401679575543</longitude>
+					<latitude>20.54894927131139</latitude>
+					<altitude>0</altitude>
+					<heading>-27.55392852740924</heading>
+					<tilt>19.72383729676982</tilt>
+					<range>196.5349089881131</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8406143114981,20.54872797012367,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>47</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<longitude>-100.8404982222475</longitude>
+					<latitude>20.54870033385232</latitude>
+					<altitude>0</altitude>
+					<heading>25.01287362445668</heading>
+					<tilt>6.573300213728249</tilt>
+					<range>108.0680120947556</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8404201885757,20.54856775126462,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>40</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<longitude>-100.8406763502152</longitude>
+					<latitude>20.54825138817107</latitude>
+					<altitude>0</altitude>
+					<heading>25.27693129890365</heading>
+					<tilt>0</tilt>
+					<range>86.16948102160578</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8408622886399,20.54832998789595,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>41</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<longitude>-100.8406209827786</longitude>
+					<latitude>20.54836118090457</latitude>
+					<altitude>0</altitude>
+					<heading>25.27695073282414</heading>
+					<tilt>0</tilt>
+					<range>86.16948101922132</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8406448983394,20.54847452683527,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>49</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<longitude>-100.8407184897276</longitude>
+					<latitude>20.54802037610262</latitude>
+					<altitude>0</altitude>
+					<heading>27.9101451675119</heading>
+					<tilt>0</tilt>
+					<range>86.1694810206875</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8406582193545,20.54808401973775,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8412442711835</longitude>
+					<latitude>20.5462589161362</latitude>
+					<altitude>0</altitude>
+					<heading>0.0006869191097971882</heading>
+					<tilt>30.00046010470729</tilt>
+					<range>102.2230560641715</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.841425218078,20.54613440950294,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>45</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<longitude>-100.8404982222475</longitude>
+					<latitude>20.54870033385232</latitude>
+					<altitude>0</altitude>
+					<heading>25.01287362445668</heading>
+					<tilt>6.573300213728249</tilt>
+					<range>108.0680120947556</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8405844404176,20.54874777212506,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>22</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8416013374713</longitude>
+					<latitude>20.54659601738749</latitude>
+					<altitude>0</altitude>
+					<heading>3.193917358228453e-05</heading>
+					<tilt>42.40059771533966</tilt>
+					<range>92.22849890019354</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8415304639373,20.54655638485936,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.841748793662</longitude>
+					<latitude>20.5462979881266</latitude>
+					<altitude>0</altitude>
+					<heading>-2.047015320012472e-05</heading>
+					<tilt>45.00061435980643</tilt>
+					<range>103.8098819967881</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8416321675976,20.54620532176745,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.841748793662</longitude>
+					<latitude>20.5462979881266</latitude>
+					<altitude>0</altitude>
+					<heading>-2.047015320012472e-05</heading>
+					<tilt>45.00061435980643</tilt>
+					<range>103.8098819967881</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8416038653954,20.54621121084714,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.841748793662</longitude>
+					<latitude>20.5462979881266</latitude>
+					<altitude>0</altitude>
+					<heading>-2.047015320012472e-05</heading>
+					<tilt>45.00061435980643</tilt>
+					<range>103.8098819967881</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8416470677366,20.54623288798246,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8412442711835</longitude>
+					<latitude>20.5462589161362</latitude>
+					<altitude>0</altitude>
+					<heading>0.0006869191097971882</heading>
+					<tilt>30.00046010470729</tilt>
+					<range>102.2230560641715</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8414626025354,20.54614011288168,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>50</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<longitude>-100.8407378498147</longitude>
+					<latitude>20.54800716538585</latitude>
+					<altitude>0</altitude>
+					<heading>21.06374335117868</heading>
+					<tilt>0</tilt>
+					<range>80.52591159856954</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8407789065689,20.54780170625346,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>25</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8411536458839</longitude>
+					<latitude>20.54668401591159</latitude>
+					<altitude>0</altitude>
+					<heading>17.29440996868065</heading>
+					<tilt>0</tilt>
+					<range>95.9548084406247</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8414674080058,20.54685042632178,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>28</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8410383736231</longitude>
+					<latitude>20.54698779557098</latitude>
+					<altitude>0</altitude>
+					<heading>17.29445042709695</heading>
+					<tilt>0</tilt>
+					<range>95.95480844415771</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8413451075477,20.54715413735377,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>35</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8407594230381</longitude>
+					<latitude>20.54809600373894</latitude>
+					<altitude>0</altitude>
+					<heading>-6.257038043101077e-05</heading>
+					<tilt>40.40561177776866</tilt>
+					<range>69.10136807140405</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8408486705355,20.54803078059371,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>34</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8407633652155</longitude>
+					<latitude>20.54750611019407</latitude>
+					<altitude>0</altitude>
+					<heading>17.29456881806987</heading>
+					<tilt>12.26316890569089</tilt>
+					<range>172.5273518804329</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8411045207055,20.54774346508569,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>32</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8407633652155</longitude>
+					<latitude>20.54750611019407</latitude>
+					<altitude>0</altitude>
+					<heading>17.29456881806987</heading>
+					<tilt>12.26316890569089</tilt>
+					<range>172.5273518804329</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8409505159511,20.54768097840669,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8409058356756</longitude>
+					<latitude>20.54730090348417</latitude>
+					<altitude>0</altitude>
+					<heading>17.29449694592244</heading>
+					<tilt>0</tilt>
+					<range>95.95480844443398</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8412230729959,20.54745050163038,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>38</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<longitude>-100.8406763502152</longitude>
+					<latitude>20.54825138817107</latitude>
+					<altitude>0</altitude>
+					<heading>25.27693129890365</heading>
+					<tilt>0</tilt>
+					<range>86.16948102160578</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8407383463584,20.54827828406652,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>51</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<longitude>-100.8409161865711</longitude>
+					<latitude>20.54751481724034</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02880169675294712</heading>
+					<tilt>0</tilt>
+					<range>0.1</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8409161865711,20.54751481724034,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>29</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8409058356756</longitude>
+					<latitude>20.54730090348417</latitude>
+					<altitude>0</altitude>
+					<heading>17.29449694592244</heading>
+					<tilt>0</tilt>
+					<range>95.95480844443398</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8410773583755,20.5473967950522,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>52</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8412953372593</longitude>
+					<latitude>20.54720893153601</latitude>
+					<altitude>0</altitude>
+					<heading>2.291395405954157e-05</heading>
+					<tilt>34.52543401542513</tilt>
+					<range>112.0584590254604</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8410336331577,20.54721840335718,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8413173588835</longitude>
+					<latitude>20.54643329031443</latitude>
+					<altitude>0</altitude>
+					<heading>17.29435250939828</heading>
+					<tilt>0</tilt>
+					<range>95.96633619127289</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8414286767864,20.54651097419521,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8414944043428</longitude>
+					<latitude>20.5469422886931</latitude>
+					<altitude>0</altitude>
+					<heading>6.946891643482461e-05</heading>
+					<tilt>42.40059771533968</tilt>
+					<range>92.22849889957014</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8413342047186,20.54680909036137,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>53</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8414183086076</longitude>
+					<latitude>20.54700579743969</latitude>
+					<altitude>0</altitude>
+					<heading>9.617645170193162e-05</heading>
+					<tilt>42.40059771533966</tilt>
+					<range>92.22849889605203</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8411632017349,20.54690859204381,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>26</name>
+				<description>Led ATP Enur L 100W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8410383736231</longitude>
+					<latitude>20.54698779557098</latitude>
+					<altitude>0</altitude>
+					<heading>17.29445042709695</heading>
+					<tilt>0</tilt>
+					<range>95.95480844415771</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.8411952942259,20.54709791541518,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Led Vial 50W</name>
+			<Placemark>
+				<name>04</name>
+				<description>Led Construlita 50W</description>
+				<LookAt>
+					<longitude>-100.8423315052965</longitude>
+					<latitude>20.54666327972305</latitude>
+					<altitude>0</altitude>
+					<heading>32.45438258774833</heading>
+					<tilt>0</tilt>
+					<range>133.0753037143656</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1111</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.84262915958,20.54688559781456,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07</name>
+				<open>1</open>
+				<description>Led Construlita 50W</description>
+				<LookAt>
+					<longitude>-100.8426312602069</longitude>
+					<latitude>20.54695988730226</latitude>
+					<altitude>0</altitude>
+					<heading>32.45427738321118</heading>
+					<tilt>0</tilt>
+					<range>133.0753037115551</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1111</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.8430892512013,20.54722795457971,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<open>1</open>
+				<description>Led Construlita 50W</description>
+				<LookAt>
+					<longitude>-100.8431878114954</longitude>
+					<latitude>20.54729420123675</latitude>
+					<altitude>0</altitude>
+					<heading>29.5750884512107</heading>
+					<tilt>24.52828009801972</tilt>
+					<range>99.86717396745122</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1111</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.8435177700528,20.54754076268017,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<open>1</open>
+				<description>Led Construlita 50W</description>
+				<LookAt>
+					<longitude>-100.8439428539053</longitude>
+					<latitude>20.54788187476565</latitude>
+					<altitude>0</altitude>
+					<heading>37.41379649271891</heading>
+					<tilt>19.0940604287387</tilt>
+					<range>102.7799235300697</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1111</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.8441187572383,20.54797180158006,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<open>1</open>
+				<description>Led Construlita 50W</description>
+				<LookAt>
+					<longitude>-100.8437017026805</longitude>
+					<latitude>20.54771933192496</latitude>
+					<altitude>0</altitude>
+					<heading>37.41388113360203</heading>
+					<tilt>19.09406042873868</tilt>
+					<range>102.779923527548</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1111</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.8439774533165,20.54787549367022,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<open>1</open>
+				<description>Led Construlita 50W</description>
+				<LookAt>
+					<longitude>-100.8437017026805</longitude>
+					<latitude>20.54771933192496</latitude>
+					<altitude>0</altitude>
+					<heading>37.41388113360203</heading>
+					<tilt>19.09406042873868</tilt>
+					<range>102.779923527548</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1111</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.8438390470251,20.54777109673187,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<open>1</open>
+				<description>Led Construlita 50W</description>
+				<LookAt>
+					<longitude>-100.8435012634615</longitude>
+					<latitude>20.54749272846573</latitude>
+					<altitude>0</altitude>
+					<heading>37.41395148435533</heading>
+					<tilt>19.09406042873872</tilt>
+					<range>102.7799235292849</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1111</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.843694052026,20.54766578587459,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09</name>
+				<open>1</open>
+				<description>Led Construlita 50W</description>
+				<LookAt>
+					<longitude>-100.8431878114954</longitude>
+					<latitude>20.54729420123675</latitude>
+					<altitude>0</altitude>
+					<heading>29.5750884512107</heading>
+					<tilt>24.52828009801972</tilt>
+					<range>99.86717396745122</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1111</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.8433597819941,20.54742903585755,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08</name>
+				<open>1</open>
+				<description>Led Construlita 50W</description>
+				<LookAt>
+					<longitude>-100.8431878114954</longitude>
+					<latitude>20.54729420123675</latitude>
+					<altitude>0</altitude>
+					<heading>29.5750884512107</heading>
+					<tilt>24.52828009801972</tilt>
+					<range>99.86717396745122</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1111</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.8432362318999,20.54733957142794,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06</name>
+				<open>1</open>
+				<description>Led Construlita 50W</description>
+				<LookAt>
+					<longitude>-100.8426312602069</longitude>
+					<latitude>20.54695988730226</latitude>
+					<altitude>0</altitude>
+					<heading>32.45427738321118</heading>
+					<tilt>0</tilt>
+					<range>133.0753037115551</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1111</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.8429302550798,20.54711669799391,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05</name>
+				<open>1</open>
+				<description>Led Construlita 50W</description>
+				<LookAt>
+					<longitude>-100.8426312602069</longitude>
+					<latitude>20.54695988730226</latitude>
+					<altitude>0</altitude>
+					<heading>32.45427738321118</heading>
+					<tilt>0</tilt>
+					<range>133.0753037115551</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1111</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.8427797800746,20.54700429934137,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>02</name>
+				<open>1</open>
+				<description>Led Construlita 50W</description>
+				<LookAt>
+					<longitude>-100.8423315052965</longitude>
+					<latitude>20.54666327972305</latitude>
+					<altitude>0</altitude>
+					<heading>32.45438258774833</heading>
+					<tilt>0</tilt>
+					<range>133.0753037143656</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1111</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.8423342952671,20.54665509904025,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>01</name>
+				<open>1</open>
+				<description>Led Construlita 50W</description>
+				<LookAt>
+					<longitude>-100.8423315052965</longitude>
+					<latitude>20.54666327972305</latitude>
+					<altitude>0</altitude>
+					<heading>32.45438258774833</heading>
+					<tilt>0</tilt>
+					<range>133.0753037143656</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1111</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.8421869760483,20.54655597471938,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>03</name>
+				<open>1</open>
+				<description>Led Construlita 50W</description>
+				<LookAt>
+					<longitude>-100.8423315052965</longitude>
+					<latitude>20.54666327972305</latitude>
+					<altitude>0</altitude>
+					<heading>32.45438258774833</heading>
+					<tilt>0</tilt>
+					<range>133.0753037143656</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1111</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.8424801879121,20.54677098577896,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Led Vial 75W</name>
+			<Placemark>
+				<name>42</name>
+				<open>1</open>
+				<description>Led ATP Enur L 75W</description>
+				<LookAt>
+					<longitude>-100.8406209827786</longitude>
+					<latitude>20.54836118090457</latitude>
+					<altitude>0</altitude>
+					<heading>25.27695073282414</heading>
+					<tilt>0</tilt>
+					<range>86.16948101922132</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8407270757093,20.54851499403268,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>39</name>
+				<open>1</open>
+				<description>Led ATP Enur L 75W</description>
+				<LookAt>
+					<longitude>-100.8406763502152</longitude>
+					<latitude>20.54825138817107</latitude>
+					<altitude>0</altitude>
+					<heading>25.27693129890365</heading>
+					<tilt>0</tilt>
+					<range>86.16948102160578</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8407828672782,20.54829280511398,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>36</name>
+				<open>1</open>
+				<description>Led ATP Enur L 75W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8408109065777</longitude>
+					<latitude>20.54797372521702</latitude>
+					<altitude>0</altitude>
+					<heading>20.86347494604986</heading>
+					<tilt>15.5613500995904</tilt>
+					<range>102.1576563564065</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8409221583104,20.54804539373889,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>33</name>
+				<open>1</open>
+				<description>Led ATP Enur L 75W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8411294306139</longitude>
+					<latitude>20.54773054089125</latitude>
+					<altitude>0</altitude>
+					<heading>-8.565986601156706e-05</heading>
+					<tilt>38.1675341257736</tilt>
+					<range>55.0716410637882</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.840985449258,20.54769736107531,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>31</name>
+				<open>1</open>
+				<description>Led ATP Enur L 75W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8412323555615</longitude>
+					<latitude>20.5474839494717</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0001224396422196402</heading>
+					<tilt>36.34501287643705</tilt>
+					<range>76.15079028128693</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8411909336018,20.54743663255191,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>27</name>
+				<open>1</open>
+				<description>Led ATP Enur L 75W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8410383736231</longitude>
+					<latitude>20.54698779557098</latitude>
+					<altitude>0</altitude>
+					<heading>17.29445042709695</heading>
+					<tilt>0</tilt>
+					<range>95.95480844415771</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<coordinates>-100.8412296444622,20.54711123125129,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>24</name>
+				<open>1</open>
+				<description>Led ATP Enur L 75W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8415703309891</longitude>
+					<latitude>20.54690297499558</latitude>
+					<altitude>0</altitude>
+					<heading>-1.340590354191274e-05</heading>
+					<tilt>46.94184668826605</tilt>
+					<range>98.81698680727619</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.8414358303509,20.546840217654,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21</name>
+				<open>1</open>
+				<description>Led ATP Enur L 75W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-100.8414193720156</longitude>
+					<latitude>20.54653694727055</latitude>
+					<altitude>0</altitude>
+					<heading>-5.744604461622598</heading>
+					<tilt>30.79753292194981</tilt>
+					<range>128.0215005070688</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.8414666017884,20.54652353904742,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

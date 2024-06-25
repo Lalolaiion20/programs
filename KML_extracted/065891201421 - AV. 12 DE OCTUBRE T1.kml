@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>065891201421 - AV. 12 DE OCTUBRE T1.kmz</name>
+	<StyleMap id="msn_shaded_dot013">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot007</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot018</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot018">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>0.681818</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot007">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>065891201421 - AV. 12 DE OCTUBRE T1</name>
+		<Placemark>
+			<name>01</name>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2023-10-03T15:31:02.5680623Z</begin>
+					<end>2023-10-03T15:31:02.568072399Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8352530118725</longitude>
+				<latitude>20.53384665674497</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5744760075521002</heading>
+				<tilt>12.66941889373635</tilt>
+				<range>60.13386348730899</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.8351960961005,20.53397423441273,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>02</name>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2023-10-03T15:30:51.352161999Z</begin>
+					<end>2023-10-03T15:30:51.3521726Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8352530118725</longitude>
+				<latitude>20.53384665674497</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5744760075521002</heading>
+				<tilt>12.66941889373635</tilt>
+				<range>60.13386348730899</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.8352863786253,20.53396790055268,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>03</name>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2023-10-03T15:31:18.234639599Z</begin>
+					<end>2023-10-03T15:31:18.2346493Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8352530118725</longitude>
+				<latitude>20.53384665674497</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5744760075521002</heading>
+				<tilt>12.66941889373635</tilt>
+				<range>60.13386348730899</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.8352106799018,20.53429406401158,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>04</name>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2023-10-03T15:31:08.975180699Z</begin>
+					<end>2023-10-03T15:31:08.9751908Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8352530118725</longitude>
+				<latitude>20.53384665674497</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5744760075521002</heading>
+				<tilt>12.66941889373635</tilt>
+				<range>60.13386348730899</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.8352962487381,20.53428910248735,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05</name>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2023-10-03T15:31:46.4656046Z</begin>
+					<end>2023-10-03T15:31:46.4656158Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8351937594947</longitude>
+				<latitude>20.53446732877638</latitude>
+				<altitude>0</altitude>
+				<heading>2.168942864280183</heading>
+				<tilt>6.731373219430537</tilt>
+				<range>49.57095405212763</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.8352136166699,20.53459933045211,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>06</name>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2023-10-03T15:32:07.210004099Z</begin>
+					<end>2023-10-03T15:32:07.210015299Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8351937594947</longitude>
+				<latitude>20.53446732877638</latitude>
+				<altitude>0</altitude>
+				<heading>2.168942864280183</heading>
+				<tilt>6.731373219430537</tilt>
+				<range>49.57095405212763</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.8352966104491,20.53460141174896,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>07</name>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2023-10-03T15:34:01.583874499Z</begin>
+					<end>2023-10-03T15:34:01.583888399Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8353195955596</longitude>
+				<latitude>20.53477679573039</latitude>
+				<altitude>0</altitude>
+				<heading>-2.142141939423091</heading>
+				<tilt>0</tilt>
+				<range>65.37390182782811</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.8352167310641,20.53489595936192,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>08</name>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2023-10-03T15:33:53.525742299Z</begin>
+					<end>2023-10-03T15:33:53.5257518Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8353195955596</longitude>
+				<latitude>20.53477679573039</latitude>
+				<altitude>0</altitude>
+				<heading>-2.142141939423091</heading>
+				<tilt>0</tilt>
+				<range>65.37390182782811</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.8353089281032,20.53489061919311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>09</name>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2023-10-03T15:34:23.113525199Z</begin>
+					<end>2023-10-03T15:34:23.1135374Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8350898394437</longitude>
+				<latitude>20.53528824458175</latitude>
+				<altitude>0</altitude>
+				<heading>-2.142061345014039</heading>
+				<tilt>0</tilt>
+				<range>65.3739018261888</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.8352308744984,20.53525006110159,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10</name>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2023-10-03T15:34:15.263234Z</begin>
+					<end>2023-10-03T15:34:15.2632439Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8350898394437</longitude>
+				<latitude>20.53528824458175</latitude>
+				<altitude>0</altitude>
+				<heading>-2.142061345014039</heading>
+				<tilt>0</tilt>
+				<range>65.3739018261888</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.8353106505179,20.53524410067119,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11</name>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2023-10-03T15:34:35.7014076Z</begin>
+					<end>2023-10-03T15:34:35.7014198Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8351495541834</longitude>
+				<latitude>20.53557004172885</latitude>
+				<altitude>0</altitude>
+				<heading>-2.142082292270481</heading>
+				<tilt>0</tilt>
+				<range>65.37390182770504</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.8352262010957,20.53555627586028,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12</name>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2023-10-03T15:34:43.148753699Z</begin>
+					<end>2023-10-03T15:34:43.148762799Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8351495541834</longitude>
+				<latitude>20.53557004172885</latitude>
+				<altitude>0</altitude>
+				<heading>-2.142082292270481</heading>
+				<tilt>0</tilt>
+				<range>65.37390182770504</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.8353208177059,20.53555507235011,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13</name>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2023-10-03T15:35:03.916765999Z</begin>
+					<end>2023-10-03T15:35:03.9168001Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8351489723255</longitude>
+				<latitude>20.53589405368029</latitude>
+				<altitude>0</altitude>
+				<heading>-2.142082088094686</heading>
+				<tilt>0</tilt>
+				<range>65.37390182612464</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.8352468333984,20.53587532335306,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14</name>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2023-10-03T15:34:55.943036199Z</begin>
+					<end>2023-10-03T15:34:55.943047199Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8351489723255</longitude>
+				<latitude>20.53589405368029</latitude>
+				<altitude>0</altitude>
+				<heading>-2.142082088094686</heading>
+				<tilt>0</tilt>
+				<range>65.37390182612464</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.835322150232,20.53587057448014,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15</name>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2023-10-03T15:35:27.7658702Z</begin>
+					<end>2023-10-03T15:35:27.7658844Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8351174775931</longitude>
+				<latitude>20.53614949566983</latitude>
+				<altitude>0</altitude>
+				<heading>-2.142071039019818</heading>
+				<tilt>0</tilt>
+				<range>65.37390182719749</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.8352492491433,20.53618973235206,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16</name>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2023-10-03T15:35:18.4652897Z</begin>
+					<end>2023-10-03T15:35:18.465300899Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8351174775931</longitude>
+				<latitude>20.53614949566983</latitude>
+				<altitude>0</altitude>
+				<heading>-2.142071039019818</heading>
+				<tilt>0</tilt>
+				<range>65.37390182719749</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.8353311501285,20.53618053148305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>17</name>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2023-10-03T15:36:45.0074772Z</begin>
+					<end>2023-10-03T15:36:45.007490999Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8351353027557</longitude>
+				<latitude>20.53661598526082</latitude>
+				<altitude>0</altitude>
+				<heading>11.7709813582781</heading>
+				<tilt>0</tilt>
+				<range>76.20171049874476</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.8352494989132,20.53644928809459,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>18</name>
+			<open>1</open>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2023-10-03T15:36:37.5329962Z</begin>
+					<end>2023-10-03T15:36:37.533005599Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8351353027557</longitude>
+				<latitude>20.53661598526082</latitude>
+				<altitude>0</altitude>
+				<heading>11.7709813582781</heading>
+				<tilt>0</tilt>
+				<range>76.20171049874476</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.8353192699813,20.5364490904977,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19</name>
+			<open>1</open>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<Camera>
+				<longitude>-100.834441530889</longitude>
+				<latitude>20.5361252114212</latitude>
+				<altitude>221.0042940249765</altitude>
+				<heading>-5.07066939357569</heading>
+				<tilt>15.25368124037269</tilt>
+				<roll>-0.7344631979454684</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.8352165850822,20.5366204554671,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20</name>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<Camera>
+				<longitude>-100.834441530889</longitude>
+				<latitude>20.5361252114212</latitude>
+				<altitude>221.0042940249765</altitude>
+				<heading>-5.07066939357569</heading>
+				<tilt>15.25368124037269</tilt>
+				<roll>-0.7344631979454684</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.8352693316503,20.53664191775686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>21</name>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2023-10-03T15:37:14.576779399Z</begin>
+					<end>2023-10-03T15:37:14.576791099Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8350735026438</longitude>
+				<latitude>20.5367671645604</latitude>
+				<altitude>0</altitude>
+				<heading>11.77100303770337</heading>
+				<tilt>0</tilt>
+				<range>76.20171049976726</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.8351647704721,20.5368119718092,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>22</name>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2023-10-03T15:37:25.8248371Z</begin>
+					<end>2023-10-03T15:37:25.8248471Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8350735026438</longitude>
+				<latitude>20.5367671645604</latitude>
+				<altitude>0</altitude>
+				<heading>11.77100303770337</heading>
+				<tilt>0</tilt>
+				<range>76.20171049976726</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.8352177275789,20.53682105010525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>23</name>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2023-10-03T15:37:46.502933399Z</begin>
+					<end>2023-10-03T15:37:46.502944999Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8349919377854</longitude>
+				<latitude>20.53703126690772</latitude>
+				<altitude>0</altitude>
+				<heading>11.77103165199722</heading>
+				<tilt>0</tilt>
+				<range>76.20171050026745</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.835120961651,20.53696666272776,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>24</name>
+			<description><![CDATA[<b>Luminaria: </b>LED ENUR ATP 75W<b><br>Temp. Color: </b>4200°K<b><br>Se carga a municipio: </b>si<b><br>Colonia: </b>Vialidad<b><br>Calle: </b>Av. 12 de Octubre<b>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2023-10-03T15:37:38.774800499Z</begin>
+					<end>2023-10-03T15:37:38.7748133Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-100.8349919377854</longitude>
+				<latitude>20.53703126690772</latitude>
+				<altitude>0</altitude>
+				<heading>11.77103165199722</heading>
+				<tilt>0</tilt>
+				<range>76.20171050026745</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot013</styleUrl>
+			<Point>
+				<coordinates>-100.8351775063515,20.53697769677363,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
